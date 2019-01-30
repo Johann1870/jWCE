@@ -4,7 +4,7 @@ My custom windows setup.
 
 ## Taskbar
 <img src="/resources/images/Taskbar_20190128.png" height="600" style="display:flex; float:left; margin:10px; padding:10px;">
-The taskbar is customized by running [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) and [TClock](https://github.com/White-Tiger/T-Clock/).
+The taskbar is customized by running [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) and [TClock](https://github.com/White-Tiger/T-Clock).
 It is set to Auto-hide and display on one monitor on the right side of the screen.
 
 TranslucentTB is run from a batch script scheduled by Task Scheduler.
@@ -23,17 +23,19 @@ TClock's time format
 Application shortcuts are arranged into toolbars which are located under root. Toolbars do not show text or title. Some toolbars show large icons and others small.
 ###  List of toolbars
 
-1. articulate
+1. **articulate**
     a. Articulate 360
     b. Storyline
-2. cloud
+
+2. **cloud**
     a. Backup and Sync from Google
     b. Datacastle Red
     c. Dropbox
     d. iCloud
     e. OneDrive
     f. ShareFile Desktop
-3. comm
+
+3. **comm**
     a. lync.exe (Skype for Business)
     b. Microsoft Teams
     c. Rambox
@@ -41,24 +43,28 @@ Application shortcuts are arranged into toolbars which are located under root. T
     e. Slack
     f. Telegram
     g. Yammer
-4. creative
+
+4. **creative**
     a. Audacity
     b. Google Play Music Desktop Player
     c. iTunes
     d. Mp3tag
     e. Spotify
     f. VLC media player
-5. datavis
+
+5. **datavis**
     a. draw.io
     b. gvedit.exe
     c. Tableau Reader
     d. yed
-6. design
+
+6. **design**
     a. Designer
     b. ImageMagick Display
     c. Inkscape
     d. Pencil
-7. dev
+
+7. **dev**
     a. Arachnophilia
     b. atom
     c. Eclipse Java Oxygen
@@ -68,7 +74,8 @@ Application shortcuts are arranged into toolbars which are located under root. T
     g. Spyder
     h. Sublime Text 3
     i. Visual Studio 2017
-8. files
+
+8. **files**
     a. 7-zip File Manager
     b. Double Commander
     c. Explorer++
@@ -78,7 +85,8 @@ Application shortcuts are arranged into toolbars which are located under root. T
     g. FreeCommander
     h. Q-Dir
     i. XenonPortable
-9. office
+
+9. **office**
     a. Access
     b. Excel
     c. Microsoft Store
@@ -87,24 +95,28 @@ Application shortcuts are arranged into toolbars which are located under root. T
     f. PowerPoint
     g. Publisher
     h. Word
-10. pm
+
+10. **pm**
     a. Bitnami Redmine Stack Manager Tool
     b. GanttProject
     c. MeisterTask
     d. ProjectLibre
     e. Quip
     f. Trello
-11. prod
+
+11. **prod**
     a. CherryTree
     b. Evernote
     c. speedcrunch
-12. repo
+
+12. **repo**
     a. Git Bash
     b. Git GUI
     c. GitHub Desktop
     d. GitKraken
     e. Sourcetree
-13. screenshare
+
+13. **screenshare**
     a. MirrorOp
     b. Remote Desktop Connection
     c. Reservationless-Plus VoIP
@@ -112,12 +124,14 @@ Application shortcuts are arranged into toolbars which are located under root. T
     e. TeamViewer 14
     f. TeamViewer 13.0.281
     g. WebEx Productivity Tools
-14. ss
+
+14. **ss**
     a. Greenshot
     b. ShareX
     c. Snagit 12
     d. Snipping Tool
-15. term
+
+15. **term**
     a. Anaconda Navigator
     b. Command Prompt
     c. ConEmu64
@@ -126,7 +140,8 @@ Application shortcuts are arranged into toolbars which are located under root. T
     f. IDLE (Python GUI)
     g. Kali Linux (WSL)
     h. Ubuntu (WSL)
-16. util
+
+16. **util**
     a. Admin Panel
       <pre style="display:block;margin-left:3em; text-indent:0em;padding:5px;"><code>C:\Windows\explorer.exe shell:::{ED7BA470-8E54-465E-825C-99712043E01C}</code></pre>
     b. Apps
@@ -151,7 +166,8 @@ Application shortcuts are arranged into toolbars which are located under root. T
     t. Task Manager
     u. tinySpell
     v. Winaero Tweaker
-17. web
+
+17. **web**
     a. Brave
     b. Chrome Canary
     c. Chromium
@@ -171,7 +187,8 @@ Application shortcuts are arranged into toolbars which are located under root. T
     q. Opera
     r. Chrome - work profile 4
     s. Vivaldi
-18. writing
+
+18. **writing**
     a. EPS Viewer
     b. Ghostscript
     c. MikTeX
@@ -204,7 +221,7 @@ See \Command Prompt\cmdrc.cmd
     a. create an xml file from the list of [InstalledPackages](/choco/InstalledPackages.txt) as per [choco-autoinstaller](https://gitlab.com/luukgrefte/choco-autoinstalller).
 
         *See also* [chocolatey documentation](https://chocolatey.org/docs/commands-install)
-        
+
     b. run `cinst InstalledPackages.config`
 
 ## Conemu
