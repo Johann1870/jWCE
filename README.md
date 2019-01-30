@@ -4,7 +4,7 @@ My custom windows setup.
 
 ## Taskbar
 <img src="/resources/images/Taskbar_20190128.png" height="600" style="display:flex; float:left; margin:10px; padding:10px;">
-The taskbar is customized by running [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) and [TClock](https://github.com/White-Tiger/T-Clock).
+The taskbar is customized by running [TranslucentTB](/TranslucentTB/TranslucentTB) and [TClock](https://github.com/White-Tiger/T-Clock).
 It is set to Auto-hide and display on one monitor on the right side of the screen.
 
 TranslucentTB is run from a batch script scheduled by Task Scheduler.
@@ -24,10 +24,12 @@ Application shortcuts are arranged into toolbars which are located under root. T
 ###  List of toolbars
 
 1. **articulate**
+
     a. Articulate 360
     b. Storyline
 
 2. **cloud**
+
     a. Backup and Sync from Google
     b. Datacastle Red
     c. Dropbox
@@ -36,6 +38,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     f. ShareFile Desktop
 
 3. **comm**
+
     a. lync.exe (Skype for Business)
     b. Microsoft Teams
     c. Rambox
@@ -45,6 +48,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     g. Yammer
 
 4. **creative**
+
     a. Audacity
     b. Google Play Music Desktop Player
     c. iTunes
@@ -53,18 +57,21 @@ Application shortcuts are arranged into toolbars which are located under root. T
     f. VLC media player
 
 5. **datavis**
+
     a. draw.io
     b. gvedit.exe
     c. Tableau Reader
     d. yed
 
 6. **design**
+
     a. Designer
     b. ImageMagick Display
     c. Inkscape
     d. Pencil
 
 7. **dev**
+
     a. Arachnophilia
     b. atom
     c. Eclipse Java Oxygen
@@ -76,6 +83,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     i. Visual Studio 2017
 
 8. **files**
+
     a. 7-zip File Manager
     b. Double Commander
     c. Explorer++
@@ -87,6 +95,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     i. XenonPortable
 
 9. **office**
+
     a. Access
     b. Excel
     c. Microsoft Store
@@ -97,6 +106,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     h. Word
 
 10. **pm**
+
     a. Bitnami Redmine Stack Manager Tool
     b. GanttProject
     c. MeisterTask
@@ -105,11 +115,13 @@ Application shortcuts are arranged into toolbars which are located under root. T
     f. Trello
 
 11. **prod**
+
     a. CherryTree
     b. Evernote
     c. speedcrunch
 
 12. **repo**
+
     a. Git Bash
     b. Git GUI
     c. GitHub Desktop
@@ -117,6 +129,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     e. Sourcetree
 
 13. **screenshare**
+
     a. MirrorOp
     b. Remote Desktop Connection
     c. Reservationless-Plus VoIP
@@ -126,12 +139,14 @@ Application shortcuts are arranged into toolbars which are located under root. T
     g. WebEx Productivity Tools
 
 14. **ss**
+
     a. Greenshot
     b. ShareX
     c. Snagit 12
     d. Snipping Tool
 
 15. **term**
+
     a. Anaconda Navigator
     b. Command Prompt
     c. ConEmu64
@@ -142,6 +157,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     h. Ubuntu (WSL)
 
 16. **util**
+
     a. Admin Panel
       <pre style="display:block;margin-left:3em; text-indent:0em;padding:5px;"><code>C:\Windows\explorer.exe shell:::{ED7BA470-8E54-465E-825C-99712043E01C}</code></pre>
     b. Apps
@@ -168,6 +184,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     v. Winaero Tweaker
 
 17. **web**
+
     a. Brave
     b. Chrome Canary
     c. Chromium
@@ -189,6 +206,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
     s. Vivaldi
 
 18. **writing**
+
     a. EPS Viewer
     b. Ghostscript
     c. MikTeX
@@ -210,14 +228,17 @@ See \Command Prompt\cmdrc.cmd
 
 ## Chocolatey
 1. Install [chocolatey](https://chocolatey.org/install)
+
     a. cmd
     <pre><code>@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"</code></pre>
     b. PowerShell
+
         i. Run `Get-ExecutionPolicy`. If it returns `Restricted`, then run `Set-ExecutionPolicy AllSigned` or `Set-ExecutionPolicy Bypass -Scope Process`
         ii. run
     <pre><code>Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))</code></pre>
 
 2. Install programs
+
     a. create an xml file from the list of [InstalledPackages](/choco/InstalledPackages.txt) as per [choco-autoinstaller](https://gitlab.com/luukgrefte/choco-autoinstalller).
 
         *See also* [chocolatey documentation](https://chocolatey.org/docs/commands-install)
