@@ -1,0 +1,54 @@
+{
+  "name": "Home-highres2",
+  "rules": [{
+    "dock": {
+      "monitor": 2,
+      "values": [0, 50, 65, 100]
+    },
+    "trigger": {
+      "monitor": 2,
+      "type": "area",
+      "values": [15, 50, 50, 100]
+    }
+  }, {
+    "dock": {
+      "monitor": 2,
+      "values": [65, 50, 100, 100]
+    },
+    "trigger": {
+      "monitor": 2,
+      "type": "area",
+      "values": [75, 50, 90, 100]
+    }
+  }, {
+    "dock": {
+      "monitor": 2,
+      "values": [79, 0, 100, 50]
+    },
+    "trigger": {
+      "monitor": 2,
+      "type": "area",
+      "values": [80, 0, 90, 50]
+    }
+  }, {
+    "dock": {
+      "monitor": 2,
+      "values": [35, 0, 65, 50]
+    },
+    "trigger": {
+      "monitor": 2,
+      "type": "area",
+      "values": [40, 0, 50, 50]
+    }
+  }, {
+    "dock": {
+      "monitor": 2,
+      "values": [0, 0, 35, 50]
+    },
+    "trigger": {
+      "monitor": 2,
+      "type": "area",
+      "values": [10, 0, 20, 50]
+    }
+  }]
+}

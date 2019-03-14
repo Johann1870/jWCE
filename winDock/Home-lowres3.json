@@ -1,0 +1,37 @@
+{
+  "name": "Home-lowres3",
+  "rules": [{
+    "dock": {
+      "monitor": 3,
+      "values": [23, 0, 100, 100]
+    },
+    "trigger": {
+      "monitor": 3,
+      "pos": "right",
+      "type": "edge",
+      "values": [0, 100]
+    }
+  }, {
+    "dock": {
+      "monitor": 3,
+      "values": [0, 0, 25, 60]
+    },
+    "trigger": {
+      "monitor": 3,
+      "pos": "left",
+      "type": "edge",
+      "values": [0, 50]
+    }
+  }, {
+    "dock": {
+      "monitor": 3,
+      "values": [0, 35, 48, 100]
+    },
+    "trigger": {
+      "monitor": 3,
+      "pos": "left",
+      "type": "edge",
+      "values": [60, 100]
+    }
+  }]
+}

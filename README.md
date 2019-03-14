@@ -317,3 +317,11 @@ Sidebar Theme
 `apm list --installed --bare > package-list.txt`
 
 2. Install packages `apm install --packages-file package-list.txt`
+
+## WinDock
+highres and lowres 3rd monitor profiles
+
+## Jiracli
+A cli client for Jira
+
+
