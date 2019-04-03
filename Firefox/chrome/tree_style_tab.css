@@ -2,7 +2,7 @@
 #tabbar {
 	border: 0;
 	overflow-y: scroll !important;
-	margin-left: -18px !important;
+	margin-left: -8px !important;
 }
 
 /* Hide .twisty and adjust margins so favicons have 7px on left. */
