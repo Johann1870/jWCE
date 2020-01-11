@@ -1,4 +1,5 @@
-</li></li></li></li>$1\<\/li\>$$1\<\/li\>$$1\<\/li\>$# johann1870's Windows Custom Environment
+</li></li></li></li>$1\<\/li\>$$1\<\/li\>$$1\<\/li\>$
+# johann1870's Windows Custom Environment
 My custom windows setup.
 <style>
 ol ol {
@@ -29,6 +30,7 @@ TClock's time format
 </pre>
 
 Application shortcuts are arranged into toolbars which are located under root. Toolbars do not show text or title. Some toolbars show large icons and others small.
+
 ###  List of toolbars
 <ol>
   <li>**articulate**</li>
@@ -217,9 +219,11 @@ Application shortcuts are arranged into toolbars which are located under root. T
 <ol>
 <li>EPS Viewer</li>
 <li>Ghostscript</li>
+  <ol>
     <li>MikTeX</li>
     <li>TeXworks</li>
     <li>Typora</li>
+    </ol>
   </ol>
 </ol>
 ## Cygwin
@@ -323,5 +327,3 @@ highres and lowres 3rd monitor profiles
 
 ## Jiracli
 A cli client for Jira
-
-

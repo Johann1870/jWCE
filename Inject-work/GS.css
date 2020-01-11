@@ -1,0 +1,74 @@
+#Gainsight {
+  font-size: 45px;
+  font-family: "Arial";
+  font-weight: 700;
+  color: #565656;
+  position: fixed;
+  top: 0;
+  left 0;
+  z-index: 999;
+  width: 100%;
+  height: 65px;
+  padding-bottom: 2px;
+  padding-left: 0px;
+  background-color: #00b4e5;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #00b4e5;
+
+}
+
+#gstext {
+  margin-left:20rem;
+  top:0rem;
+  text-align: center;
+  position:relative;
+  color:#fff;
+}
+
+
+
+.gs-topNav {
+ height:1rem;
+ background-color:#00b4e5;
+ width:100%
+}
+.gs-g-logo {
+ width:8.1rem;
+ height:4.9rem;
+ margin-top:.1rem;
+ border-left-width:0;
+ border-bottom-width:0;
+ border-left-style:solid;
+ border-bottom-style:solid;
+ border-top:4.9rem solid #ccf0fa;
+ border-right:3.1rem solid transparent;
+ position:relative;
+ top:0;
+ right:0;
+ bottom:0;
+ left:0
+}
+
+.gs-g-logo-icon {
+ background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkUwNDY5RjREQjI5RDExRTVBNTI1RTBENTYxMUMxNTA1IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkUwNDY5RjRFQjI5RDExRTVBNTI1RTBENTYxMUMxNTA1Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RTA0NjlGNEJCMjlEMTFFNUE1MjVFMEQ1NjExQzE1MDUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RTA0NjlGNENCMjlEMTFFNUE1MjVFMEQ1NjExQzE1MDUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6UC4PbAAACfUlEQVR42qyUXUgUURTHzx3H3dVNErMPowwxtpY+XizItSwJE6JIe+ghSSILLCOQwKeKqNeieggWQnoQek2MypcsCiMIy4qCoB6yciVaZ912dnZ2dab/yL10HWcgorv8du8999z/nnPnzGG2bdP/HKrzdaSrx2tvI2gFB8Fayf4DDIMHYEAY++PX/gh6jBvgjM9eGagFJ8A70AWei03Fw3nEQ2wafAVpl30T91/vJ/gYxKT1a9ABqsEa/tsG7ko+d8CXeXfIRy+ok9bXQY9HpAOcTrAbtMsOIsIQuCTZn3mIuUcfOOw2CsH9ICjZj/1r2QjBJsn2Bnz6WwGLKVRq/CL3HdZLPk99zrZzv1lnYRPDx2aVqQT7vCqahOmiLLhMOpjwETwOds2JMUaKZdFS7Tt9qNlCQ3tOkhAUKWvSwRU+glkRmSO2JDVJY+sa9KG9KFlFTbtTfgk28Pk2H8EL4DZDypXahP02Ur94uOV0nPI5Il3DNZTOE3Sq/Sifb+VRTs5dulJExTMmlWW0UWZbo4uMNI1Fd9Kj5lNEeaOPdJQmfNwRDoJbfI4gKM4bAwXzWUqHK+hjTR3ZOFhQg/QqugP/NBsgPWVBrGhBt+Ed5Cbo5usD4DI4HzIN+lkeohcNqOHiAITQ7jJTIBmBmCIFseBdPgumpPU51NhIiZk5pBZyJZTLoDUkVUolNtOMeQViTocR0ZV7vcsmaOR9rtpGwaLGYuPLa2NPGjsSxJhOBdO5+ZUeD+yql6Az3vOn3R/OTreOV0VosKWbrHBFFSJDYkzOTvj38iB8G2wmUDDbjFB4+72mzn0QayZtYjVSdBoIaoS+8Yb6ENx3H/4twAAOs7hZ+abiKwAAAABJRU5ErkJggg==) no-repeat 0 0;
+ background-size:auto;
+ position:absolute;
+ top:-45px;
+ right:0;
+ bottom:0;
+ left:40px
+}
+
+.gs-top-hamburger-icon {
+ width:10rem;
+ height:4.1rem;
+ margin-top:1rem;
+ background:url(https://staticjs.gainsightapp.net/7.3.1.005/copilot/images/509a023b02aacd746831af0c15cff807.png) no-repeat 0 -2391px;
+
+ cursor:pointer
+}
+
+.left {
+ float:left!important
+}
