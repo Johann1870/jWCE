@@ -18,7 +18,8 @@
 
 /* Hide close buttons on tabs. */
 .tab .closebox {
-	visibility: collapse;
+	/*visibility: collapse;*/
+        
 }
 
 /* Hide sound playing/muted button. */
@@ -117,4 +118,14 @@
 /* Adjust style for tab that is muted. */
 .tab.muted {
 	opacity: 0.5;
+}
+
+
+/* Hide splitter, when using Tree Style Tab. */
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] + #sidebar-splitter {
+	display: none !important;
+}
+/* Hide sidebar header, when using Tree Style Tab. */
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
+	visibility: collapse;
 }
