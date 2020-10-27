@@ -89,3 +89,72 @@ toolbarbutton.bookmark-item:not(.subviewbutton) {
   z-index: 1;
   border-right: 1px solid black !important;
 }
+
+/* ##### BOOKMARK FOLDERS ########################################## */
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* set default namespace to XUL */
+
+#personal-bookmarks .bookmark-item[container][label="ATL"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/atlassian.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="SF"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/salesforce.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="GS"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/gainsight.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="ORA"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/ora.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="WaW"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/waw.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="MS"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/ms_office.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="MCG"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/hearst.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="MCG Sol"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/mcg.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="🎓"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/mcg.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="SM"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/surveymonkey.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="⛅"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/thermometer.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="📚"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/ref.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="💻"] {
+ list-style-image:url("file:///W:/Media/icons/custom emoji/code.png") !important;
+ -moz-image-region:auto !important;
+}
