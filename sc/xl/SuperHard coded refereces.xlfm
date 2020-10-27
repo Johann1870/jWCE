@@ -1,0 +1,28 @@
+'formula for superhard-coding to prevent ref errors when user cuts or moves cells
+
+=INDIRECT( "A"&ROW())&INDIRECT( "B"&ROW())&INDIRECT( "C"&ROW())&INDIRECT( "D"&ROW())
+
+=INDIRECT(
+    "A" &
+    ROW(
+
+    )
+) &
+INDIRECT(
+    "B" &
+    ROW(
+
+    )
+) &
+INDIRECT(
+    "C" &
+    ROW(
+
+    )
+) &
+INDIRECT(
+    "D" &
+    ROW(
+
+    )
+)

@@ -1,0 +1,29 @@
+'LMS Reports Validation for Conditional Formatting
+'checks to make sure only yes or no is entered in the cell. Ignores blanks and is case INsensitive
+'Format
+'	Number: 
+'	Font: 	Yellow
+'	Border:
+'	Fill:	Red
+'Range:	=$L$23:$L$2500
+
+
+=AND(NOT(OR(IF(L23="yes",TRUE,FALSE),IF(L23="no",TRUE,FALSE))),L23<>"")
+
+=AND(
+    NOT(
+        OR(
+            IF(
+                L23 = "yes",
+                TRUE,
+                FALSE
+            ),
+            IF(
+                L23 = "no",
+                TRUE,
+                FALSE
+            )
+        )
+    ),
+    L23 <> ""
+)

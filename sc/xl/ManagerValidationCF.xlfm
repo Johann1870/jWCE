@@ -1,0 +1,32 @@
+'Conditional format formula
+'Uses hard coded cell references
+'J. Ditzel, Aug 2017
+'
+'checks to make sure manager IS NOT their own manager, but
+'IS in the user column 
+'
+'Format
+'	Number: 
+'	Font: 	Yellow
+'	Border:
+'	Fill:	Red
+'Range:	=$H$23:$H$2500
+
+=AND(
+    NOT(
+        AND(
+            COUNTIF(
+                $E23,
+                $H23
+            ) = 0,
+            COUNTIF(
+                $E:$E,
+                $H23
+            ) = 1
+        )
+    ),
+    H23 <> ""
+)
+
+
+

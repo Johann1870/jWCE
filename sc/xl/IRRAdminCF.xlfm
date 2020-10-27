@@ -1,0 +1,33 @@
+'IRR Admin Validation for Conditional Formatting
+'checks to make sure only yes or no is entered in the cell. Ignores blanks and is case INsensitive.
+'Also checks that the user has Access before allowing yes for Admin rights.
+'Format
+'	Number: 
+'	Font: 	Yellow
+'	Border:
+'	Fill:	Red
+'Range:	=$J$23:$J$2500
+
+
+=AND(NOT(OR(IF(AND(J23="yes",$I23="yes"),TRUE,FALSE),IF(J23="no",TRUE,FALSE))),J23<>"")
+
+=AND(
+    NOT(
+        OR(
+            IF(
+                AND(
+                    J23 = "yes",
+                    $I23 = "yes"
+                ),
+                TRUE,
+                FALSE
+            ),
+            IF(
+                J23 = "no",
+                TRUE,
+                FALSE
+            )
+        )
+    ),
+    J23 <> ""
+)

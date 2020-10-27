@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration]
+"CDNBaseURL"="http://officecdn.microsoft.com/pr/64256afe-f5d9-4f86-8936-8840a6a4f5be"
+"UpdateChannel"="http://officecdn.microsoft.com/pr/64256afe-f5d9-4f86-8936-8840a6a4f5be"
+"UpdateChannelChanged"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Updates]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\office\16.0\common\OfficeUpdate]
+"updatebranch"="FirstReleaseCurrent"
+"HideEnableDisableUpdates"=dword:0
+"hideupdatenotifications"=dword:0
+"officemgmtcom"=dword:0

@@ -1,0 +1,29 @@
+'IRR Access Validation for Conditional Formatting
+'checks to make sure only yes or no is entered in the cell. Ignores blanks and is case INsensitive
+'Format
+'	Number: 
+'	Font: 	Yellow
+'	Border:
+'	Fill:	Red
+'Range:	=$I$23:$I$2500
+
+
+=AND(NOT(OR(IF(I23="yes",TRUE,FALSE),IF(I23="no",TRUE,FALSE))),I23<>"")
+
+=AND(
+    NOT(
+        OR(
+            IF(
+                I23 = "yes",
+                TRUE,
+                FALSE
+            ),
+            IF(
+                I23 = "no",
+                TRUE,
+                FALSE
+            )
+        )
+    ),
+    I23 <> ""
+)

@@ -1,0 +1,78 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, March 20, 2018 16:31:01
+   Source : N:\OTC Team\
+     Dest : P:\Online Training Center Projec - Doc\OTC_Shares_bak\
+
+    Files : *.*
+	    
+  Options : *.* /TS /NDL /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /NP /XX /MT:10 /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	    New File  		  418166 2018/03/20 18:44:02	N:\OTC Team\Team Resources\Icons.xlsx
+	    Newer     		    9276 2018/03/20 01:27:28	N:\OTC Team\Team Resources\Missing Screenshots.xlsx
+	    Newer     		   14506 2018/03/20 18:35:25	N:\OTC Team\Team Resources\Module Names.xlsm
+	    New File  		     165 2018/03/20 00:37:52	N:\OTC Team\Team Resources\~$Case Studies to Add.xlsm
+	    New File  		     165 2018/03/20 18:42:57	N:\OTC Team\Team Resources\~$Icons.xlsx
+	    Newer     		     162 2018/03/20 19:34:34	N:\OTC Team\Team Resources\~$yle Guide.docx
+	    Newer     		  189575 2018/03/20 17:01:31	N:\OTC Team\Team Resources\Project Tracking\OTC LMS Build.pod
+	    Newer     		   36648 2018/03/20 20:28:35	N:\OTC Team\Team Resources\Project Tracking\Project Track v2.xlsm
+	    New File  		   7.3 m 2018/03/20 19:36:27	N:\OTC Team\Team Resources\Shutterstock Images\AfAmSenior_539144650.jpg
+	    New File  		   8.3 m 2018/03/19 23:30:58	N:\OTC Team\Team Resources\Shutterstock Images\CAT-scan-machine.jpg
+	    New File  		   8.7 m 2018/03/19 23:32:13	N:\OTC Team\Team Resources\Shutterstock Images\doctor-pocket-toys-pediatric.jpg
+	    New File  		   2.8 m 2018/03/20 19:37:22	N:\OTC Team\Team Resources\Shutterstock Images\hospital-corridor_528854752.jpg
+	    New File  		  10.2 m 2018/03/19 23:29:58	N:\OTC Team\Team Resources\Shutterstock Images\little-boy-dr-office.jpg
+	    New File  		  19.7 m 2018/03/19 23:53:19	N:\OTC Team\Team Resources\Shutterstock Images\middle-age-white-male.jpg
+	    New File  		   5.1 m 2018/03/19 23:51:08	N:\OTC Team\Team Resources\Shutterstock Images\Senior-AfAm-Male.jpg
+	    Newer     		  770560 2018/03/20 20:53:55	N:\OTC Team\Team Resources\Shutterstock Images\Thumbs.db
+	    Newer     		   49072 2018/03/19 23:34:06	N:\OTC Team\Storyline Files\Version 1\Software\SoftwareCollab\CWQI.one
+	    Newer     		  326968 2018/03/20 22:38:57	N:\OTC Team\Storyline Files\Version 1\Software\SoftwareCollab\Indicia.one
+	    Newer     		    6688 2018/03/20 17:04:16	N:\OTC Team\Storyline Files\Version 1\Software\SoftwareCollab\Open Notebook.onetoc2
+	    New File  		   30488 2018/03/20 17:06:07	N:\OTC Team\Storyline Files\Version 1\Software\SoftwareCollab\Review.one
+	    Newer     		  15.4 m 2018/03/20 18:46:23	N:\OTC Team\Storyline Files\Version 1\Content\GRC\Clinical Indications\GRC_Clinical Indications for Admission.story
+	    Newer     		   2.3 m 2018/03/20 18:21:17	N:\OTC Team\Storyline Files\Version 1\Content\GRC\Competency Exam\GRC_Competency.story
+	    Newer     		  17.3 m 2018/03/20 20:45:09	N:\OTC Team\Storyline Files\Version 1\Content\GRC\General Recovery Course\General Recovery Care - General Recovery Course.story
+	    Newer     		  16.3 m 2018/03/20 18:53:52	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Clinical Indications\ISC_Clinical Indications for Admission.story
+	    Newer     		   2.8 m 2018/03/20 22:16:29	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Competency Test\Competency.story
+	    Newer     		   8.6 m 2018/03/20 19:09:33	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Extended Stay\ISC_Extended Stay.story
+	    Newer     		   9.6 m 2018/03/20 20:24:42	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Intro\ISC_Introduction.story
+	    New File  		  21.6 m 2018/03/19 16:26:45	N:\OTC Team\Storyline Files\Version 1\Content\ISC\ORC\ISC_Optimal Recovery Course (for Jayde - Cleanup is INCOMPLETE).story
+	    New File  		  20.6 m 2018/03/20 18:46:14	N:\OTC Team\Storyline Files\Version 1\Content\ISC\RRG\ISC_Rapid Review Guidelines.story
+	    Newer     		  10.8 m 2018/03/20 17:55:57	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Quick Start\ISC_Quick Start.story
+	    Newer     		  35.0 m 2018/03/20 16:15:03	N:\OTC Team\Storyline Files\Version 1\Software\CareWebQI\RFC\CWQI_RFC_Incomplete.story
+	    New File  		   62034 2018/03/20 15:45:48	N:\OTC Team\Storyline Files\Version 1\Content\GRC\General Recovery Course\Images\GRC_SG-HNS.png
+	    Newer     		  313344 2018/03/20 15:38:48	N:\OTC Team\Storyline Files\Version 1\Content\GRC\General Recovery Course\Images\Thumbs.db
+	    New File  		  309779 2018/01/29 19:50:28	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Competency Test\ISC CT Case Studies\ISC_CT_Case_Study_Jake_21Ed..pdf
+	    New File  		  151310 2018/01/29 20:34:35	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Competency Test\ISC CT Case Studies\ISC_CT_Case_Study_Karen_21Ed.pdf
+	    New File  		  170930 2018/01/29 19:50:27	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Competency Test\ISC CT Case Studies\ISC_CT_Case_Study_Linda_21Ed.pdf
+	    New File  		  247980 2018/01/29 20:34:36	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Competency Test\ISC CT Case Studies\ISC_CT_Case_Study_Patty_21Ed.pdf
+	    New File  		  272020 2018/01/29 20:34:36	N:\OTC Team\Storyline Files\Version 1\Content\ISC\Competency Test\ISC CT Case Studies\ISC_CT_Case_Study_Virginia_21Ed.pdf
+	    New File  		  18.6 m 2018/03/01 00:15:12	N:\OTC Team\Storyline Files\Version 1\Content\ISC\RRG\Archive\ISC_RRG_Original.story
+	    New File  		   1.3 m 2018/01/30 21:16:09	N:\OTC Team\Storyline Files\Version 1\Content\ISC\RRG\Archive\Scene33.story
+	    Newer     		   2.2 m 2018/03/20 19:26:54	N:\OTC Team\Storyline Files\Version 1\Software\CareWebQI\HC\CWQI HC Documenting\CWQI_HC_Documenting_Incomplete.story
+	    Newer     		  37.4 m 2018/03/20 22:10:48	N:\OTC Team\Storyline Files\Version 1\Software\CareWebQI\ISC\Documenting ISC\CWQI_ISC_Documenting_Incomplete.story
+	    New File  		  34.3 m 2018/03/20 05:16:54	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM BHC - Documenting\Documenting_BHC_Incomplete_V2.story
+	    New File  		  37.3 m 2018/03/20 19:04:12	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM BHC - Documenting\Documenting_BHC_Incomplete_V3.story
+	    New File  		  31.4 m 2018/03/19 23:28:27	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM GRC - Basic\Indicia_GRC_Incomplet_V2.story
+	    Newer     		  13.7 m 2018/03/20 19:07:03	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM ISC - Basic Observation\Indicia_ISC_Observation_incomplete_V2.story
+	    Newer     		  40.3 m 2018/03/20 20:02:03	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM ISC - Documenting\Documenting_ISC_Incomplete_V2.story
+	    New File  		  36.1 m 2018/03/20 23:01:49	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM RFC - Basic\Indicia_RFC_Incomplete_V2.story
+	    Newer     		   36433 2018/03/20 22:45:40	N:\OTC Team\Storyline Files\Version 1\Software\CareWebQI\HC\CWQI HC Documenting\Case Studies\CWQI_HC_Case_Study_Jim.docx
+	    Newer     		  201102 2018/03/20 22:45:12	N:\OTC Team\Storyline Files\Version 1\Software\CareWebQI\HC\CWQI HC Documenting\Case Studies\CWQI_HC_Case_Study_Jim.pdf
+	    New File  		  113474 2018/02/14 22:00:46	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM RFC - Basic\PDF Case Studies\Indicia_RFC_Case_Study_Betty.21Ed.docx
+	    New File  		  166637 2018/01/31 00:18:06	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM RFC - Basic\PDF Case Studies\Indicia_RFC_Case_Study_Lily.21Ed.docx
+	    New File  		  162637 2018/01/31 00:18:06	N:\OTC Team\Storyline Files\Version 1\Software\Indicia\ICM\ICM RFC - Basic\PDF Case Studies\Indicia_RFC_Case_Study_Lily.21Ed.pdf
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       596       596       593         0         0         3
+   Files :     10109        53     10056         0         0       458
+   Bytes :  16.756 g  480.27 m  16.287 g         0         0   1.581 g
+   Times :   0:17:18   0:01:42                       0:00:00   0:00:12
+   Ended : Tuesday, March 20, 2018 16:32:56
+

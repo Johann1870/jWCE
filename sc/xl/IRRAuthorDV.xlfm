@@ -1,0 +1,38 @@
+'IRR Author
+'Data validation formula
+'Uses hard coded cell references
+'J. Ditzel, Aug 2017
+'
+'checks to make sure only yes or no is entered in the cell. Ignores blanks and is case INsensitive
+'Also checks that the user has Access before allowing yes for Author rights.
+'
+'Input Message:
+'	Title: Permissions - IRR AUTHOR
+'	Input message: Please specify if the user should have access with 
+'Yes or No.
+'
+'Error Alert:
+'	Style: Stop
+'	Title: Error
+'	Error message:	+ Please type Yes or No. Blanks will be regarded as No.
+ 
+'					+ User must have access to IRR to be an Author.
+
+
+=OR(IF(AND(K23="yes",$I23="yes"),TRUE,FALSE),IF(K23="no",TRUE,FALSE))
+
+=OR(
+    IF(
+        AND(
+            K23 = "yes",
+            $I23 = "yes"
+        ),
+        TRUE,
+        FALSE
+    ),
+    IF(
+        K23 = "no",
+        TRUE,
+        FALSE
+    )
+)

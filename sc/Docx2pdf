@@ -1,0 +1,15 @@
+@ECHO OFF
+SETLOCAL
+SET "sourcedir=C:\Users\jditzel\snadbox"
+PUSHD "%sourcedir%"
+FOR /f "delims=" %%a IN (
+ 'dir /b /s /a-d *.pdf *.docx '
+ ) DO (
+ IF /i "%%~xa"==".pdf" (
+  IF NOT EXIST "%%~dpna.docx" ECHO pandoc "%%a" -f pdf -t docx -o "%%~dpna.docx"
+ ) ELSE (
+  IF NOT EXIST "%%~dpna.pdf" ECHO pandoc "%%a" -f docx -t pdf -o "%%~dpna.pdf"
+ )
+)
+popd
+GOTO :EOF

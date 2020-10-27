@@ -1,0 +1,38 @@
+'IRR Admin
+'Data validation formula
+'Uses hard coded cell references
+'J. Ditzel, Aug 2017
+'
+'checks to make sure only yes or no is entered in the cell. Ignores blanks and is case INsensitive
+'Also checks that the user has Access before allowing yes for Admin rights.
+'
+'Input Message:
+'	Title: Permissions - IRR ADMIN
+'	Input message: Please specify if the user should have access with 
+'Yes or No.
+'
+'Error Alert:
+'	Style: Stop
+'	Title: Error
+'	Error message:	+ Please type Yes or No. Blanks will be regarded as No.
+ 
+'					+ User must have access to IRR to be an Admin.
+
+
+=OR(IF(AND(J23="yes",$I23="yes"),TRUE,FALSE),IF(J23="no",TRUE,FALSE))
+
+=OR(
+    IF(
+        AND(
+            J23 = "yes",
+            $I23 = "yes"
+        ),
+        TRUE,
+        FALSE
+    ),
+    IF(
+        J23 = "no",
+        TRUE,
+        FALSE
+    )
+)

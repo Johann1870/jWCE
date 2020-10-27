@@ -1,0 +1,42 @@
+'Email Validation for Conditional Formatting
+'Format
+'	Number: 
+'	Font: 	Yellow
+'	Border:
+'	Fill:	Red
+'Range:	=$E$23:$E$2500
+=AND(
+    NOT(
+        AND(
+            SUMPRODUCT(
+                --ISNUMBER(
+                    FIND(
+                        Disallowed_Chars,
+                        E23
+                    )
+                )
+            ) < 1,
+            OR(
+                ISNUMBER(
+                    MATCH(
+                        "?*@*.??",
+                        E23,
+                        0
+                    )
+                ),
+                ISNUMBER(
+                    MATCH(
+                        "?*@*.???",
+                        E23,
+                        0
+                    )
+                )
+            ),
+            COUNTIF(
+                $E:$E,
+                $E23
+            ) = 1
+        )
+    ),
+    E23 <> ""
+)

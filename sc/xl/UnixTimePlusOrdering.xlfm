@@ -1,0 +1,37 @@
+'Converts timestamp from Totara log report to approximate unix code and adds an ordering number
+
+=(DATEVALUE(LEFT([@Time],FIND(",",[@Time])-1))+TIMEVALUE(RIGHT([@Time],5))-DATE(1970,1,1))*86400&"_"&TEXT((IF($B2=$B1,RIGHT($A1,1)+1,1)),"000")
+
+
+
+=(    DATEVALUE(
+        LEFT(
+            [@Time],
+            FIND(
+                ",",
+                [@Time]
+            ) - 1
+        )
+    ) +
+    TIMEVALUE(
+        RIGHT(
+            [@Time],
+            5
+        )
+    ) -
+    DATE(
+        1970,
+        1,
+        1
+    ) ) * 86400 & "_" &
+TEXT(
+    (        IF(
+            $B2 = $B1,
+            RIGHT(
+                $A1,
+                1
+            ) + 1,
+            1
+        ) ),
+    "000"
+)

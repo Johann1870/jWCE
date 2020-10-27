@@ -1,0 +1,140 @@
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+# start
+
+NetRange:       166.78.0.0 - 166.78.255.255
+CIDR:           166.78.0.0/16
+NetName:        RACKS-8-NET-11
+NetHandle:      NET-166-78-0-0-1
+Parent:         NET166 (NET-166-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS19994
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2012-10-17
+Updated:        2012-10-17
+Ref:            https://rdap.arin.net/registry/ip/166.78.0.0
+
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        1 Fanatical Place
+City:           Windcrest
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2017-09-12
+Ref:            https://rdap.arin.net/registry/entity/RACKS-8
+
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPADM17-ARIN
+
+OrgNOCHandle: HANSE157-ARIN
+OrgNOCName:   Hansell, Chris 
+OrgNOCPhone:  +1-210-312-4000 
+OrgNOCEmail:  hostmaster@rackspace.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/HANSE157-ARIN
+
+OrgTechHandle: ZR9-ARIN
+OrgTechName:   Rackspace, com 
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZR9-ARIN
+
+OrgTechHandle: HANSE157-ARIN
+OrgTechName:   Hansell, Chris 
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/HANSE157-ARIN
+
+# end
+
+
+# start
+
+NetRange:       166.78.160.0 - 166.78.175.255
+CIDR:           166.78.160.0/20
+NetName:        RACKS-8-1370224454058925
+NetHandle:      NET-166-78-160-0-1
+Parent:         RACKS-8-NET-11 (NET-166-78-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Rackspace Cloud Servers (C03843757)
+RegDate:        2013-06-03
+Updated:        2013-06-03
+Ref:            https://rdap.arin.net/registry/ip/166.78.160.0
+
+
+CustName:       Rackspace Cloud Servers
+Address:        5000 Walzem Rd.
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2013-06-02
+Updated:        2013-06-02
+Ref:            https://rdap.arin.net/registry/entity/C03843757
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPADM17-ARIN
+
+OrgNOCHandle: HANSE157-ARIN
+OrgNOCName:   Hansell, Chris 
+OrgNOCPhone:  +1-210-312-4000 
+OrgNOCEmail:  hostmaster@rackspace.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/HANSE157-ARIN
+
+OrgTechHandle: ZR9-ARIN
+OrgTechName:   Rackspace, com 
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZR9-ARIN
+
+OrgTechHandle: HANSE157-ARIN
+OrgTechName:   Hansell, Chris 
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/HANSE157-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#

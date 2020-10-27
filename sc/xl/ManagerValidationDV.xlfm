@@ -1,0 +1,30 @@
+'Data validation formula
+'Uses hard coded cell references
+'J. Ditzel, Aug 2017
+'
+'checks to make sure manager IS NOT their own manager, but
+'IS in the user column 
+'
+'Input Message:
+'	Title: Manager
+'	Input message: Please enter manager's email. Please leave any users with no manager blank. Manager must be in user list.
+'
+'Error Alert:
+'	Style: Stop
+'	Title: Error
+'	Error message:
+'		Manager cannot be their own manager. Please enter a different manager or leave blank.
+'		Manager's email must appear in the email list.
+
+=AND(
+    COUNTIF(
+        $E23,$H23
+    ) =
+    0,COUNTIF(
+        $E:$E,$H23
+    ) = 1
+)
+
+
+
+

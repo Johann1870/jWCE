@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, June 28, 2018 16:30:01
+   Source : N:\OTC Team\
+     Dest - D:\OTC_bak\
+
+    Files : *.*
+	    
+  Options : *.* /TS /NDL /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /NP /XX /MT:10 /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+2018/06/28 16:30:01 ERROR 3 (0x00000003) Creating Destination Directory D:\OTC_bak\
+The system cannot find the path specified.

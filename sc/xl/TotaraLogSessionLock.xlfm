@@ -1,0 +1,41 @@
+' formats Totara log records to highlight pairs of records where the time is less than 11500 seconds apart, the IP address changed and the log event is not a log in, indicating a possible session freeze
+
+=OR(AND(IF(MID($A2,1,10)-MID($A1,1,10)<11500,TRUE,FALSE),$G2<>$G1,$E2<>"User has logged in"),AND(IF(MID($A3,1,10)-MID($A2,1,10)<11500,TRUE,FALSE),$G3<>$G2))
+
+=OR(
+    AND(
+        IF(
+            MID(
+                $A2,
+                1,
+                10
+            ) -
+            MID(
+                $A1,
+                1,
+                10
+            ) < 11500,
+            TRUE,
+            FALSE
+        ),
+        $G2 <> $G1,
+        $E2 <> "User has logged in"
+    ),
+    AND(
+        IF(
+            MID(
+                $A3,
+                1,
+                10
+            ) -
+            MID(
+                $A2,
+                1,
+                10
+            ) < 11500,
+            TRUE,
+            FALSE
+        ),
+        $G3 <> $G2
+    )
+)

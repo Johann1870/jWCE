@@ -1,0 +1,45 @@
+'Excel formula for email validation. Uses hardcoded cell references and the
+'named range 'Disallowed_Chars'.
+'J. Ditzel, Aug 2017.
+
+'Input Message:
+'	Title: Email
+'	Input message: Please enter the user's email. Make sure there are no uppercase characters.
+'
+'Error Alert:
+'	Style: Stop
+'	Title: Invalid email
+'	Error message:
+'		Please enter a valid email address.
+'		No duplicate emails are allowed.
+
+=AND(
+    SUMPRODUCT(
+--        ISNUMBER(
+            FIND(
+                Disallowed_Chars,
+                E23
+            )
+        )
+    ) < 1,
+    OR(
+        ISNUMBER(
+            MATCH(
+                "?*@*.??",
+                E23,
+                0
+            )
+        ),
+        ISNUMBER(
+            MATCH(
+                "?*@*.???",
+                E23,
+                0
+            )
+        )
+    ),
+    COUNTIF(
+        $E:$E,
+        $E23
+    ) = 1
+)
