@@ -12,11 +12,11 @@ ol ol ol{
 </style>
 
 ## Taskbar
-<img src="/resources/images/Taskbar_20190128.png" height="600" style="display:flex; float:left; margin:10px; padding:10px;">
-The taskbar is customized by running [TranslucentTB](/TranslucentTB/TranslucentTB) and [TClock](https://github.com/White-Tiger/T-Clock).
-It is set to Auto-hide and display on one monitor on the right side of the screen.
+<img src="/resources/images/Taskbar_20201024.png" height="600" style="display:flex; float:left; margin:10px; padding:10px;">
+The taskbar is customized by running ~~[TranslucentTB](/TranslucentTB/TranslucentTB)~~ ~~and~~ [TClock](https://github.com/White-Tiger/T-Clock).
+It is set to Auto-hide and display on one monitor on the left side of the screen.
 
-TranslucentTB is run from a batch script scheduled by Task Scheduler.
+~~TranslucentTB~~ ~~is run from a batch script scheduled by~~ ~~Task Scheduler~~.
 
 TClock is configured to show week numbers, the day of the year, uses T-Clock's calendar and 1 month past, 3 months total. The week is set according to ISO 8601 standards
 
@@ -25,7 +25,7 @@ TClock is configured to show week numbers, the day of the year, uses T-Clock's c
 TClock's time format
 <pre>
 <code>
-  HH:nn:ss\nddd, dd-mmm-yy\nyyyy-"W"Wi Od\n"JD: "JD\n"POSIX: "POSIX\n"Uptime:  "ST\n"UTC "W+8:nn:ss"           "@@@.@@
+  HH:nn:ss\nddd, dd-mmm-yy\nyyyy-"W"Wi-wi Od\n"JD: "JD\n"POSIX: "POSIX\n"Uptime:  "ST\n"UTC "W+7:nn:ss"     CEST "W+9:nn:ss"      "@@@.@@
 </code>
 </pre>
 
@@ -232,7 +232,7 @@ Application shortcuts are arranged into toolbars which are located under root. T
 
 
 ## Command Prompt
-A script is referenced at when the shell is started.
+A script is referenced when the shell is started.
 This is referenced in the registry at
 `HKEY_CURRENT_USER\Software\Microsoft\Command Processor`
 A string key `Autorun` is created and is set to the path for the batch script which runs.
