@@ -1,0 +1,4 @@
+#! /bin/zsh
+
+~/tg/bin/telegram-cli.exe -N
+send "contact_list"

@@ -1,0 +1,2 @@
+export TODOTXT_DEFAULT_ACTION=ls
+alias t='/cygdrive/c/Users/jditzel/Dropbox/work/MCG/todo/todo.sh -d /cygdrive/c/Users/jditzel/Dropbox/work/MCG/todo/todo.cfg'

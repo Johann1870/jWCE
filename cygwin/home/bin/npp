@@ -1,0 +1,2 @@
+#!/bin/zsh
+/cygdrive/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe `cygpath.exe -w "$*"`

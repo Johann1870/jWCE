@@ -1,0 +1,5 @@
+BoldAsFont=-1
+Font=DejaVu Sans Mono for Powerline
+FontHeight=10
+Term=xterm-256color
+CursorType=block
