@@ -29,19 +29,49 @@
 7) [ ] Set cmd settings
     a) [x] cinst Conemu
     b) [x] Set Autorun in the registry
-
-6) [ ] Taskbar
-    a) [ ] cinst qdir
-    a) [ ] Set taskbar to autohide, display left
-    b) [ ] Set up Toolbars folder in C
-    c) [ ] cinst t-Clock
-7) [ ]  Shared drives
-    a) [ ] connect to the VPN
-    b) [ ] cinst Dropbox
-    a) [ ] run the map net drives script
-8) [ ]  Atlassian profile for FF
+    c) [ ] Set up Conemu with settings (wait for cygwin install?)
+6) [x] Taskbar
+    a) [x] cinst qdir
+    b) [x] add `Q-dir.ini` to `%appdata%\Q-dir`.
+    c) [x] set one tree for all
+    d) [x] Set taskbar to autohide, display left
+    e) [x] Set Accent colour to #002B7F for start, taskbar and action centre
+    f) [ ] Set up Toolbars folder in C
+    g) [x] cinst t-Clock
+    h) [ ] install Open Sans font
+    i) [ ] set t-Clock options
+7) [ ] Notepad++
+    a) cinst notepadplusplus
+    b) install plugins
+    c) add userDefineLang.xml to `%appdata%\Notepad++`
+8) [ ] Atom
+    a) [x] cinst ATom
+    b) [x] atom package manager install
+        i) [x] sync-settings
+        ii) [x] sync-settings-folder-location
+    c) [x] set sync-settings to 'Use other backup location'
+    d) [x] set folder location to %userprofile%/Dropbox/settings/atom
+    e) [x] sync-settings > Restore
+8) [ ]  Shared drives
+    a) [ ] cinst Dropbox
+    b) [ ] connect to the VPN
+    d) [ ] update the map net drives script with pc name
+    c) [ ] run the map net drives script
+9) [ ]  Firefox Atlassian profile
     a) [ ] create a new FF profile
     b) [ ] save a shortcut to the profile
-8) [ ] Cygwin
+10) [ ] Cygwin
     a) [ ] Download setup-x86_64.exe
     b) [ ]
+
+## Misc
+
+1) Disable Snagit startup
+2) show all icons in the taskbar notification area
+3) cinst ShareX
+  setup sharex tasks
+4) setup Slack
+5) Setup Outlook
+  a) add plugins
+6) update office to latest version
+7) update windows to latest version
