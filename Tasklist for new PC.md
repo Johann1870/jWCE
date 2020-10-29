@@ -38,13 +38,13 @@
     e) [x] Set Accent colour to #002B7F for start, taskbar and action centre
     f) [ ] Set up Toolbars folder in C
     g) [x] cinst t-Clock
-    h) [ ] install Open Sans font
-    i) [ ] set t-Clock options
+    h) [x] cinst opensans font
+    i) [x] set t-Clock options
 7) [ ] Notepad++
-    a) cinst notepadplusplus
-    b) install plugins
-    c) add userDefineLang.xml to `%appdata%\Notepad++`
-8) [ ] Atom
+    a) [x] cinst notepadplusplus
+    b) [x] install plugins
+    c) [x] add userDefineLang.xml to `%appdata%\Notepad++`
+8) [x] Atom
     a) [x] cinst ATom
     b) [x] atom package manager install
         i) [x] sync-settings
@@ -52,6 +52,9 @@
     c) [x] set sync-settings to 'Use other backup location'
     d) [x] set folder location to %userprofile%/Dropbox/settings/atom
     e) [x] sync-settings > Restore
+9) [x] Pandoc
+    a) [x] cinst pandoc
+    b) [x] enter location of pandoc exe in Markdown Preview Plus package in Atom
 8) [ ]  Shared drives
     a) [ ] cinst Dropbox
     b) [ ] connect to the VPN

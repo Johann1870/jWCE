@@ -1,5 +1,5 @@
 'Option Explicit
-Dim objNetwork, strDrive, objShell, objUNC
+Dim objNetwork, strDrive, objShell, objUNC, oShell, oShellEnv, computerName, userName
 Dim strRemotePath, strDriveLetter, strNewName
 
 
@@ -25,6 +25,11 @@ For i = 0 to colDrives.Count-1 Step 2
 
 Next
 
+'gets the computer name
+set oShell    = WScript.CreateObject("WScript.Shell")
+set oShellEnv = oShell.Environment("Process")
+computerName  = oShellEnv("ComputerName")
+userName  = oShellEnv("UserName")
 
 On Error Resume Next
 
@@ -32,7 +37,7 @@ On Error Resume Next
 'DropBox
 '
 strDriveLetter1 = "W:"
-strRemotePath1 = "\\HBMSEA-DITZEL\c$\Users\jditzel\Dropbox"
+strRemotePath1 = "\\" & computerName & "\c$\Users\" & userName & "\Dropbox"
 strNewName1 = "DropBox"
 
 ' Section to map the network drive
@@ -47,7 +52,7 @@ objShell.NameSpace(strDriveLetter1).Self.Name = strNewName1
 'Scripts
 '
 strDriveLetter2 = "X:"
-strRemotePath2 = "\\HBMSEA-DITZEL\c$\sc"
+strRemotePath2 = "\\" & computerName & "\c$\sc"
 strNewName2 = "Scripts"
 
 ' Section to map the network drive
@@ -162,7 +167,7 @@ objShell.NameSpace(strDriveLetter9).Self.Name = strNewName9
 ''Share10
 '
 strDriveLetter10 = "G:"
-strRemotePath10 = "\\HBMSEA-DITZEL\c$\Users\jditzel\Github"
+strRemotePath10 = "\\" & computerName & "\c$\Users\" & userName & "\Github"
 strNewName10 = "Github"
 
 ' Section to map the network drive
