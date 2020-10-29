@@ -64,21 +64,25 @@
         i) [x] about:profile
         ii) [x] create profile named 'Clean'
     b) [x] save a shortcut to the profile `"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -P Clean -no-remote`
-11) [ ] X Mouse Button Control
-    a) [ ] cinst x-mouse-button-control
-    b) [ ]
+11) [x] X Mouse Button Control
+    a) [x] cinst x-mouse-button-control
+    b) [x] import profiles for applications
+12) [ ] ShareX
+    a) [x] cinst ShareX
+    b) [ ] configure
+
 10) [ ] Cygwin
     a) [ ] Download setup-x86_64.exe
     b) [ ]
 
 ## Misc
 
-1) Disable Snagit startup
-2) show all icons in the taskbar notification area
-3) cinst ShareX
-  setup sharex tasks
-4) setup Slack
-5) Setup Outlook
-  a) add plugins
-6) update office to latest version
+1) [x] Disable Snagit startup
+2) [x] show all icons in the taskbar notification area
+3) [x] `cinst webex-meetings zoom`
+4) [x] setup Slack
+5) [ ] Setup Outlook
+    a) [ ] add plugins
+6) [x] update office to latest version
 7) update windows to latest version
+8) Configure Ribbon and shortcuts for Office apps
