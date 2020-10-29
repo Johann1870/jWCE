@@ -40,7 +40,7 @@
     g) [x] cinst t-Clock
     h) [x] cinst opensans font
     i) [x] set t-Clock options
-7) [ ] Notepad++
+7) [x] Notepad++
     a) [x] cinst notepadplusplus
     b) [x] install plugins
     c) [x] add userDefineLang.xml to `%appdata%\Notepad++`
@@ -55,14 +55,18 @@
 9) [x] Pandoc
     a) [x] cinst pandoc
     b) [x] enter location of pandoc exe in Markdown Preview Plus package in Atom
-8) [ ]  Shared drives
-    a) [ ] cinst Dropbox
-    b) [ ] connect to the VPN
-    d) [ ] update the map net drives script with pc name
-    c) [ ] run the map net drives script
-9) [ ]  Firefox Atlassian profile
-    a) [ ] create a new FF profile
-    b) [ ] save a shortcut to the profile
+10) [x]  Shared drives
+    a) [x] cinst Dropbox
+    b) [x] connect to the VPN
+    c) [x] run the map net drives script
+11) [x]  Firefox Atlassian profile
+    a) [x] create a new FF profile
+        i) [x] about:profile
+        ii) [x] create profile named 'Clean'
+    b) [x] save a shortcut to the profile `"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -P Clean -no-remote`
+11) [ ] X Mouse Button Control
+    a) [ ] cinst x-mouse-button-control
+    b) [ ]
 10) [ ] Cygwin
     a) [ ] Download setup-x86_64.exe
     b) [ ]
