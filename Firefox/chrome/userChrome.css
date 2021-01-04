@@ -2,12 +2,133 @@
 /* ##### TABS TOOLBAR ##################################### */
 
 /* Hide main tabs toolbar */
+.toolbar-items {
+  visibility: hidden;
+}
+
+.titlebar-spacer[type="pre-tabs"] {
+  visibility: hidden;
+}
+
+.titlebar-min {
+background: #ca0;
+}
+.titlebar-restore {
+background: #080;
+}
+.titlebar-max {
+background: #0a0;
+}
+.titlebar-close {
+background: #a00;
+}
+
+.titlebar-min:hover {
+background-color: #fd0 !important;
+}
+.titlebar-restore:hover {
+background-color: #0a0 !important;
+}
+.titlebar-max:hover {
+background-color: #0c0 !important;
+}
+.titlebar-close:hover {
+background-color: #c00 !important;
+}
+#titlebar {
+  appearance: auto; 
+}
+:root[tabsintitlebar][sizemode="normal"] #titlebar {
+  appearance: unset;
+}
 #TabsToolbar {
-	visibility: collapse;
+  /*padding-block: 5px !important; */
+  margin-right: 7px !important;
+  max-height: 0px;
 }
 
 
 
+.titlebar-buttonbox.titlebar-color toolbarbutton {
+  border-radius: 50%;
+  padding: 5px !important;
+  max-height: 22px;
+  position: relative;
+  top: 5px !important;
+  right: 5px !important;
+  margin-right: 3px !important;
+  visibility: show;
+}
+
+.titlebar-button {
+  padding: 5px !important;
+  margin-right: 3px !important;
+}
+
+toolbarbutton {
+  padding: 5px !important;
+  margin-right: 3px !important;	
+  stroke: #fff;
+}
+
+[sizemode="normal"] #titlebar {
+  height: 37px;
+}
+[sizemode="normal"] #titlebar #toolbar-menubar {
+  padding-top: 7px;
+}
+[sizemode="maximized"] #titlebar {
+  height: 37px;
+}
+[sizemode="maximized"] #titlebar #toolbar-menubar {
+  padding-top: 2.5px;
+}
+
+
+/* ##### Menu Dropdown ########################################## */
+#appMenu-fxa-status[fxastatus="signedin"] > #appMenu-fxa-label {
+margin-inline-start: -5px !important;
+}
+
+#appMenu-fxa-status[fxastatus="signedin"] > #appMenu-fxa-avatar {
+margin-inline-start: 5px !important;
+}
+
+#appMenu-fxa-status image {
+  background-color: #00aaff;
+  background-color: #dd6600;
+  color: #fff;
+}
+
+#appMenu-popup .toolbarbutton-icon {
+  color: #005284;
+  color: #dd6600;
+}
+
+#appMenu-popup .toolbarbutton-text {
+  color: #774400;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+#appMenu-popup label[value="Edit"], #appMenu-popup label[value="Zoom"]  {
+  color: #774400;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+#appMenu-popup .subviewbutton[shortcut]::after {
+  color: #dd6600;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+#appMenu-popup * {
+  background: #442200;
+}
+
+toolbarbutton::after {
+  color: #dd6600;
+}
 
 
 /* ##### URL BAR ########################################## */
