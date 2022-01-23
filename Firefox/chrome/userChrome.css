@@ -1,281 +1,87 @@
+@import url("botones.css");
+@import url("barralat.css");
+@import url("tab.css");
+/* This will center the text, comment if you do not want that*/
+/* Esto centra el texto, comentar si no querés eso*/
+#urlbar:not([focused]) #urlbar-input, 
+#urlbar:not([focused]) .urlbar-input{ text-align: center !important; }
 
-/* ##### TABS TOOLBAR ##################################### */
-
-/* Hide main tabs toolbar */
-.toolbar-items {
-  visibility: hidden;
-}
-
-.titlebar-spacer[type="pre-tabs"] {
-  visibility: hidden;
-}
-
-.titlebar-min {
-background: #ca0;
-}
-.titlebar-restore {
-background: #080;
-}
-.titlebar-max {
-background: #0a0;
-}
-.titlebar-close {
-background: #a00;
-}
-
-.titlebar-min:hover {
-background-color: #fd0 !important;
-}
-.titlebar-restore:hover {
-background-color: #0a0 !important;
-}
-.titlebar-max:hover {
-background-color: #0c0 !important;
-}
-.titlebar-close:hover {
-background-color: #c00 !important;
-}
-#titlebar {
-  appearance: auto; 
-}
-:root[tabsintitlebar][sizemode="normal"] #titlebar {
-  appearance: unset;
-}
-#TabsToolbar {
-  /*padding-block: 5px !important; */
-  margin-right: 7px !important;
-  max-height: 0px;
-}
-
-
-
-.titlebar-buttonbox.titlebar-color toolbarbutton {
-  border-radius: 50%;
-  padding: 5px !important;
-  max-height: 22px;
-  position: relative;
-  top: 5px !important;
-  right: 5px !important;
-  margin-right: 3px !important;
-  visibility: show;
-}
-
-.titlebar-button {
-  padding: 5px !important;
-  margin-right: 3px !important;
-}
-
-toolbarbutton {
-  padding: 5px !important;
-  margin-right: 3px !important;	
-  stroke: #fff;
-}
-
-[sizemode="normal"] #titlebar {
-  height: 37px;
-}
-[sizemode="normal"] #titlebar #toolbar-menubar {
-  padding-top: 7px;
-}
-[sizemode="maximized"] #titlebar {
-  height: 37px;
-}
-[sizemode="maximized"] #titlebar #toolbar-menubar {
-  padding-top: 2.5px;
-}
-
-
-/* ##### Menu Dropdown ########################################## */
-#appMenu-fxa-status[fxastatus="signedin"] > #appMenu-fxa-label {
-margin-inline-start: -5px !important;
-}
-
-#appMenu-fxa-status[fxastatus="signedin"] > #appMenu-fxa-avatar {
-margin-inline-start: 5px !important;
-}
-
-#appMenu-fxa-status image {
-  background-color: #00aaff;
-  background-color: #dd6600;
-  color: #fff;
-}
-
-#appMenu-popup .toolbarbutton-icon {
-  color: #005284;
-  color: #dd6600;
-}
-
-#appMenu-popup .toolbarbutton-text {
-  color: #774400;
-  font-size: 1.1em;
-  font-weight: 600;
-}
-#appMenu-popup label[value="Edit"], #appMenu-popup label[value="Zoom"]  {
-  color: #774400;
-  font-size: 1.1em;
-  font-weight: 600;
-}
-
-#appMenu-popup .subviewbutton[shortcut]::after {
-  color: #dd6600;
-  font-size: 1.1em;
-  font-weight: 500;
-}
-
-#appMenu-popup * {
-  background: #442200;
-}
-
-toolbarbutton::after {
-  color: #dd6600;
-}
-
-
-/* ##### URL BAR ########################################## */
-
-/* Hide (i) in URL bar */
-#identity-icon {
-	width: 2px !important;
-}
-/* Adjust lock icon to be closer to edge */
-#identity-box {
-	padding-inline-start: 2px !important;
-}
-/* Custom bindings.xml in same folder as userChrome, for simple URL */
-#urlbar {
-	/*-moz-binding: url("bindings.xml#urlbar") !important;*/
-}
-/* Center URL */
-#urlbar .urlbar-input-box {
-	text-align: center;
-	margin-bottom: 1px;
-}
-/* Bookmark padding */
-toolbarbutton.bookmark-item:not(.subviewbutton) {
-	padding: 1px 6px !important;
-}
-/* Get rid of bookmark icon */
-.bookmark-item .toolbarbutton-icon {
-	display: inline;
-}
-
-
-
-
-
-/* ##### SIDEBAR ########################################## */
-
-/* Sidebar min and max width removal */
-#sidebar {
-	max-width: none !important;
-	min-width: 0px !important;
-}
-
-
-/* Remove below if not using TreeStyleTab extension */
-
-:root { --thin-tab-width: 30px; }
-:root { --wide-tab-width: 300px; }
-
-
-/* Hide splitter, when using Tree Style Tab. */
-#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] + #sidebar-splitter {
-  display: none !important;
-}
-/* Hide sidebar header, when using Tree Style Tab. */
-#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
-  visibility: collapse;
-}
-
-/* Shrink sidebar until hovered, when using Tree Style Tab. */
-#sidebar-box:not([sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]) {
-  min-width: var(--wide-tab-width) !important;
-  max-width: none !important;
-}
-#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] {
-  overflow: hidden !important;
-  position: relative !important;
-  transition: all 200ms !important;
-  min-width: var(--thin-tab-width) !important;
-  max-width: var(--thin-tab-width) !important;
-  z-index: 1;
-  border-right: 1px solid black !important;
-}
-#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]:hover,
-#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar {
-  transition: all 200ms !important;
-  min-width: var(--wide-tab-width) !important;
-  max-width: var(--wide-tab-width) !important;
-  margin-right: calc((var(--wide-tab-width) - var(--thin-tab-width)) * -1) !important;
-  z-index: 1;
-  border-right: 1px solid black !important;
-}
 
 /* ##### BOOKMARK FOLDERS ########################################## */
 
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* set default namespace to XUL */
 
 #personal-bookmarks .bookmark-item[container][label="ATL"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/atlassian.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/atlassian.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="SF"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/salesforce.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/salesforce.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="GS"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/gainsight.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/gainsight.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="ORA"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/ora.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/ora.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="WaW"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/waw.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/waw.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="MS"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/ms_office.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/ms_office.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="MCG"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/hearst.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/hearst.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="MCG Sol"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/mcg.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/mcg.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="🎓"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/mcg.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/mcg.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="SM"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/surveymonkey.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/surveymonkey.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="⛅"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/thermometer.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/thermometer.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="📚"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/ref.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/ref.png") !important;
  -moz-image-region:auto !important;
 }
 
 #personal-bookmarks .bookmark-item[container][label="💻"] {
- list-style-image:url("file:///W:/Media/icons/custom emoji/code.png") !important;
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/code.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="PX"] {
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/PX.png") !important;
+ -moz-image-region:auto !important;
+}
+
+#personal-bookmarks .bookmark-item[container][label="Status"] {
+ list-style-image:url("file:///W:/_G. Media/_G.2 Pictures/_G.2D Icons/custom emoji/Green_status.png") !important;
  -moz-image-region:auto !important;
 }
