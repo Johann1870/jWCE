@@ -31,6 +31,9 @@ TClock's time format
 
 Application shortcuts are arranged into toolbars which are located under root. Toolbars do not show text or title. Some toolbars show large icons and others small.
 
+##### Accent colour
+rgb (0,43,127), #002B7F
+
 ###  List of toolbars
 <ol>
   <li>**articulate**</li>
