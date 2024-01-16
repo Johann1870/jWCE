@@ -138,6 +138,24 @@ ENDLOCAL
 	DOSKEY home=cd /d %HOMEPATH% $*
 	DOSKEY docs=cd /d %HOMEPATH%\Documents $*
 	DOSKEY proj=cd /d %HOMEPATH%\Documents\proj $*
+	DOSKEY jiraa=jira issue $* --assign 5ad9008c1b0b680955f4f390
+
+	
+	DOSKEY stopvlc=taskkill /F /IM vlc.exe
+	
+	DOSKEY cfm=mpv http://icecast.thisisdax.com/ClassicFMMP3.m3u
+	DOSKEY bbc1=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
+	DOSKEY bbc2=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
+	DOSKEY bbc3=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
+	DOSKEY bbc4=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+	DOSKEY bbc5=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+	DOSKEY bbc6=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+	DOSKEY bbc4x=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
+	DOSKEY bbcw=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+	DOSKEY kingfm=mpv https://classicalking.streamguys1.com/king-fm-aac-128k
+	DOSKEY hr2=mpv https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
+	
+	
 	::DOSKEY home=%HOMEPATH%
 	
 	"C:\sc\My_CmdInit.cmd"
