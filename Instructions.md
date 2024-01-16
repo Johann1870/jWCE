@@ -62,3 +62,19 @@ https://chocolatey.org/install
 * **Q-dir**: replace `%AppData%\Q-Dir\Q-Dir.ini` with  `%HOMEPATH%\Dropbox\lib\Q-dir.ini`
 * **ShareX**: import from `%HOMEPATH%\Dropbox\lib\ShareX-15.0.0-backup.sxb`
 * **Excel, Word**: import quick access and toolbar customisations from `%HOMEPATH%\Dropbox\lib\Excel Customizations.exportedUI` and `%HOMEPATH%\Dropbox\lib\Word Customizations.exportedUI`
+* **Notepad++**: Plugins
+	* AutoSave
+	* Code Alignment
+	* DSpellCheck
+	* GitSCM
+	* HEX-Editor
+	* JSON Viewer
+	* Markdown Panel
+	* MarkdownViewer++
+	* Mime tools
+	* Npp Converter
+	* NppExec
+	* NppExport
+	* Preview HTML
+	* XML Tools
+* **Kate**: Enable doc preview
