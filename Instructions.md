@@ -57,8 +57,40 @@ https://chocolatey.org/install
 6. Ctrl+Shift+P (command pallet): `Sync Settings: Restore`
 7. Let it sync (it may take a while) and restart Pulsar
 
+### WSL
+1. `wsl --install -d Ubuntu-22.04`
+2. reboot
+3. `sudo apt update`
+4. `sudo apt upgrade`
+5. `sudo apt install zsh`
+6. `chsh -s $(which zsh)`
+7. logout of ubuntu and log back in
+8. verify `echo $SHELL` or `$SHELL --version`
+9. `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+10. `vim ~/.zshrc`
+11. change `ZSH_THEME="robbyrussell"` to `ZSH_THEME="ys"`
+12. `:wq`
+13. `source ~/.zshrc`
+
 ### Other programmes
 
 * **Q-dir**: replace `%AppData%\Q-Dir\Q-Dir.ini` with  `%HOMEPATH%\Dropbox\lib\Q-dir.ini`
 * **ShareX**: import from `%HOMEPATH%\Dropbox\lib\ShareX-15.0.0-backup.sxb`
 * **Excel, Word**: import quick access and toolbar customisations from `%HOMEPATH%\Dropbox\lib\Excel Customizations.exportedUI` and `%HOMEPATH%\Dropbox\lib\Word Customizations.exportedUI`
+* **Notepad++**: Plugins
+	* AutoSave
+	* Code Alignment
+	* DSpellCheck
+	* GitSCM
+	* HEX-Editor
+	* JSON Viewer
+	* Markdown Panel
+	* MarkdownViewer++
+	* Mime tools
+	* Npp Converter
+	* NppExec
+	* NppExport
+	* Preview HTML
+	* XML Tools
+* **Kate**: Enable doc preview
+* **XMouse Button Control**: import from `%HOMEPATH%\Dropbox\lib\jditzel's XMBC Settings.xmbcp`
