@@ -58,9 +58,9 @@ SETLOCAL
 	SET "A32FCOLOR=3"
 	
 	::USER 64 BACKGROUND COLOR
-	SET "U64BCOLOR=7"	
+	SET "U64BCOLOR=0"	
 	::USER 64 FOREGROUND COLOR
-	SET "U64FCOLOR=C"	
+	SET "U64FCOLOR=B"	
 	::USER 32 BACKGROUND COLOR
 	SET "U32BCOLOR=7"	
 	::USER 32 FOREGROUND COLOR
@@ -139,11 +139,12 @@ ENDLOCAL
 	DOSKEY docs=cd /d %HOMEPATH%\Documents $*
 	DOSKEY proj=cd /d %HOMEPATH%\Documents\proj $*
 	DOSKEY jiraa=jira issue $* --assign 5ad9008c1b0b680955f4f390
+	DOSKEY ka=start C:\sc\keepawake.ahk
 
 	
 	DOSKEY stopvlc=taskkill /F /IM vlc.exe
 	
-	DOSKEY cfm=mpv http://icecast.thisisdax.com/ClassicFMMP3.m3u
+	DOSKEY cfm=mpv --volume=80 http://icecast.thisisdax.com/ClassicFMMP3.m3u
 	DOSKEY bbc1=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
 	DOSKEY bbc2=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
 	DOSKEY bbc3=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
