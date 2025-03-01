@@ -1,7 +1,7 @@
 #sidebar-box{
     --uc-sidebar-width: 31px;
-    --uc-sidebar-hover-width: 300px;
-    --uc-autohide-sidebar-delay: 455ms; /* Wait time before hiding sidebar */
+    --uc-sidebar-hover-width: 250px;
+    --uc-autohide-sidebar-delay: 255ms; /* Wait time before hiding sidebar */
     position: relative;
     min-width: var(--uc-sidebar-width) !important;
     width: var(--uc-sidebar-width) !important;
@@ -17,18 +17,57 @@
   
   #main-window[sizemode="fullscreen"] #sidebar-box{ --uc-sidebar-width: 1px; }
   
-  #sidebar-splitter{ display: none }
+  /*#sidebar-splitter{ display: none }*/
   
-  #sidebar-header{ display: none}
-  
-  #sidebar{
+  #sidebar-header{
+    min-width: var(--uc-sidebar-width) !important;
+    width: var(--uc-sidebar-width) !important;
+    max-width: var(--uc-sidebar-width) !important;
+}
+#sidebar-switcher-target {
+  margin: 0 !important;
+  padding: 0 !important;
+  position: relative !important;
+  left: -5px !important;
+}
+#sidebar-title {
+  display: none;
+}
+
+#sidebar-switcher-arrow, #sidebar-close{
+  display: none !important;
+}
+
+  #sidebar,#sidebar-header{
     transition: min-width 115ms linear var(--uc-autohide-sidebar-delay) !important;
     min-width: var(--uc-sidebar-width) !important;
     will-change: min-width;
   }
   
-  #sidebar-box:hover > #sidebar{ min-width: var(--uc-sidebar-hover-width) !important; transition-delay: 0ms !important }
-  
+#sidebar-box:hover { 
+    min-width: var(--uc-sidebar-hover-width) !important;
+    transition-delay: 0ms !important;
+    transition: min-width 115ms linear var(--uc-autohide-sidebar-delay) !important;
+}
+
+
+#mainPopupSet:has(:hover) ~ #browser #sidebar-box{
+    min-width: var(--uc-sidebar-hover-width) !important;
+    transition-delay: 0ms !important;
+    transition: min-width 115ms linear var(--uc-autohide-sidebar-delay) !important;
+}
+
+#mainPopupSet:has(:hover) ~ #browser #sidebar-switcher-arrow, 
+#mainPopupSet:has(:hover) ~ #browser #sidebar-close {
+  display: block !important;
+}
+
+
+#sidebar-box:hover #sidebar-switcher-arrow, #sidebar-box:hover #sidebar-close {
+  display: unset !important;
+}
+
+
   .sidebar-panel{
     background-color: transparent !important;
     color: var(--newtab-text-primary-color) !important;

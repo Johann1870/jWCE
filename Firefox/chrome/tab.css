@@ -4,6 +4,7 @@
 
 #TabsToolbar{ visibility: collapse !important }
 
+/*
 :root:not([inFullscreen]) #nav-bar{
   margin-top: calc(0px - var(--uc-toolbar-height));
 }
@@ -13,18 +14,18 @@
   height:var(--uc-toolbar-height) !important;
   position: relative;
 }
-
-#main-menubar{
-  -moz-box-flex: 1;
+*/
+/*#main-menubar{
+  -moz-box-flex: 2;
   background-color: var(--toolbar-bgcolor,--toolbar-non-lwt-bgcolor);
   background-clip: padding-box;
   border-right: 30px solid transparent;
   border-image: linear-gradient(to left, transparent, var(--toolbar-bgcolor,--toolbar-non-lwt-bgcolor) 30px) 20 / 30px
-}
+}*/
 
 #toolbar-menubar:not([inactive]){ z-index: 1.5 }
 #toolbar-menubar[inactive] > #menubar-items {
-  opacity: 0;
-  pointer-events: none;
+  opacity: 1;
+  /*pointer-events: none;*/
   margin-left: var(--uc-window-drag-space-width,0px)
 }
