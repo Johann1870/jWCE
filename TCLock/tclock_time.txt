@@ -1,0 +1,1 @@
+HH:nn:ss TZN"  |  "ddd, dd-mmm-yy"  |  "yyyy-"W"Wi-wi  |  Od\n"JD: "JD"  |  POSIX: "POSIX"  |  Uptime: "ST\n"UTC "W+8:nn:ss"  |  GMT "W+8:nn:ss"  |   CET "W+9:nn:ss"  |  "@@@.@@
