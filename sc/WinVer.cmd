@@ -5,3 +5,4 @@
    :: show the result 
    echo %_version%
    ENDLOCAL
+   PAUSE

@@ -139,23 +139,31 @@ ENDLOCAL
 	DOSKEY docs=cd /d %HOMEPATH%\Documents $*
 	DOSKEY proj=cd /d %HOMEPATH%\Documents\proj $*
 	DOSKEY jiraa=jira issue $* --assign 5ad9008c1b0b680955f4f390
+	DOSKEY ka=start C:\sc\keepawake.ahk
 
 	
 	DOSKEY stopvlc=taskkill /F /IM vlc.exe
 	
-	DOSKEY cupcake=cup all -y --ignore-dependencies
+	::DOSKEY cupcake=cup all -y --ignore-dependencies
+	DOSKEY cupcake=C:\sc\cupcake.cmd
 	
-	DOSKEY cfm=mpv http://icecast.thisisdax.com/ClassicFMMP3.m3u
-	DOSKEY bbc1=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
-	DOSKEY bbc2=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
-	DOSKEY bbc3=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
-	DOSKEY bbc4=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
-	DOSKEY bbc5=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
-	DOSKEY bbc6=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
-	DOSKEY bbc4x=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
+	DOSKEY cfm=mpv --volume=80 http://icecast.thisisdax.com/ClassicFMMP3.m3u
+	DOSKEY bbc1=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+	DOSKEY bbc2=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+	DOSKEY bbc3=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+	DOSKEY bbc4=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+	DOSKEY bbc5=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+	DOSKEY bbc6=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+	DOSKEY bbc4x=mpv http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
 	DOSKEY bbcw=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+	DOSKEY bbcw2=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 	DOSKEY kingfm=mpv https://classicalking.streamguys1.com/king-fm-aac-128k
 	DOSKEY hr2=mpv https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
+	
+	DOSKEY mymusic=cd %USERPROFILE%\Dropbox\_G_Media\1_Music\
+	DOSKEY play=mpv * --no-audio-display
+	
+	
 	
 	
 	::DOSKEY home=%HOMEPATH%

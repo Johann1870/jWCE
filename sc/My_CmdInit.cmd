@@ -32,9 +32,9 @@ rem Carriage return and `$` or `#`
 if /I "%ConEmuPromptNL%" == "NO" (set ConEmuPrompt2=) else (set ConEmuPrompt2=$_)
 rem Spare `$E[90m` was specially added because of GitShowBranch.cmd
 if "%ConEmuIsAdmin%" == "ADMIN" (
-  set ConEmuPrompt2=%ConEmuPrompt2%$E[91mADMIN#$G
+  set ConEmuPrompt2=%ConEmuPrompt2%$E[91mADMIN$S#$G
 ) else (
-  set ConEmuPrompt2=%ConEmuPrompt2%$E[35mUSER$$$G
+  set ConEmuPrompt2=%ConEmuPrompt2%$E[35mUSER$S$$$G
 )
 
 rem Finally reset color and add notify ConEmu about prompt input start coords

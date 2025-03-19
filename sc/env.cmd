@@ -4,7 +4,7 @@ GOTO DEBUG
 ::DIRECTORIES
 	::CD %WINDIR%\system32
 	
-	
+:: point to this file from HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor\Autorun	
 
 ::COLORS	
 	::ADMIN 64 BACKGROUND COLOR
@@ -100,6 +100,19 @@ GOTO DEBUG
 	DOSKEY docs=cd /d %HOMEPATH%\Documents $*
 	DOSKEY proj=cd /d %HOMEPATH%\Documents\proj $*
 	DOSKEY home=%HOMEPATH%
+	
+	
+	DOSKEY cfm=mpv --volume=30 http://icecast.thisisdax.com/ClassicFMMP3.m3u
+	DOSKEY bbc1=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
+	DOSKEY bbc2=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
+	DOSKEY bbc3=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
+	DOSKEY bbc4=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+	DOSKEY bbc5=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+	DOSKEY bbc6=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+	DOSKEY bbc4x=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
+	DOSKEY bbcw=mpv http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+	DOSKEY kingfm=mpv https://classicalking.streamguys1.com/king-fm-aac-128k
+	DOSKEY hr2=mpv https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
 	
 	::"C:\Program Files\ConEmu\ConEmu\CmdInit.cmd"
 	

@@ -3,7 +3,9 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration]
 "CDNBaseURL"="http://officecdn.microsoft.com/pr/64256afe-f5d9-4f86-8936-8840a6a4f5be"
 "UpdateChannel"="http://officecdn.microsoft.com/pr/64256afe-f5d9-4f86-8936-8840a6a4f5be"
-"UpdateChannelChanged"="True"
+"UpdatesEnabled"="True"
+"AllowCdnFallback"="True"
+"UpdateChannelChanged"="False"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Updates]
 

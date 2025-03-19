@@ -1,0 +1,57 @@
+:root {
+  --health-navy: 2, 88, 147;
+  --health-blue: 3, 151, 214;
+  --health-grey: 78, 86, 97;
+  --health-green: 0, 150, 143;
+  --health-yellow: 164, 157, 17;
+  --health-purple: 129, 119, 17;
+  --health-orange: 206, 112, 25;
+  --health-red: 197, 0, 62;
+}
+
+
+/*Font Awesome*/
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/*Open Sans Font*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+/*IE Specific*/
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+}
+
+
+/*Bootstrap - can't get this to work. ref in html*/
+/*@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');*/
+
+
+nav .navbar ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav .navbar li {
+
+}
+
+nav .navbar li a {
+	color: white;
+	text-decoration: none;
+	padding: 2px 8px;
+	background: #08a;
+	border-radius: 5px;
+	color: white;
+	margin: 5px;
+}
+
+ol ol {
+  list-style-type: lower-alpha;
+}
+
+ol ol ol {
+  list-style-type: lower-roman;
+}
+
+ol ol ol ol {
+  list-style-type: lower-greek;
+}

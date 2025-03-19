@@ -1,0 +1,1 @@
+cup all -yr --ignore-dependencies & scoop update -q -a & winget update --all --silent --accept-package-agreements --include-unknown
