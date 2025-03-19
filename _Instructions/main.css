@@ -44,6 +44,10 @@ nav .navbar li a {
 	margin: 5px;
 }
 
+pre {
+  white-space: pre-wrap;
+}
+
 ol ol {
   list-style-type: lower-alpha;
 }
