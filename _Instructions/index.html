@@ -67,8 +67,30 @@
       <h3>New Computer</h3>
       <div class="section2">
         <h4>First Steps</h4>
-
+        <div>
+          <code>£</code> can be entered with <kbd>Alt</kbd> + <kbd>0163</kbd>
+        </div>
         <ol>
+          <li>
+            Set language to English UK
+            <ol>
+              <li>
+                Settings > Time and Language > Language and region > Add a language
+              </li>
+              <li>Select English UK</li>
+              <li>Set as Windows display language and additional optional settings</li>
+              <li>Install</li>
+              <li>Set regional format to English (United Kingdom)</li>
+            </ol>
+          </li>
+          <li>
+            Set keyboard layout to English UK
+            <ol>
+              <li>
+                  Settings > Time and Language > Language and region > Add a language> English UK >Options>Add a keyboard> United Kingdom Extended
+              </li>
+            </ol>
+          </li>
           <li>Set taskbar to left. Taskbar settings > Taskbar behaviours > Taskbar alignment: Left</li>
           <li>Personalisation > Colours > Choose your mode > Dark</li>
           <li>Personalisation > Colours > Accent Colour > Manual > Customised Colours > More > #002B7F</li>
@@ -86,13 +108,13 @@
         <ol>
           <li>Open powershell admin</li>
           <li>
-              <code>Get-ExecutionPolicy</code>
+            <code>Get-ExecutionPolicy</code>
           </li>
           <li>
-              <code>Set-ExecutionPolicy AllSigned</code>
+            <code>Set-ExecutionPolicy AllSigned</code>
           </li>
           <li>
-              <pre>
+            <pre>
                 <code>
                   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
                 </code>
@@ -100,10 +122,10 @@
           </li>
           <li>open cmd admin</li>
           <li>
-              <code>cd %HOMEPATH%\Github\jWCE</code>
+            <code>cd %HOMEPATH%\Github\jWCE</code>
           </li>
           <li>
-              <code>choco install chocolateypackages.config -y</code>
+            <code>choco install chocolateypackages.config -y</code>
           </li>
         </ol>
       </div>
@@ -155,11 +177,11 @@
         <h4>WSL</h4>
         <ol>
           <li>
-              <code>wsl --install -d Ubuntu-22.04</code>
+            <code>wsl --install -d Ubuntu-22.04</code>
           </li>
           <li>reboot</li>
           <li>
-              <code>sudo apt update</code>
+            <code>sudo apt update</code>
           </li>
           <li>
             <code>sudo apt upgrade</code>

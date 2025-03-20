@@ -24,6 +24,10 @@
 /*Bootstrap - can't get this to work. ref in html*/
 /*@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');*/
 
+body {
+  margin: 2em;
+  padding: 2em;
+}
 
 nav .navbar ul {
   list-style-type: none;
