@@ -24,16 +24,16 @@
         <Replace name="&apos;" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\jditzel\OneDrive - Hearst\Documents\Icons\Workshop\Workshop.svg" />
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\barralat.css" />
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\bindings.xml" />
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\botones.css" />
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\tab.css" />
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\tree_style_tab.css" />
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\userChrome.css" />
         <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\userContent.css" />
         <File filename="G:\Misc\greasemonkey scripts\Salesforce_fields.css" />
         <File filename="W:\lib\Q-Dir_work.ini" />
+        <File filename="C:\Users\jditzel\.port\PortableApps\FirefoxPortable\Data\profile\chrome\userChrome.css" />
+        <File filename="C:\Users\jditzel\scoop\apps\scoop\current\bin\install.ps1" />
+        <File filename="C:\Users\jditzel\scoop\apps\scoop\current\bin\scoop.ps1" />
+        <File filename="C:\Users\jditzel\scoop\buckets\extras\bucket\inkscape.json" />
+        <File filename="C:\Users\jditzel\scoop\shims\7z.shim" />
+        <File filename="C:\Users\jditzel\scoop\buckets\main\bucket\7zip.json" />
+        <File filename="C:\Users\jditzel\scoop\shims\au3check.shim" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -52,7 +52,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" backspaceUnindent="no" />
-        <GUIConfig name="AppPosition" x="-1259" y="56" width="885" height="738" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="1121" y="303" width="885" height="738" isMaximized="yes" />
         <GUIConfig name="FindWindowPosition" left="-906" top="700" right="-303" bottom="1059" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250401">no</GUIConfig>
@@ -98,13 +98,13 @@
             <FloatingWindow cont="4" x="441" y="104" width="961" height="563" />
             <PluginDlg pluginName="GitSCM.dll" id="4" curr="0" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="yes" />
-            <PluginDlg pluginName="NppMarkdownPanel" id="0" curr="1" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="NppMarkdownPanel" id="0" curr="1" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="NppMarkdownPanel" id="1" curr="1" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="PreviewHTML.dll" id="0" curr="4" prev="0" isVisible="no" />
             <ActiveTabs cont="0" activeTab="1" />
-            <ActiveTabs cont="1" activeTab="0" />
+            <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
