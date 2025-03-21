@@ -1,0 +1,2 @@
+[2025-03-11 07:19:39.028913] [p-15820] [t-15824] [info] powerrename logger is initialized
+[2025-03-11 07:19:51.666081] [p-15820] [t-15824] [info] PowerRename enabled

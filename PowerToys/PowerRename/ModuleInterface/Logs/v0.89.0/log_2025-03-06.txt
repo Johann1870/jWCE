@@ -1,0 +1,3 @@
+[2025-03-06 07:56:51.487715] [p-36136] [t-34576] [info] powerrename logger is initialized
+[2025-03-06 07:57:05.824815] [p-36136] [t-34576] [info] PowerRename enabled
+[2025-03-06 07:57:10.846398] [p-36136] [t-34576] [info] Register C:\Program Files\PowerToys\WinUI3Apps\PowerRenameContextMenuPackage.msix package completed.

@@ -1,0 +1,48 @@
+[07:49:16.5995466] [Info] Program::Main
+    Launching Awake...
+[07:49:16.7380232] [Info] Program::Main
+    0.77.0.0
+[07:49:16.7384415] [Info] Program::Main
+    Build: ATRIOX_04132023
+[07:49:16.7549382] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:49:16.9444620] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:49:17.2275156] [Info] Program::Main
+    {}
+[07:49:17.2281541] [Info] Program::Main
+    Parsing parameters...
+[07:49:17.5362790] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:49:17.5378280] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:49:17.5481293] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:49:17.5489242] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 16780
+[07:49:17.5495308] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:49:18.3765705] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:49:18.3847321] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[07:49:18.7648970] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:49:18.7765842] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:49:18.7796107] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:49:18.7851813] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[07:49:18.7863314] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[16:11:37.1534736] [Info] <>c__DisplayClass19_0::<HandleCommandLineArguments>b__0
+    Triggered PID-based exit handler for PID 16780.
+[16:11:37.1600985] [Info] Program::Exit
+    Terminating from process binding hook.
+[16:11:37.1635350] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[16:11:37.1648366] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[16:11:37.1674431] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS

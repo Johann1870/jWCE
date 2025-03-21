@@ -1,0 +1,2 @@
+[2025-03-06 07:56:52.461033] [p-36136] [t-34576] [info] crop-and-lock logger is initialized
+[2025-03-06 07:56:53.614906] [p-36136] [t-34576] [info] CropAndLock enabling

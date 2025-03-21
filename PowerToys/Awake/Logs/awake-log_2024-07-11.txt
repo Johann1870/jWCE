@@ -1,0 +1,4 @@
+[2024-07-11 07:35:47.074838] [p-10340] [t-15024] [info] launcher logger is initialized
+[2024-07-11 07:35:47.075234] [p-10340] [t-15024] [info] Launcher object is constructing
+[2024-07-11 07:35:48.769791] [p-10340] [t-15024] [trace] Launching PowerToys Awake process
+[2024-07-11 07:35:48.770005] [p-10340] [t-15024] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 10340

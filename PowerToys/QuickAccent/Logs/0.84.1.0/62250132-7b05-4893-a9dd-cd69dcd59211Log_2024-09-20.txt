@@ -1,0 +1,2 @@
+[16:19:04.9199726] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent

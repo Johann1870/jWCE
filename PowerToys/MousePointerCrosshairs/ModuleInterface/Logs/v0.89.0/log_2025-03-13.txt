@@ -1,0 +1,5 @@
+[2025-03-13 07:39:02.090472] [p-16572] [t-16576] [info] mouse-pointer-crosshairs logger is initialized
+[2025-03-13 07:39:02.097710] [p-16572] [t-16576] [warning] Failed to initialize auto hide from settings. Will use default value
+[2025-03-13 07:39:02.098088] [p-16572] [t-16576] [warning] Failed to initialize fixed length enabled from settings. Will use default value
+[2025-03-13 07:39:02.098382] [p-16572] [t-16576] [warning] Failed to initialize fixed length from settings. Will use default value
+[2025-03-13 07:39:02.098635] [p-16572] [t-16576] [warning] Failed to initialize auto activate from settings. Will use default value

@@ -1,0 +1,8 @@
+[2025-03-18 07:09:50.338402] [p-16300] [t-16304] [info] Workspaces logger is initialized
+[2025-03-18 07:09:50.339773] [p-16300] [t-16304] [trace] Read settings Workspaces
+[2025-03-18 07:09:50.348383] [p-16300] [t-16304] [info] enabled = false
+[2025-03-18 07:09:52.920258] [p-16300] [t-16304] [info] Workspaces enabling
+[2025-03-18 07:09:52.920483] [p-16300] [t-16304] [info] Enable
+[2025-03-18 07:09:52.920876] [p-16300] [t-16304] [info] enabled = true
+[2025-03-18 07:37:58.697197] [p-16300] [t-16824] [info] enabled = true
+[2025-03-18 07:38:49.566187] [p-16300] [t-15104] [info] enabled = true

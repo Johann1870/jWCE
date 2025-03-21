@@ -1,0 +1,14 @@
+[08:41:48.2483703] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
+[08:44:57.1797003] [Info] KeyboardManagerViewModel::OpenEditor
+    Previous instance of Keyboard Manager editor exited
+[08:44:57.1801777] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
+[08:48:51.8336986] [Info] KeyboardManagerViewModel::OpenEditor
+    Previous instance of Keyboard Manager editor exited
+[08:48:51.8344423] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
+[08:53:33.0678801] [Info] KeyboardManagerViewModel::OpenEditor
+    Previous instance of Keyboard Manager editor exited
+[08:53:33.0683537] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe

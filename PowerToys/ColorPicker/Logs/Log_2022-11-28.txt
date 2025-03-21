@@ -1,0 +1,18 @@
+INFO: 16:32:01.9681916
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=18440
+INFO: 16:32:14.4542601
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=15312
+WARNING: 16:32:16.7103843
+    [Method]: SetWindowPosition [Class]: ChangeWindowPositionBehavior
+    Failed to get monitor bounds for mouse position-1,1
+INFO: 16:32:17.9746874
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 12:01:43.1528018
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 13:18:07.3363406
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry

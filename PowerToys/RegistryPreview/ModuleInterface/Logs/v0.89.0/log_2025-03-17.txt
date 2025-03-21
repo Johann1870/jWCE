@@ -1,0 +1,15 @@
+[2025-03-17 07:37:50.576423] [p-12756] [t-12456] [info] RegistryPreview logger is initialized
+[2025-03-17 07:37:50.577440] [p-12756] [t-12456] [info] Registry Preview object is constructing
+[2025-03-17 07:37:50.578123] [p-12756] [t-12456] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\command\Default:C:\Program Files\PowerToys\WinUI3Apps\PowerToys.RegistryPreview.exe "%1": RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-17 07:48:20.810089] [p-13448] [t-15080] [info] RegistryPreview logger is initialized
+[2025-03-17 07:48:20.833066] [p-13448] [t-15080] [info] Registry Preview object is constructing
+[2025-03-17 07:48:20.834628] [p-13448] [t-15080] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\command\Default:C:\Program Files\PowerToys\WinUI3Apps\PowerToys.RegistryPreview.exe "%1": RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-17 07:48:20.834987] [p-13448] [t-15080] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\icon:C:\Program Files\PowerToys\WinUI3Apps\Assets\RegistryPreview\RegistryPreview.ico: RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-17 07:48:20.835543] [p-13448] [t-15080] [error] Failed to unapply enabled registry change set.
+[2025-03-17 07:48:20.835820] [p-13448] [t-15080] [info] Registry Preview settings are empty
+[2025-03-17 21:23:24.428478] [p-6656] [t-13292] [info] RegistryPreview logger is initialized
+[2025-03-17 21:23:24.553425] [p-6656] [t-13292] [info] Registry Preview object is constructing
+[2025-03-17 21:23:24.587719] [p-6656] [t-13292] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\command\Default:C:\Program Files\PowerToys\WinUI3Apps\PowerToys.RegistryPreview.exe "%1": RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-17 21:23:24.588123] [p-6656] [t-13292] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\icon:C:\Program Files\PowerToys\WinUI3Apps\Assets\RegistryPreview\RegistryPreview.ico: RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-17 21:23:24.588411] [p-6656] [t-13292] [error] Failed to unapply enabled registry change set.
+[2025-03-17 21:23:24.588676] [p-6656] [t-13292] [info] Registry Preview settings are empty

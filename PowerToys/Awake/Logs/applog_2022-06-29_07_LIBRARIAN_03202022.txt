@@ -1,0 +1,2 @@
+[2022-06-29 07:45:37.1089 INFO Awake.Program] Exited keep-awake thread successfully: True
+[2022-06-29 07:45:37.1089 INFO Awake.Core.APIHelper] Confirmed background thread cancellation when disabling explicit keep awake.

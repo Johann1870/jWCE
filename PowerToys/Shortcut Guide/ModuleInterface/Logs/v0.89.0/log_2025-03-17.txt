@@ -1,0 +1,9 @@
+[2025-03-17 07:37:48.200932] [p-12756] [t-12456] [info] shortcut-guide logger is initialized
+[2025-03-17 07:37:48.277312] [p-12756] [t-12456] [warning] Failed to get legacy win key behavior settings
+[2025-03-17 07:37:48.278051] [p-12756] [t-12456] [trace] GetHotkeyEx()
+[2025-03-17 07:48:17.511062] [p-13448] [t-15080] [info] shortcut-guide logger is initialized
+[2025-03-17 07:48:17.515284] [p-13448] [t-15080] [warning] Failed to get legacy win key behavior settings
+[2025-03-17 07:48:17.515802] [p-13448] [t-15080] [trace] GetHotkeyEx()
+[2025-03-17 21:23:22.644299] [p-6656] [t-13292] [info] shortcut-guide logger is initialized
+[2025-03-17 21:23:22.655514] [p-6656] [t-13292] [warning] Failed to get legacy win key behavior settings
+[2025-03-17 21:23:22.656281] [p-6656] [t-13292] [trace] GetHotkeyEx()

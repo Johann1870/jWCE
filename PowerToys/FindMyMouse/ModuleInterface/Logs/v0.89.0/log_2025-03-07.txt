@@ -1,0 +1,5 @@
+[2025-03-07 07:30:24.672698] [p-15704] [t-15708] [info] find-my-mouse logger is initialized
+[2025-03-07 07:30:24.714775] [p-15704] [t-15708] [warning] Failed to get 'include windows key with ctrl' setting
+[2025-03-07 07:30:24.731494] [p-15704] [t-15708] [warning] Failed to initialize Shaking Interval Milliseconds from settings. Will use default value
+[2025-03-07 07:30:24.732589] [p-15704] [t-15708] [warning] Failed to initialize Shaking Factor from settings. Will use default value
+[2025-03-07 07:30:24.734459] [p-15704] [t-15708] [trace] GetHotkeyEx()

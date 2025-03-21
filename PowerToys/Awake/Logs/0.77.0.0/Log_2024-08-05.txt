@@ -1,0 +1,124 @@
+[07:14:57.4212118] [Info] Program::Main
+    Launching Awake...
+[07:14:57.4848105] [Info] Program::Main
+    0.77.0.0
+[07:14:57.4852070] [Info] Program::Main
+    Build: ATRIOX_04132023
+[07:14:57.4870140] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:14:57.5193435] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:14:57.7054658] [Info] Program::Main
+    {}
+[07:14:57.7059079] [Info] Program::Main
+    Parsing parameters...
+[07:14:57.8758980] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:14:57.8775002] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:14:57.8783760] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:14:57.8792625] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 16636
+[07:14:57.8801015] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:14:58.2232032] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[07:14:58.2390405] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:14:58.4905838] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:14:58.5052368] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:14:58.5089108] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:14:58.5149419] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[07:14:58.5161593] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[07:33:56.7249855] [Info] Program::Main
+    Launching Awake...
+[07:33:57.1234058] [Info] Program::Main
+    0.77.0.0
+[07:33:57.1240845] [Info] Program::Main
+    Build: ATRIOX_04132023
+[07:33:57.1274475] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:33:57.3293060] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:33:57.7797809] [Info] Program::Main
+    {}
+[07:33:57.7812543] [Info] Program::Main
+    Parsing parameters...
+[07:33:58.0803107] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:33:58.0818606] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:33:58.0824463] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:33:58.0959758] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15948
+[07:33:58.0997755] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:33:59.0414189] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[07:33:59.0451684] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:33:59.5038287] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:33:59.5344382] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:33:59.5375774] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:33:59.5441190] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[07:33:59.5453057] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[17:04:31.2202201] [Info] <>c__DisplayClass19_0::<HandleCommandLineArguments>b__0
+    Triggered PID-based exit handler for PID 15948.
+[17:04:31.2383694] [Info] Program::Exit
+    Terminating from process binding hook.
+[17:04:31.2409428] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[17:04:31.2429158] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[17:04:31.2465220] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[17:29:22.3015912] [Info] Program::Main
+    Launching Awake...
+[17:29:22.4488523] [Info] Program::Main
+    0.77.0.0
+[17:29:22.4493512] [Info] Program::Main
+    Build: ATRIOX_04132023
+[17:29:22.5119165] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[17:29:22.6435999] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[17:29:22.9267196] [Info] Program::Main
+    {}
+[17:29:22.9288819] [Info] Program::Main
+    Parsing parameters...
+[17:29:23.3357501] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[17:29:23.3410343] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[17:29:23.3418941] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[17:29:23.3431309] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 6908
+[17:29:23.3443999] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[17:29:23.8548553] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[17:29:23.8631292] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[17:29:25.3611185] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[17:29:25.6965178] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[17:29:25.7547062] [Info] Manager::CancelExistingThread
+    [17:29:25.7594340] [Info] <>c::<StartMonitor>b__5_0
+    Instantiating of new token source and thread token completed.
+Setting state to ES_CONTINUOUS
+[17:29:25.8320280] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

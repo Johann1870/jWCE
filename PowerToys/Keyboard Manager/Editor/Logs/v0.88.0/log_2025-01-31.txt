@@ -1,0 +1,17 @@
+[2025-01-31 09:19:25.124067] [p-5772] [t-18148] [info] keyboard-manager logger is initialized
+[2025-01-31 09:19:25.216158] [p-5772] [t-18148] [trace] Created/Opened Local\PowerToys_KBMEditor_InstanceMutex mutex
+[2025-01-31 09:19:25.216355] [p-5772] [t-18148] [trace] Editor started from the settings with pid 38868
+[2025-01-31 09:19:25.217930] [p-5772] [t-18148] [trace] SettingsHelper::LoadSettings()
+[2025-01-31 09:19:25.221432] [p-5772] [t-18148] [trace] CreateEditShortcutsWindowImpl()
+[2025-01-31 09:19:25.221627] [p-5772] [t-18148] [trace] Signaled PowerToys_KeyboardManager_Event_EditorWindow event to suspend the KBM engine
+[2025-01-31 09:19:25.338900] [p-5772] [t-18148] [info] Theme is now Dark
+[2025-01-31 09:19:25.356477] [p-5772] [t-18148] [trace] XamlBridge2::InitBridge()
+[2025-01-31 09:19:26.447182] [p-5772] [t-18148] [trace] XamlBridge2::MessageLoop()
+[2025-01-31 09:20:02.805203] [p-5772] [t-18148] [trace] AllowChord AND no first
+[2025-01-31 09:20:06.236615] [p-5772] [t-18148] [trace] AllowChord AND we have first key of 44, will use 145
+[2025-01-31 09:20:07.861363] [p-5772] [t-18148] [trace] DO have secondKey, will make first 145 and second 19
+[2025-01-31 09:20:11.868570] [p-5772] [t-18148] [trace] DO have secondKey, will make first 19 and second 19
+[2025-01-31 09:20:12.917951] [p-5772] [t-18148] [trace] DO have secondKey, will make first 19 and second 19
+[2025-01-31 09:20:13.780685] [p-5772] [t-18148] [trace] DO have secondKey, will make first 19 and second 19
+[2025-01-31 09:41:05.115787] [p-5772] [t-18148] [trace] XamlBridge2::MessageLoop() stopped
+[2025-01-31 09:41:05.190681] [p-5772] [t-18148] [trace] Terminating process 5772

@@ -1,0 +1,588 @@
+[2023-07-06 16:52:33.6575] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::63]
+Starting PowerToys Run with PID=26812
+
+[2023-07-06 16:52:33.7947] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::74]
+Runner pid=24628
+
+[2023-07-06 16:52:35.1322] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::116]
+On Startup.
+
+[2023-07-06 16:52:35.3101] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\ImageCache.json>
+
+[2023-07-06 16:52:35.4221] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\ImageCache.json>
+
+[2023-07-06 16:52:35.5419] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\PowerToysRunSettings.json>
+
+[2023-07-06 16:52:35.5419] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+ImageLoader.Initialize - Preload images cost <4ms>
+
+[2023-07-06 16:52:35.5475] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Image\ImageLoader.cs::73]
+Number of preload images is <0>, Images Number: 2, Unique Items 2
+
+[2023-07-06 16:52:36.0241] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\PowerToysRunSettings.json>
+
+[2023-07-06 16:52:36.0241] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Pinyin.json>
+
+[2023-07-06 16:52:36.0355] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Pinyin.json>
+
+[2023-07-06 16:52:36.0968] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+|Wox.Infrastructure.Alphabet.Initialize|Preload pinyin cache <71ms>
+
+[2023-07-06 16:52:36.0968] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Alphabet.cs::47]
+Number of preload pinyin combination<0>
+
+[2023-07-06 16:52:36.0968] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\QueryHistory.json>
+
+[2023-07-06 16:52:36.1324] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\QueryHistory.json>
+
+[2023-07-06 16:52:36.1324] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\UserSelectedRecord.json>
+
+[2023-07-06 16:52:36.1451] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\UserSelectedRecord.json>
+
+[2023-07-06 16:52:36.2697] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Calculator> is <8ms>
+
+[2023-07-06 16:52:36.2859] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Folder> is <13ms>
+
+[2023-07-06 16:52:36.2859] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <History> is <3ms>
+
+[2023-07-06 16:52:36.3011] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Windows Indexer> is <6ms>
+
+[2023-07-06 16:52:36.3011] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <OneNote> is <3ms>
+
+[2023-07-06 16:52:36.3172] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <PowerToys> is <6ms>
+
+[2023-07-06 16:52:36.3744] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Program\ProgramPluginSettings.json>
+
+[2023-07-06 16:52:36.3969] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Program\ProgramPluginSettings.json>
+
+[2023-07-06 16:52:36.4261] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Program> is <106ms>
+
+[2023-07-06 16:52:36.4261] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Registry> is <4ms>
+
+[2023-07-06 16:52:36.4447] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Service> is <8ms>
+
+[2023-07-06 16:52:36.4586] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Shell\ShellPluginSettings.json>
+
+[2023-07-06 16:52:36.5026] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Shell\ShellPluginSettings.json>
+
+[2023-07-06 16:52:36.5026] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Shell> is <55ms>
+
+[2023-07-06 16:52:36.5152] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <System Commands> is <9ms>
+
+[2023-07-06 16:52:36.5152] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Time and date> is <4ms>
+
+[2023-07-06 16:52:36.5312] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Unit Converter> is <4ms>
+
+[2023-07-06 16:52:36.5458] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Uri\UriSettings.json>
+
+[2023-07-06 16:52:36.5458] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Uri\UriSettings.json>
+
+[2023-07-06 16:52:36.5458] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Windows Uri Handler> is <21ms>
+
+[2023-07-06 16:52:36.6554] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <VS Code Workspaces> is <95ms>
+
+[2023-07-06 16:52:36.6554] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Web Search> is <5ms>
+
+[2023-07-06 16:52:36.6765] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Windows Settings> is <8ms>
+
+[2023-07-06 16:52:36.6872] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Windows Terminal> is <8ms>
+
+[2023-07-06 16:52:39.6383] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::127]
+Load cost for <Window Walker> is <2947ms>
+
+[2023-07-06 16:52:40.5254] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\SettingsReader.cs::88]
+Successfully read new settings. retryCount=1
+
+[2023-07-06 16:52:40.5359] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Terminal> is <9ms>
+
+[2023-07-06 16:52:40.5627] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Calculator> is <9ms>
+
+[2023-07-06 16:52:40.5627] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <History> is <4ms>
+
+[2023-07-06 16:52:40.5627] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Folder\FolderSettings.json>
+
+[2023-07-06 16:52:40.5627] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::57]
+Deleting cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Indexer\IndexerSettings.json>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Folder\FolderSettings.json>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Indexer\IndexerSettings.json>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Registry> is <4ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Indexer> is <16ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Service> is <8ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Shell> is <55ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Time and date> is <4ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Unit Converter> is <4ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <System Commands> is <10ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Folder> is <30ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Web Search> is <5ms>
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::41]
+Windows Terminal plugin is already initialized
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Window Walker> is <2948ms>
+
+[2023-07-06 16:52:40.5766] [WARN] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\Common\DefaultBrowserInfo.cs::73]
+I've tried updating the chosen Web Browser info at least once.
+
+[2023-07-06 16:52:40.5766] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Uri Handler> is <25ms>
+
+[2023-07-06 16:52:40.6565] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Settings> is <84ms>
+
+[2023-07-06 16:52:44.9514] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\UWPApplication.cs::369]
+-------------------------- Begin exception --------------------------
+Message: 	Error status: KNOWN
+		Program path: C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe
+		Exception thrown in called method: Not available
+		Possible interpretation of the error: Load pri failed @{MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe? ms-resource:///resources/AppDescription} with HResult 2147957527 and location C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe
+		Possible resolution: Can be ignored and PowerToys Run should still continue, however the program may not be loaded
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Unspecified error
+
+Exception stack trace:
+
+Exception source     : 
+Exception target site: 
+Exception HResult    : -2147009769
+-------------------------- End exception --------------------------
+
+
+[2023-07-06 16:52:47.3162] [INFO] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Storage\PackageRepository.cs::80]
+Indexed 51 packaged applications
+
+[2023-07-06 16:52:47.3268] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+Microsoft.Plugin.Program.Main - Package index cost <6757ms>
+
+[2023-07-06 16:52:47.3268] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::566]
+-------------------------- Begin exception --------------------------
+Message: 	Error status: KNOWN
+		Program path: C:\ProgramData\chocolatey\lib\yed\tools\yed.lnk
+		Exception thrown in called method: Void Load(System.String, Int32)
+		Possible interpretation of the error: |An unexpected error occurred in the calling method LnkProgram at C:\ProgramData\chocolatey\lib\yed\tools\yed.lnk
+		Possible resolution: Can be ignored and PowerToys Run should still continue, however the program may not be loaded
+
+Exception full name  : System.IO.DirectoryNotFoundException
+Exception message    : The system cannot find the path specified. (0x80070003)
+Exception stack trace:
+   at System.Runtime.InteropServices.ComTypes.IPersistFile.Load(String pszFileName, Int32 dwMode)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+   at Microsoft.Plugin.Program.Programs.Win32Program.LnkProgram(String path)
+Exception source     : System.Private.CoreLib
+Exception target site: Void Load(System.String, Int32)
+Exception HResult    : -2147024893
+-------------------------- End exception --------------------------
+
+
+[2023-07-06 16:52:47.3629] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\UWPApplication.cs::632]
+-------------------------- Begin exception --------------------------
+Message: 	Error status: KNOWN
+		Program path: C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+		Exception thrown in called method: Not available
+		Possible interpretation of the error: |Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge can't find logo uri for Assets\MicrosoftEdgeSquare44x44.png in package location: C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+		Possible resolution: Can be ignored and PowerToys Run should still continue, however the program may not be loaded
+
+Exception full name  : System.IO.FileNotFoundException
+Exception message    : Unable to find the specified file.
+Exception stack trace:
+
+Exception source     : 
+Exception target site: 
+Exception HResult    : -2147024894
+-------------------------- End exception --------------------------
+
+
+[2023-07-06 16:52:48.6352] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\ShellLinkHelper.cs::170]
+-------------------------- Begin exception --------------------------
+Message: Failed to fetch description for C:\PROGRA~2\WINDOW~4\wmplayer.exe, Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception stack trace:
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.IShellLinkW.GetDescription(StringBuilder pszName, Int32 cchMaxName)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+Exception source     : Microsoft.Plugin.Program
+Exception target site: Void GetDescription(System.Text.StringBuilder, Int32)
+Exception HResult    : -2147467259
+-------------------------- End exception --------------------------
+
+
+[2023-07-06 16:52:48.6928] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\ShellLinkHelper.cs::170]
+-------------------------- Begin exception --------------------------
+Message: Failed to fetch description for C:\WINDOWS\syswow64\odbcad32.exe, Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception stack trace:
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.IShellLinkW.GetDescription(StringBuilder pszName, Int32 cchMaxName)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+Exception source     : Microsoft.Plugin.Program
+Exception target site: Void GetDescription(System.Text.StringBuilder, Int32)
+Exception HResult    : -2147467259
+-------------------------- End exception --------------------------
+
+
+[2023-07-06 16:52:50.1187] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\CcmEval.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\CcmEval.exe
+
+[2023-07-06 16:52:50.1187] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDBitLocker.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDBitLocker.exe
+
+[2023-07-06 16:52:50.1187] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDPrepareSmsClient.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDPrepareSmsClient.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDPrestartCheck.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDPrestartCheck.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDBitLocker_wtg.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDBitLocker_wtg.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\smsswd.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\smsswd.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDRunPowerShellScript.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDRunPowerShellScript.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\ccmrepair.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\ccmrepair.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDDiskPart.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDDiskPart.exe
+
+[2023-07-06 16:52:50.1272] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\UpdateTrustedSites.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\UpdateTrustedSites.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDSetDynamicVariables.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDSetDynamicVariables.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\CcmRestart.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\CcmRestart.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDDownloadContent.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDDownloadContent.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\VAppCollector.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\VAppCollector.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\tsenv.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\tsenv.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDSetupWindows.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDSetupWindows.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\CMHttpsReadiness.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\CMHttpsReadiness.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDJoin.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDJoin.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\SensorLogonTask.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\SensorLogonTask.exe
+
+[2023-07-06 16:52:50.1413] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\TSInstallSWUpdate.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\TSInstallSWUpdate.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDSmpClient.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDSmpClient.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OsdMigrateUserState.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OsdMigrateUserState.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\Ccm32BitLauncher.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\Ccm32BitLauncher.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\TSManager.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\TSManager.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDNetSettings.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDNetSettings.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\ConnectivityDiagnosis.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\ConnectivityDiagnosis.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\CcmAADBroker.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\CcmAADBroker.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDUpgradeOS.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDUpgradeOS.exe
+
+[2023-07-06 16:52:50.1546] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\smsappinstall.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\smsappinstall.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDPrepareOS.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDPrepareOS.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\TSMBootstrap.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\TSMBootstrap.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\smsboot.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\smsboot.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\OSDWinSettings.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\OSDWinSettings.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\ccmdump.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\ccmdump.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\TSPLaunch.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\TSPLaunch.exe
+
+[2023-07-06 16:52:50.1701] [WARN] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\Win32Program.cs::966]
+
+		Program path: C:\WINDOWS\CCM\smsnetuse.exe
+		Exception thrown in called method: Void ThrowLastWin32Error(System.String)
+		Possible interpretation of the error: |Error whilst retrieving the redirection path from app execution alias C:\WINDOWS\CCM\smsnetuse.exe
+
+[2023-07-06 16:52:51.4435] [INFO] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Storage\Win32ProgramRepository.cs::243]
+Indexed 1988 win32 applications
+
+[2023-07-06 16:52:51.4435] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+Microsoft.Plugin.Program.Main - Win32Program index cost <10864ms>
+
+[2023-07-06 16:52:51.4435] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Program> is <10986ms>
+
+[2023-07-06 16:52:51.5539] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Calculator. Query cost - 86 milliseconds
+
+[2023-07-06 16:52:51.8042] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 235 milliseconds
+
+[2023-07-06 16:52:52.0101] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Windows Terminal. Query cost - 184 milliseconds
+
+[2023-07-06 16:52:52.0101] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::165]
+Begin PowerToys Run startup ----------------------------------------------------
+Runtime info:
+Version: 0.71.0.0
+OS Version: Microsoft Windows NT 10.0.19045.0
+IntPtr Length: 8
+x64: True
+End PowerToys Run startup ----------------------------------------------------  
+
+
+[2023-07-06 16:52:52.0101] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+App.OnStartup - Startup cost <16876ms>
+
+[2023-07-06 16:52:52.0101] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::95]
+RunExitEvent was signaled. Exiting PowerToys
+
+[2023-07-06 16:52:52.0154] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\QueryHistory.json>
+
+[2023-07-06 16:52:52.0154] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\UserSelectedRecord.json>
+
+[2023-07-06 16:52:52.0154] [ERROR] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\MainWindow.xaml.cs::758]
+-------------------------- Begin exception --------------------------
+Message: Exception when trying to Remove hook
+
+Exception full name  : System.NullReferenceException
+Exception message    : Object reference not set to an instance of an object.
+Exception stack trace:
+   at PowerLauncher.MainWindow.OnClosed(Object sender, EventArgs e)
+Exception source     : PowerToys.PowerLauncher
+Exception target site: Void OnClosed(System.Object, System.EventArgs)
+Exception HResult    : -2147467261
+-------------------------- End exception --------------------------
+
+
+[2023-07-06 16:52:52.0154] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::213]
+Application.Current.Exit
+
+[2023-07-06 16:52:52.0154] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::278]
+Start PowerToys Run Exit----------------------------------------------------  
+
+[2023-07-06 16:52:52.0299] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\PowerToysRunSettings.json>
+
+[2023-07-06 16:52:52.0299] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Folder\FolderSettings.json>
+
+[2023-07-06 16:52:52.0299] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Indexer\IndexerSettings.json>
+
+[2023-07-06 16:52:52.0299] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Program\ProgramPluginSettings.json>
+
+[2023-07-06 16:52:52.0299] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Shell\ShellPluginSettings.json>
+
+[2023-07-06 16:52:52.0299] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Uri\UriSettings.json>
+
+[2023-07-06 16:52:52.0533] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\ImageCache.json>
+
+[2023-07-06 16:52:52.0533] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::296]
+End PowerToys Run Exit ----------------------------------------------------  
+
+[2023-07-06 16:52:52.0533] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+App.OnExit - Exit cost <31ms>
+

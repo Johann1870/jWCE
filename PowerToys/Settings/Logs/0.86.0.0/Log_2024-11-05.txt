@@ -1,0 +1,7 @@
+[12:57:47.9003284] [Info] CmdNotFoundViewModel::CheckCommandNotFoundRequirements
+    [PSVersion, 7.4.6] [PSEdition, Core] [GitCommitId, 7.4.6] [OS, Microsoft Windows 10.0.22631] [Platform, Win32NT] [PSCompatibleVersions, System.Version[]] [PSRemotingProtocolVersion, 2.3] [SerializationVersion, 1.1.0.1] [WSManStackVersion, 3.0]
+PowerShell 7.4 or greater detected.
+WinGet Client module not detected. Installation instructions can be found on https://www.powershellgallery.com/packages/Microsoft.WinGet.Client 
+
+Command Not Found module is not registered in the profile file.
+

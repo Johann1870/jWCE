@@ -1,0 +1,67 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{023B4EB8-69A5-4247-B3F3-1462AE6E1F16}",
+      "name": "Right Monitor",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 3,
+        "rows-percentage": [
+          5103,
+          4897
+        ],
+        "columns-percentage": [
+          3136,
+          3097,
+          3767
+        ],
+        "cell-child-map": [
+          [
+            0,
+            0,
+            3
+          ],
+          [
+            1,
+            2,
+            4
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 2,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{D236642E-369A-4BE8-BE26-45F099A0248D}",
+      "name": "Left Monitor",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 2,
+        "rows-percentage": [
+          4888,
+          5112
+        ],
+        "columns-percentage": [
+          5998,
+          4002
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 2,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}

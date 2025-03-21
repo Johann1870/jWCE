@@ -1,0 +1,1 @@
+[2025-03-12 07:53:46.197102] [p-16176] [t-15468] [info] TextExtractor logger is initialized

@@ -1,0 +1,1 @@
+[2022-12-13 15:42:36.031481] [p-16004] [t-15936] [info] Launcher object is destroying

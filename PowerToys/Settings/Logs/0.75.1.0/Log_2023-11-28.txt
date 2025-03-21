@@ -1,0 +1,22 @@
+[07:44:48.5461843] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for CropAndLock was not found.
+[07:44:48.5712529] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for Keyboard Manager was not found.
+[07:44:48.5749698] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file default.json for Keyboard Manager was not found.
+[07:44:48.5878017] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for MouseJump was not found.
+[07:44:48.5962489] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for PastePlain was not found.
+[07:44:48.6418271] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for QuickAccent was not found.
+[07:45:04.7902562] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
+[07:48:34.8835847] [Info] KeyboardManagerViewModel::OpenEditor
+    Previous instance of Keyboard Manager editor exited
+[07:48:34.8837845] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe
+[07:51:56.7469246] [Info] KeyboardManagerViewModel::OpenEditor
+    Previous instance of Keyboard Manager editor exited
+[07:51:56.7471577] [Info] KeyboardManagerViewModel::OpenEditor
+    Starting Keyboard Manager editor from C:\Program Files\PowerToys\KeyboardManagerEditor\PowerToys.KeyboardManagerEditor.exe

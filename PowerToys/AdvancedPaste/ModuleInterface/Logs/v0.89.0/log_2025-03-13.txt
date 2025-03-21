@@ -1,0 +1,8 @@
+[2025-03-13 07:39:02.265242] [p-16572] [t-16576] [info] AdvancedPaste logger is initialized
+[2025-03-13 07:39:02.268899] [p-16572] [t-16576] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-13 07:39:02.269263] [p-16572] [t-16576] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-13 07:39:02.930285] [p-16572] [t-16576] [trace] AdvancedPaste::enable()
+[2025-03-13 07:39:02.930783] [p-16572] [t-18176] [trace] Starting Advanced Paste process
+[2025-03-13 07:39:06.142308] [p-16572] [t-18176] [trace] Successfully started Advanced Paste process
+[2025-03-13 07:39:11.211675] [p-16572] [t-18176] [error] Error waiting for Advanced Paste to connect to named pipe
+[2025-03-13 07:39:11.212915] [p-16572] [t-18176] [error] Named pipe initialization failed; terminating Advanced Paste process

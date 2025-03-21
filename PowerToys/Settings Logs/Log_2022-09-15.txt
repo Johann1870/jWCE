@@ -1,0 +1,6 @@
+INFO: 13:40:30.4855291
+    [Method]: LoadSettingsFromJson [Class]: UserSettings
+    TextExtractor settings.json was missing, creating a new one
+INFO: 15:40:59.2473038
+    [Method]: <Application_Startup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting TextExtractor

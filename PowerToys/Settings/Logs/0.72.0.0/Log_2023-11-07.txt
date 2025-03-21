@@ -1,0 +1,176 @@
+[12:40:40.4359276] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\settings.json does not exists.
+[12:40:40.4388005] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\settings.json, dryRun:True.
+[12:40:40.4394909] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\AlwaysOnTop\settings.json does not exists.
+[12:40:40.4400554] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\AlwaysOnTop\settings.json, dryRun:True.
+[12:40:40.4406623] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json does not exists.
+[12:40:40.4412341] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Awake\settings.json, dryRun:True.
+[12:40:40.4418920] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\ColorPicker\settings.json does not exists.
+[12:40:40.4424426] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\ColorPicker\settings.json, dryRun:True.
+[12:40:40.4430982] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\custom-layouts.json does not exists.
+[12:40:40.4437537] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\FancyZones\custom-layouts.json, dryRun:True.
+[12:40:40.4441896] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\layout-hotkeys.json does not exists.
+[12:40:40.4443928] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\FancyZones\layout-hotkeys.json, dryRun:True.
+[12:40:40.4449981] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\layout-templates.json does not exists.
+[12:40:40.4452112] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\FancyZones\layout-templates.json, dryRun:True.
+[12:40:40.4461001] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\settings.json does not exists.
+[12:40:40.4463812] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\FancyZones\settings.json, dryRun:True.
+[12:40:40.4471211] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\File Explorer\settings.json does not exists.
+[12:40:40.4476630] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\File Explorer\settings.json, dryRun:True.
+[12:40:40.4480764] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\File Locksmith\file-locksmith-settings.json does not exists.
+[12:40:40.4486533] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\File Locksmith\file-locksmith-settings.json, dryRun:True.
+[12:40:40.4493414] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FindMyMouse\settings.json does not exists.
+[12:40:40.4499577] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\FindMyMouse\settings.json, dryRun:True.
+[12:40:40.4502852] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Image Resizer\image-resizer-settings.json does not exists.
+[12:40:40.4507882] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Image Resizer\image-resizer-settings.json, dryRun:True.
+[12:40:40.4515702] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Image Resizer\settings.json does not exists.
+[12:40:40.4518023] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Image Resizer\settings.json, dryRun:True.
+[12:40:40.4522130] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Measure Tool\settings.json does not exists.
+[12:40:40.4527674] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Measure Tool\settings.json, dryRun:True.
+[12:40:40.4531856] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\MouseHighlighter\settings.json does not exists.
+[12:40:40.4536922] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\MouseHighlighter\settings.json, dryRun:True.
+[12:40:40.4540827] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\MousePointerCrosshairs\settings.json does not exists.
+[12:40:40.4545723] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\MousePointerCrosshairs\settings.json, dryRun:True.
+[12:40:40.4551427] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Peek\settings.json does not exists.
+[12:40:40.4556343] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Peek\settings.json, dryRun:True.
+[12:40:40.4560351] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerRename\power-rename-settings.json does not exists.
+[12:40:40.4565676] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\PowerRename\power-rename-settings.json, dryRun:True.
+[12:40:40.4591432] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\settings.json does not exists.
+[12:40:40.4597356] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\PowerToys Run\settings.json, dryRun:True.
+[12:40:40.4601645] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Shortcut Guide\settings.json does not exists.
+[12:40:40.4606442] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Shortcut Guide\settings.json, dryRun:True.
+[12:40:40.4611551] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\TextExtractor\settings.json does not exists.
+[12:40:40.4616594] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\TextExtractor\settings.json, dryRun:True.
+[12:40:40.4623420] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Video Conference\settings.json does not exists.
+[12:40:40.4631277] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632404191980\Video Conference\settings.json, dryRun:True.
+[12:40:40.4712098] [Info] SettingsBackupAndRestoreUtils::BackupSettings
+    BackupSettings took 109
+[12:40:44.3223897] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\settings.json does not exists.
+[12:40:44.3230064] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\settings.json, dryRun:True.
+[12:40:44.3233980] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\AlwaysOnTop\settings.json does not exists.
+[12:40:44.3240119] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\AlwaysOnTop\settings.json, dryRun:True.
+[12:40:44.3243124] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json does not exists.
+[12:40:44.3247729] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\Awake\settings.json, dryRun:True.
+[12:40:44.3251187] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\ColorPicker\settings.json does not exists.
+[12:40:44.3256018] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\ColorPicker\settings.json, dryRun:True.
+[12:40:44.3259322] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\custom-layouts.json does not exists.
+[12:40:44.3265847] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\FancyZones\custom-layouts.json, dryRun:True.
+[12:40:44.3268885] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\layout-hotkeys.json does not exists.
+[12:40:44.3270766] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\FancyZones\layout-hotkeys.json, dryRun:True.
+[12:40:44.3273639] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\layout-templates.json does not exists.
+[12:40:44.3275299] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\FancyZones\layout-templates.json, dryRun:True.
+[12:40:44.3278753] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FancyZones\settings.json does not exists.
+[12:40:44.3280725] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\FancyZones\settings.json, dryRun:True.
+[12:40:44.3283828] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\File Explorer\settings.json does not exists.
+[12:40:44.3288223] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\File Explorer\settings.json, dryRun:True.
+[12:40:44.3290888] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\File Locksmith\file-locksmith-settings.json does not exists.
+[12:40:44.3296130] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\File Locksmith\file-locksmith-settings.json, dryRun:True.
+[12:40:44.3299244] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\FindMyMouse\settings.json does not exists.
+[12:40:44.3304406] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\FindMyMouse\settings.json, dryRun:True.
+[12:40:44.3307307] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Image Resizer\image-resizer-settings.json does not exists.
+[12:40:44.3312013] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\Image Resizer\image-resizer-settings.json, dryRun:True.
+[12:40:44.3315527] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Image Resizer\settings.json does not exists.
+[12:40:44.3317399] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\Image Resizer\settings.json, dryRun:True.
+[12:40:44.3320233] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Measure Tool\settings.json does not exists.
+[12:40:44.3324639] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\Measure Tool\settings.json, dryRun:True.
+[12:40:44.3327797] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\MouseHighlighter\settings.json does not exists.
+[12:40:44.3333494] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\MouseHighlighter\settings.json, dryRun:True.
+[12:40:44.3337186] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\MousePointerCrosshairs\settings.json does not exists.
+[12:40:44.3341951] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\MousePointerCrosshairs\settings.json, dryRun:True.
+[12:40:44.3345352] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Peek\settings.json does not exists.
+[12:40:44.3350421] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\Peek\settings.json, dryRun:True.
+[12:40:44.3353200] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerRename\power-rename-settings.json does not exists.
+[12:40:44.3358927] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\PowerRename\power-rename-settings.json, dryRun:True.
+[12:40:44.3370993] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\PowerToys Run\settings.json does not exists.
+[12:40:44.3376975] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\PowerToys Run\settings.json, dryRun:True.
+[12:40:44.3380271] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Shortcut Guide\settings.json does not exists.
+[12:40:44.3385077] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\Shortcut Guide\settings.json, dryRun:True.
+[12:40:44.3388443] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\TextExtractor\settings.json does not exists.
+[12:40:44.3393107] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings writing, C:\Users\jditzel\AppData\Local\Temp\settings_133438632443215274\TextExtractor\settings.json, dryRun:True.
+[12:40:44.3396209] [Info] SettingsBackupAndRestoreUtils::BackupSettingsInternal
+    BackupSettings, C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Video Conference\settings.json does not exists.

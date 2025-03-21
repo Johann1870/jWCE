@@ -1,0 +1,4 @@
+[2022-10-18 08:45:54.9816 INFO Awake.Program] Triggered PID-based exit handler for PID 14552.
+[2022-10-18 08:45:55.0912 INFO Awake.Program] Terminating from process binding hook.
+[2022-10-18 08:45:55.2830 INFO Awake.Program] Exited keep-awake thread successfully: True
+[2022-10-18 08:45:55.3777 INFO Awake.Core.APIHelper] Confirmed background thread cancellation when disabling explicit keep awake.

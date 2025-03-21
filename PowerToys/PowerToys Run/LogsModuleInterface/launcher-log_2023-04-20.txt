@@ -1,0 +1,8 @@
+[2023-04-20 06:55:00.984999] [p-13204] [t-7312] [info] Launcher object is destroying
+[2023-04-20 06:56:46.919633] [p-7612] [t-18412] [info] launcher logger is initialized
+[2023-04-20 06:56:46.919732] [p-7612] [t-18412] [info] Launcher object is constructing
+[2023-04-20 06:56:47.419768] [p-7612] [t-18412] [info] Microsoft_Launcher::enable() begin
+[2023-04-20 06:56:47.419870] [p-7612] [t-18412] [trace] Signaled exitEvent
+[2023-04-20 06:56:47.419936] [p-7612] [t-18412] [trace] Starting PowerToys Run from elevated process
+[2023-04-20 06:56:47.559474] [p-7612] [t-18412] [info] Microsoft_Launcher::enable() end
+[2023-04-20 06:56:47.795642] [p-7612] [t-11472] [info] Send settings telemetry

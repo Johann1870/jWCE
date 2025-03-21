@@ -1,0 +1,4 @@
+[16:27:52.0245538] [Info] MainViewModel.cs::.ctor::83
+    Starting FileLocksmith with 1 files selected.
+[16:34:26.7856883] [Info] MainViewModel.cs::.ctor::83
+    Starting FileLocksmith with 1 files selected.

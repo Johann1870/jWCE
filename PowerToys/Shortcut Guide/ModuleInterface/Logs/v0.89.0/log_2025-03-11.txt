@@ -1,0 +1,3 @@
+[2025-03-11 07:19:39.318904] [p-15820] [t-15824] [info] shortcut-guide logger is initialized
+[2025-03-11 07:19:39.330726] [p-15820] [t-15824] [warning] Failed to get legacy win key behavior settings
+[2025-03-11 07:19:39.331290] [p-15820] [t-15824] [trace] GetHotkeyEx()

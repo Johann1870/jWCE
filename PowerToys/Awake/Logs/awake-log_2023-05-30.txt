@@ -1,0 +1,4 @@
+[2023-05-30 22:28:27.249345] [p-10088] [t-12556] [info] launcher logger is initialized
+[2023-05-30 22:28:27.249502] [p-10088] [t-12556] [info] Launcher object is constructing
+[2023-05-30 22:28:27.725876] [p-10088] [t-12556] [trace] Launching PowerToys Awake process
+[2023-05-30 22:28:27.725978] [p-10088] [t-12556] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 10088

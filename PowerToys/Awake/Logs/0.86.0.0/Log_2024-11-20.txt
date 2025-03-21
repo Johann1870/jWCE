@@ -1,0 +1,94 @@
+[08:07:28.3339102] [Info] Program::Main
+    Launching Awake...
+[08:07:28.4259555] [Info] Program::Main
+    0.86.0.0
+[08:07:28.4263523] [Info] Program::Main
+    Build: PROMETHEAN_09082024
+[08:07:28.4283670] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[08:07:28.4542456] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[08:07:28.5544481] [Info] Program::Main
+    {}
+[08:07:28.5548844] [Info] Program::Main
+    Parsing parameters...
+[08:07:28.6849307] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[08:07:28.6866979] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[08:07:28.6932953] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[08:07:28.6943699] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[08:07:28.6950390] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 8620
+[08:07:28.6956409] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[08:07:28.6962580] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[08:07:28.7138798] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[08:07:28.7426365] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[08:07:28.7594762] [Info] <>c__DisplayClass13_0::<InitializeTray>b__1
+    Created HWND for the window: 66312
+[08:07:28.7703825] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add and error code: -2147467259. HIcon handle is 66337 and HWnd is 66312
+[08:07:28.7741199] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[08:07:28.9237565] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[08:07:28.9310278] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update and error code: -2147467259. HIcon handle is 66345 and HWnd is 66312
+[08:07:28.9319577] [Error] Program::ProcessSettings
+    There was a problem reading the configuration file. Error: System.ComponentModel.Win32Exception Failed to change tray icon. Action: Update and error code: -2147467259
+[08:07:28.9326260] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 8620
+[13:00:47.5245946] [Info] Program::Main
+    Launching Awake...
+[13:00:47.5536060] [Info] Program::Main
+    0.86.0.0
+[13:00:47.5541787] [Info] Program::Main
+    Build: PROMETHEAN_09082024
+[13:00:47.5568460] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[13:00:47.5861940] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[13:00:47.8269987] [Info] Program::Main
+    {}
+[13:00:47.8275625] [Info] Program::Main
+    Parsing parameters...
+[13:00:48.0446197] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[13:00:48.0463513] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[13:00:48.0477126] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[13:00:48.0505712] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[13:00:48.0523226] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15896
+[13:00:48.0534207] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[13:00:48.0541542] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[13:00:48.0592660] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[13:00:48.0816374] [Info] <>c__DisplayClass13_0::<InitializeTray>b__1
+    Created HWND for the window: 591430
+[13:00:48.0863787] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[13:00:48.1294284] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[13:00:48.5300423] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[13:00:48.5877399] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[13:00:48.5901522] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[13:00:48.5929044] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 15896
+[13:00:48.5963234] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[13:00:48.6010441] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

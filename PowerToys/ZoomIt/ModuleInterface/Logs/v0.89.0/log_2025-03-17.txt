@@ -1,0 +1,3 @@
+[2025-03-17 07:37:51.505784] [p-12756] [t-12456] [info] zoom-it logger is initialized
+[2025-03-17 07:48:21.886560] [p-13448] [t-15080] [info] zoom-it logger is initialized
+[2025-03-17 21:23:25.655465] [p-6656] [t-13292] [info] zoom-it logger is initialized

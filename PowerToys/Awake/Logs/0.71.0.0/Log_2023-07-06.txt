@@ -1,0 +1,46 @@
+[16:52:31.8066884] [Info] Program::Main
+    Launching Awake...
+[16:52:31.8247048] [Info] Program::Main
+    0.71.0.0
+[16:52:31.8252186] [Info] Program::Main
+    Build: ATRIOX_04132023
+[16:52:31.8264601] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.19045.0
+[16:52:31.8405597] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 22H2 19041.1.amd64fre.vb_release.191206-1406
+[16:52:31.9393083] [Info] Program::Main
+    {}
+[16:52:31.9398324] [Info] Program::Main
+    Parsing parameters...
+[16:52:32.2258707] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[16:52:32.2377773] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[16:52:32.2385050] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[16:52:32.2389579] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 24628
+[16:52:32.2397212] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[16:52:32.3453990] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[16:52:32.3518324] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[16:52:32.6127603] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[16:52:32.6134728] [Info] Program::SetupNoKeepAwake
+    Operating in passive mode (computer's standard power plan). No custom keep awake settings enabled.
+[16:52:32.6270008] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[16:52:32.6298323] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[16:52:32.6320858] [Info] <>c::<StartMonitor>b__3_0
+    Setting state to ES_CONTINUOUS
+[16:52:37.2261105] [Info] Program::Exit
+    Received a signal to end the process. Making sure we quit...
+[16:52:37.2273212] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[16:52:37.2279640] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[16:52:37.2282083] [Info] <>c::<StartMonitor>b__3_0
+    Setting state to ES_CONTINUOUS

@@ -1,0 +1,10 @@
+[2023-07-06 16:48:59.451225] [p-14804] [t-13680] [info] launcher logger is initialized
+[2023-07-06 16:48:59.451551] [p-14804] [t-13680] [info] Launcher object is constructing
+[2023-07-06 16:49:05.512464] [p-14804] [t-13680] [trace] Launching PowerToys Awake process
+[2023-07-06 16:49:05.512574] [p-14804] [t-13680] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 14804
+[2023-07-06 16:52:30.308706] [p-24628] [t-21836] [info] launcher logger is initialized
+[2023-07-06 16:52:30.309008] [p-24628] [t-21836] [info] Launcher object is constructing
+[2023-07-06 16:52:31.198455] [p-24628] [t-21836] [trace] Launching PowerToys Awake process
+[2023-07-06 16:52:31.198904] [p-24628] [t-21836] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 24628
+[2023-07-06 16:52:37.225548] [p-24628] [t-21836] [trace] Disabling Awake...
+[2023-07-06 16:52:37.225772] [p-24628] [t-21836] [trace] Signaled exit event for PowerToys Awake.

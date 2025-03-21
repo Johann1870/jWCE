@@ -1,0 +1,2 @@
+[2024-07-26 07:50:00.975111] [p-15476] [t-14880] [info] launcher logger is initialized
+[2024-07-26 07:50:00.975458] [p-15476] [t-14880] [info] Launcher object is constructing

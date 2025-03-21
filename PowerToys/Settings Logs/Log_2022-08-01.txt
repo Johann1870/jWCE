@@ -1,0 +1,43 @@
+INFO: 06:44:30.1203321
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 09:06:53.0875389
+    [Method]: <OnStartup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 09:06:54.3696077
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 09:06:54.3716008
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+ERROR: 09:06:54.4771646
+    [Method]: Main [Class]: Program
+    Unhandled exception
+Invalid window handle.
+Inner exception: 
+
+Stack trace: 
+   at MS.Win32.HwndWrapper.DestroyWindow(Object args)
+   at MS.Win32.HwndWrapper.Dispose(Boolean disposing, Boolean isHwndBeingDestroyed)
+   at MS.Win32.HwndWrapper.Dispose()
+   at System.Windows.Interop.HwndSource.Dispose(Boolean disposing)
+   at System.Windows.Interop.HwndSource.WeakEventDispatcherShutdown.OnShutdownFinished(Object sender, EventArgs e)
+   at System.Windows.Threading.Dispatcher.ShutdownImplInSecurityContext(Object state)
+   at MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.Dispatcher.ShutdownImpl()
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.Run()
+   at System.Windows.Application.RunDispatcher(Object ignore)
+   at System.Windows.Application.RunInternal(Window window)
+   at System.Windows.Application.Run()
+   at ColorPicker.Program.Main(String[] args)
+INFO: 09:06:54.4778349
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 09:06:54.4779740
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

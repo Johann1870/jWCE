@@ -1,0 +1,38 @@
+[07:21:17.1447062] [Info] Program::Main
+    Launching Awake...
+[07:21:17.1737037] [Info] Program::Main
+    0.77.0.0
+[07:21:17.1740722] [Info] Program::Main
+    Build: ATRIOX_04132023
+[07:21:17.1758063] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:21:17.2716877] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:21:17.4460132] [Info] Program::Main
+    {}
+[07:21:17.4464664] [Info] Program::Main
+    Parsing parameters...
+[07:21:17.6168623] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:21:17.6183011] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:21:17.6324431] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:21:17.6330715] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 13372
+[07:21:17.6336116] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:21:17.8675825] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[07:21:17.9454400] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:21:18.6483639] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:21:18.6751087] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:21:18.6771904] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:21:18.6834914] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[07:21:18.6851157] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

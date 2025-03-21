@@ -1,0 +1,4 @@
+[2025-03-18 07:09:49.609501] [p-16300] [t-16304] [info] QuickAccent logger is initialized
+[2025-03-18 07:09:49.610607] [p-16300] [t-16304] [info] Launcher object is constructing
+[2025-03-18 07:09:52.769055] [p-16300] [t-16304] [trace] Launching PowerToys QuickAccent process
+[2025-03-18 07:09:52.769387] [p-16300] [t-16304] [trace] PowerToys QuickAccent launching: PowerToys.PowerAccent.exe 16300

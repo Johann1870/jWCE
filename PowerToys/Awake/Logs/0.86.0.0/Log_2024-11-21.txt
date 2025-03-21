@@ -1,0 +1,46 @@
+[08:11:51.3652179] [Info] Program::Main
+    Launching Awake...
+[08:11:51.5948614] [Info] Program::Main
+    0.86.0.0
+[08:11:51.5953197] [Info] Program::Main
+    Build: PROMETHEAN_09082024
+[08:11:51.5968664] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[08:11:51.7390851] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[08:11:52.4751816] [Info] Program::Main
+    {}
+[08:11:52.4769799] [Info] Program::Main
+    Parsing parameters...
+[08:11:53.3745776] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[08:11:53.4301638] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[08:11:53.4626837] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[08:11:53.4636441] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[08:11:53.4642264] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 13912
+[08:11:53.4771994] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[08:11:53.4928188] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[08:11:53.5604254] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[08:11:53.6582967] [Info] <>c__DisplayClass13_0::<InitializeTray>b__1
+    Created HWND for the window: 66694
+[08:11:53.7601098] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[08:11:53.7666544] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add and error code: -2147467259. HIcon handle is 66605 and HWnd is 66694
+[08:11:53.8086274] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[08:11:54.9545665] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[08:11:55.0929893] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update and error code: -2147467259. HIcon handle is 197717 and HWnd is 66694
+[08:11:55.1249445] [Error] Program::ProcessSettings
+    There was a problem reading the configuration file. Error: System.ComponentModel.Win32Exception Failed to change tray icon. Action: Update and error code: -2147467259
+[08:11:55.1406053] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 13912

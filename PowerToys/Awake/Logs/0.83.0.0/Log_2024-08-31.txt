@@ -1,0 +1,38 @@
+[13:50:08.4974207] [Info] Program::Main
+    Launching Awake...
+[13:50:08.6410077] [Info] Program::Main
+    0.83.0.0
+[13:50:08.6414479] [Info] Program::Main
+    Build: DAISY023_04102024
+[13:50:08.6437136] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[13:50:08.9073361] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[13:50:09.2355002] [Info] Program::Main
+    {}
+[13:50:09.2359575] [Info] Program::Main
+    Parsing parameters...
+[13:50:09.4686326] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[13:50:09.4833777] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[13:50:09.4842716] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[13:50:09.4851551] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 16884
+[13:50:09.4863207] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[13:50:09.6018286] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[13:50:10.0280398] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[13:50:10.0542205] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[13:50:10.0727731] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[13:50:10.0742434] [Error] Program::ProcessSettings
+    There was a problem reading the configuration file. Error: System.ComponentModel.Win32Exception Failed to change tray icon. Action: Update and error code: 0
+[13:50:10.0762081] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[13:50:10.0778133] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

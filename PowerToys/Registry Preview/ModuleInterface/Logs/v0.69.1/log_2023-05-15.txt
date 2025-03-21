@@ -1,0 +1,2 @@
+[2023-05-15 08:30:54.805230] [p-14652] [t-14656] [info] RegistryPreview logger is initialized
+[2023-05-15 08:30:54.805976] [p-14652] [t-14656] [info] Registry Preview object is constructing

@@ -1,0 +1,3 @@
+[2025-03-17 07:37:50.601026] [p-12756] [t-12456] [info] Measure Tool logger is initialized
+[2025-03-17 07:48:21.090487] [p-13448] [t-15080] [info] Measure Tool logger is initialized
+[2025-03-17 21:23:24.669631] [p-6656] [t-13292] [info] Measure Tool logger is initialized

@@ -1,0 +1,15 @@
+[2023-05-11 00:14:07.910814] [p-15996] [t-16000] [info] launcher logger is initialized
+[2023-05-11 00:14:07.911073] [p-15996] [t-16000] [info] Launcher object is constructing
+[2023-05-11 00:14:12.729452] [p-15996] [t-16000] [info] Microsoft_Launcher::enable() begin
+[2023-05-11 00:14:12.729811] [p-15996] [t-16000] [trace] Signaled exitEvent
+[2023-05-11 00:14:12.729940] [p-15996] [t-16000] [trace] Starting PowerToys Run from elevated process
+[2023-05-11 00:14:13.046281] [p-15996] [t-16000] [info] Microsoft_Launcher::enable() end
+[2023-05-11 12:44:02.747712] [p-15996] [t-4684] [info] Send settings telemetry
+[2023-05-11 21:57:50.185248] [p-36852] [t-19092] [info] launcher logger is initialized
+[2023-05-11 21:57:50.185519] [p-36852] [t-19092] [info] Launcher object is constructing
+[2023-05-11 21:57:51.741679] [p-36852] [t-19092] [info] Microsoft_Launcher::enable() begin
+[2023-05-11 21:57:51.746327] [p-36852] [t-19092] [trace] Signaled exitEvent
+[2023-05-11 21:57:51.748553] [p-36852] [t-19092] [trace] Starting PowerToys Run from elevated process
+[2023-05-11 21:57:51.938853] [p-36852] [t-19092] [warning] Failed to find the window. Incorrect function.
+[2023-05-11 21:57:51.980704] [p-36852] [t-19092] [warning] FindDesktopFolderView() failed attempt 1
+[2023-05-11 21:57:56.463344] [p-36852] [t-19092] [info] Microsoft_Launcher::enable() end

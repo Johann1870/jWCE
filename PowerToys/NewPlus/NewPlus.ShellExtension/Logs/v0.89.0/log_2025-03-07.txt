@@ -1,0 +1,2 @@
+[2025-03-07 07:30:29.060930] [p-15704] [t-15708] [info] NewPlus logger is initialized
+[2025-03-07 14:41:30.605698] [p-15396] [t-15400] [info] NewPlus logger is initialized

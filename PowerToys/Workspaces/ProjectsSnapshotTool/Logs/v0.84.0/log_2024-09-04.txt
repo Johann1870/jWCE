@@ -1,0 +1,4 @@
+[2024-09-04 09:23:49.116952] [p-23344] [t-7012] [info] workspaces-launcher logger is initialized
+[2024-09-04 09:23:49.212109] [p-23344] [t-7012] [trace] Creating workspace :{A68E49DA-E683-42CF-9E62-086B0D5A0CA4}
+[2024-09-04 09:23:50.422661] [p-23344] [t-7012] [debug] Installed app not found: Settings, C:\Windows\System32\ApplicationFrameHost.exe
+[2024-09-04 09:23:50.426708] [p-23344] [t-7012] [trace] WorkspacesProject :{A68E49DA-E683-42CF-9E62-086B0D5A0CA4} created

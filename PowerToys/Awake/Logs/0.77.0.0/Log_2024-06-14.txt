@@ -1,0 +1,94 @@
+[09:37:13.3739292] [Info] Program::Main
+    Launching Awake...
+[09:37:13.3881030] [Info] Program::Main
+    0.77.0.0
+[09:37:13.3882990] [Info] Program::Main
+    Build: ATRIOX_04132023
+[09:37:13.3894308] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[09:37:13.4051238] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[09:37:13.4652368] [Info] Program::Main
+    {}
+[09:37:13.4654670] [Info] Program::Main
+    Parsing parameters...
+[09:37:13.5970212] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[09:37:13.5979046] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[09:37:13.5980949] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[09:37:13.5982658] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15528
+[09:37:13.5984236] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[09:37:13.6743197] [Info] <>c__DisplayClass9_0::<InitializeTray>b__0
+    Setting up the tray.
+[09:37:13.6813508] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[09:37:13.7846885] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[09:37:13.7850823] [Info] Program::SetupNoKeepAwake
+    Operating in passive mode (computer's standard power plan). No custom keep awake settings enabled.
+[09:37:13.7939674] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[09:37:13.7951114] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[09:37:13.7986856] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[09:37:32.6583998] [Info] Program::HandleAwakeConfigChange
+    Detected a settings file change. Updating configuration...
+[09:37:32.6587853] [Info] Program::HandleAwakeConfigChange
+    Resetting keep-awake to normal state due to settings change.
+[09:37:32.6665492] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[09:37:32.6670978] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[09:37:32.6673223] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+    [09:37:32.6674088] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[09:37:32.6678354] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_CONTINUOUS
+[09:37:32.7036495] [Info] Program::HandleAwakeConfigChange
+    Detected a settings file change. Updating configuration...
+[09:37:32.7040802] [Info] Program::HandleAwakeConfigChange
+    Resetting keep-awake to normal state due to settings change.
+[09:37:32.7050968] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[09:37:32.7053179] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[09:37:32.7055653] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[09:37:32.7056236] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[09:37:32.7059722] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_CONTINUOUS
+[09:37:32.7354001] [Info] Program::HandleAwakeConfigChange
+    Detected a settings file change. Updating configuration...
+[09:37:32.7357630] [Info] Program::HandleAwakeConfigChange
+    Resetting keep-awake to normal state due to settings change.
+[09:37:32.7367999] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[09:37:32.7370321] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[09:37:32.7373119] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[09:37:32.7372855] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[09:37:32.7377511] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_CONTINUOUS
+[09:37:36.2695714] [Info] Program::HandleAwakeConfigChange
+    Detected a settings file change. Updating configuration...
+[09:37:36.2701326] [Info] Program::HandleAwakeConfigChange
+    Resetting keep-awake to normal state due to settings change.
+[09:37:36.2712477] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[09:37:36.2714891] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[09:37:36.2717160] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[09:37:36.2717400] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_CONTINUOUS
+[09:37:36.2721536] [Info] <>c::<StartMonitor>b__5_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

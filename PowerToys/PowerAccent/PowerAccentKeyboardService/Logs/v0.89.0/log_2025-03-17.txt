@@ -1,0 +1,91 @@
+[2025-03-17 07:38:05.650988] [p-15688] [t-16720] [info] PowerAccent logger is initialized
+[2025-03-17 07:48:36.110895] [p-16436] [t-16440] [info] PowerAccent logger is initialized
+[2025-03-17 08:04:37.679905] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:04:41.146971] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:06:35.668882] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:06:47.734152] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:08:36.308025] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:09:09.617802] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:09:27.138734] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:10:13.773843] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:10:27.001859] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:25:11.897123] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:26:18.970258] [p-16436] [t-16440] [debug] Show toolbar. Letter: 76, Trigger: 39
+[2025-03-17 08:26:18.995116] [p-16436] [t-16440] [debug] Next toolbar position - right
+[2025-03-17 08:26:19.608827] [p-16436] [t-16440] [debug] Hide toolbar event and input char
+[2025-03-17 08:26:22.528295] [p-16436] [t-16440] [debug] Show toolbar. Letter: 76, Trigger: 39
+[2025-03-17 08:26:22.528560] [p-16436] [t-16440] [debug] Next toolbar position - right
+[2025-03-17 08:26:23.270971] [p-16436] [t-16440] [debug] Next toolbar position - right
+[2025-03-17 08:26:23.713862] [p-16436] [t-16440] [debug] Next toolbar position - right
+[2025-03-17 08:26:24.080952] [p-16436] [t-16440] [debug] Next toolbar position - right
+[2025-03-17 08:26:24.613733] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:24.823946] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:24.983105] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.124930] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.284939] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.404862] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.507973] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.642106] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.773962] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:25.895775] [p-16436] [t-16440] [debug] Next toolbar position - left
+[2025-03-17 08:26:26.309959] [p-16436] [t-16440] [debug] Hide toolbar event and input char
+[2025-03-17 08:26:43.728848] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:26:44.303806] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:27:05.494810] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:34:38.898235] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:34:39.208220] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:34:39.682279] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 08:34:42.962318] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 09:46:12.105450] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 09:46:13.136281] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:27:39.944472] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:27:40.841554] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:27:42.427427] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:31:52.631530] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:31:57.374471] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:32:02.599520] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:32:26.957653] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:33:00.116476] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:33:55.687676] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:38:47.094950] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:39:37.381791] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:43:26.187847] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 10:43:52.112338] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:02:51.695073] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:15:41.483877] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:16:56.287924] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:17:21.193009] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:17:28.923047] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:17:29.139024] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:17:39.579037] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:17:48.777936] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:22:52.320782] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:34:34.707266] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:35:40.217687] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:36:17.164549] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:36:18.090445] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 11:46:38.357681] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 12:45:04.556643] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 12:45:05.173395] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 14:54:53.307002] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 14:56:29.565733] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 15:01:12.573518] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 15:01:13.232943] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 15:01:13.599162] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 17:03:15.253411] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 17:12:08.429439] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 17:13:46.802731] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 17:13:47.188655] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 17:14:54.027882] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 17:14:55.918178] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 18:46:41.188311] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 18:46:43.907118] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 18:46:47.039127] [p-16436] [t-16440] [debug] Reset trigger key
+[2025-03-17 21:23:35.873862] [p-17512] [t-17516] [info] PowerAccent logger is initialized
+[2025-03-17 21:37:26.923104] [p-17512] [t-17516] [debug] Reset trigger key
+[2025-03-17 21:37:31.441283] [p-17512] [t-17516] [debug] Reset trigger key
+[2025-03-17 21:45:54.433591] [p-17512] [t-17516] [debug] Reset trigger key
+[2025-03-17 21:45:55.982489] [p-17512] [t-17516] [debug] Reset trigger key
+[2025-03-17 21:45:56.619320] [p-17512] [t-17516] [debug] Reset trigger key
+[2025-03-17 21:46:06.499542] [p-17512] [t-17516] [debug] Reset trigger key
+[2025-03-17 21:46:09.095526] [p-17512] [t-17516] [debug] Reset trigger key

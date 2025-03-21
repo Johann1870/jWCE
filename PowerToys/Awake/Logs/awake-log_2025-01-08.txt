@@ -1,0 +1,4 @@
+[2025-01-08 07:37:38.394722] [p-7548] [t-12028] [info] launcher logger is initialized
+[2025-01-08 07:37:38.395089] [p-7548] [t-12028] [info] Launcher object is constructing
+[2025-01-08 07:37:59.631430] [p-7548] [t-12028] [trace] Launching PowerToys Awake process
+[2025-01-08 07:37:59.631666] [p-7548] [t-12028] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 7548

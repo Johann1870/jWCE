@@ -1,0 +1,16 @@
+[2022-08-02 09:12:00.8479 INFO Awake.Program] Launching Awake...
+[2022-08-02 09:12:00.9042 INFO Awake.Program] 0.59.0.0
+[2022-08-02 09:12:00.9042 INFO Awake.Program] Build: ARBITER_01312022
+[2022-08-02 09:12:00.9203 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19044.0
+[2022-08-02 09:12:00.9366 INFO Awake.Program] OS Build: Windows 10 Enterprise 21H2 19041.1.amd64fre.vb_release.191206-1406
+[2022-08-02 09:12:01.1097 INFO Awake.Program] {}
+[2022-08-02 09:12:01.1097 INFO Awake.Program] Parsing parameters...
+[2022-08-02 09:12:01.2421 INFO Awake.Program] Parameter setup complete. Proceeding to the rest of the app initiation...
+[2022-08-02 09:12:01.8850 INFO Awake.Program] The value for --use-pt-config is: True
+[2022-08-02 09:12:01.8850 INFO Awake.Program] The value for --display-on is: False
+[2022-08-02 09:12:01.8850 INFO Awake.Program] The value for --time-limit is: 0
+[2022-08-02 09:12:01.8850 INFO Awake.Program] The value for --pid is: 15472
+[2022-08-02 09:12:03.4237 INFO Awake.Program] Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[2022-08-02 09:12:03.5296 INFO Awake.Core.TrayHelper] Setting up the tray.
+[2022-08-02 09:12:04.2344 INFO Awake.Program] Identified custom time shortcuts for the tray: 0
+[2022-08-02 09:12:04.2344 INFO Awake.Core.APIHelper] Initiated indefinite keep awake in background thread: 15712. Screen on: False

@@ -1,0 +1,2 @@
+[07:18:26.9574177] [Debug] CustomActionKernelQueryCacheService::.ctor
+    Kernel query cache initialized with 0 items

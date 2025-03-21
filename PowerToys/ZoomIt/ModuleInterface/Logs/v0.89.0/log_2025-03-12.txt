@@ -1,0 +1,1 @@
+[2025-03-12 07:53:49.632477] [p-16176] [t-15468] [info] zoom-it logger is initialized

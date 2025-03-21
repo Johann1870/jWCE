@@ -1,0 +1,1 @@
+[2025-03-11 07:19:38.646557] [p-15820] [t-15824] [info] keyboard-manager logger is initialized

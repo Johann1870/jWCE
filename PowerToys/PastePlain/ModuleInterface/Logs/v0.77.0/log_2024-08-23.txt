@@ -1,0 +1,4 @@
+[2024-08-23 07:49:08.890226] [p-16780] [t-16784] [info] PastePlain logger is initialized
+[2024-08-23 07:49:13.655115] [p-16780] [t-16784] [trace] PastePlain::enable()
+[2024-08-23 07:49:14.002254] [p-16780] [t-18620] [info] Send settings telemetry
+[2024-08-23 16:11:36.826760] [p-16780] [t-16784] [trace] PastePlain::destroy()

@@ -1,0 +1,13 @@
+[08:27:31.0285330] [Debug] CustomActionKernelQueryCacheService::.ctor
+    Kernel query cache initialized with 0 items
+[12:22:33.4017997] [Error] App::App_UnhandledException
+    Unhandled exception
+System.NullReferenceException: Object reference not set to an instance of an object.
+Stack trace: 
+   at AdvancedPaste.App.Dispose(Boolean disposing)
+   at AdvancedPaste.App.Dispose()
+   at AdvancedPaste.App.OnNamedPipeMessage(String message)
+   at AdvancedPaste.App.<>c__DisplayClass18_1.<<ProcessNamedPipe>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at Microsoft.UI.Dispatching.DispatcherQueueSynchronizationContext.<>c__DisplayClass2_0.<Post>b__0()

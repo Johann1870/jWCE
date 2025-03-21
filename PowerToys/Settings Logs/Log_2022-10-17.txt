@@ -1,0 +1,15 @@
+INFO: 07:04:49.4311710
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 08:22:51.6109637
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 08:45:54.3388514
+    [Method]: <OnStartup>b__13_0 [Class]: App
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 08:45:55.0456946
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 08:45:55.0604835
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

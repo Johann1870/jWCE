@@ -1,0 +1,20 @@
+[08:55:05.8830649] [Info] CmdNotFoundViewModel::CheckCommandNotFoundRequirements
+    [PSVersion, 7.4.3] [PSEdition, Core] [GitCommitId, 7.4.3] [OS, Microsoft Windows 10.0.22631] [Platform, Win32NT] [PSCompatibleVersions, System.Version[]] [PSRemotingProtocolVersion, 2.3] [SerializationVersion, 1.1.0.1] [WSManStackVersion, 3.0]
+PowerShell 7.4 or greater detected.
+WinGet Client module not detected. Installation instructions can be found on https://www.powershellgallery.com/packages/Microsoft.WinGet.Client 
+
+Profile file C:\Users\jditzel\OneDrive - Hearst\Documents\PowerShell\Microsoft.PowerShell_profile.ps1 not found .
+
+    Directory: C:\Users\jditzel\OneDrive - Hearst\Documents\PowerShell
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/07/2024    08:55              0 Microsoft.PowerShell_profile.ps1
+Created profile file C:\Users\jditzel\OneDrive - Hearst\Documents\PowerShell\Microsoft.PowerShell_profile.ps1 .
+Command Not Found module is not registered in the profile file.
+
+
+[08:55:39.9209418] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for MouseWithoutBorders was not found.
+[08:56:18.6475186] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for EnvironmentVariables was not found.

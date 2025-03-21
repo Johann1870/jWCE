@@ -1,0 +1,68 @@
+[07:42:29.0969992] [Info] TrayHelper.cs::RunOnMainThread::356
+    Thread execution is on: 4
+[07:42:29.2526972] [Info] TrayHelper.cs::InitializeTray::147
+    Created HWND for the window: 66430
+[07:42:31.1832234] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 131965 and HWnd is 66430. Invoked by InitializeTray.
+[07:42:31.2950791] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 131965 and HWnd is 66430. Invoked by InitializeTray.
+[07:42:31.4051668] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 131965 and HWnd is 66430. Invoked by InitializeTray.
+[07:42:31.4058536] [Error] TrayHelper.cs::SetShellIcon::230
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by InitializeTray.
+[07:42:31.4866604] [Info] TrayHelper.cs::RunOnMainThread::356
+    Thread execution is on: 4
+[07:42:31.5073149] [Info] Program.cs::Main::93
+    Launching Awake...
+[07:42:31.5101519] [Info] Program.cs::Main::94
+    0.89.0.0
+[07:42:31.5116247] [Info] Program.cs::Main::95
+    Build: TILLSON_11272024
+[07:42:31.5135288] [Info] Program.cs::Main::96
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:42:31.5332143] [Info] Program.cs::Main::97
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:42:31.9015484] [Info] Program.cs::Main::108
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":true,"SystemS4":true,"SystemS5":true,"HiberFilePresent":false,"FullWake":true,"VideoDimPresent":true,"ApmPresent":false,"UpsPresent":false,"ThermalControl":true,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAAAAA==","ProcessorMaxThrottle":0,"FastSystemS4":false,"Hiberboot":false,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[07:42:31.9107526] [Info] Program.cs::Main::110
+    Parsing parameters...
+[07:42:32.0266149] [Info] Program.cs::HandleCommandLineArguments::228
+    Starting with PID binding.
+[07:42:32.0288913] [Info] Program.cs::HandleCommandLineArguments::232
+    The value for --use-pt-config is: True
+[07:42:32.0293552] [Info] Program.cs::HandleCommandLineArguments::233
+    The value for --display-on is: True
+[07:42:32.0310256] [Info] Program.cs::HandleCommandLineArguments::234
+    The value for --time-limit is: 0
+[07:42:32.0325357] [Info] Program.cs::HandleCommandLineArguments::235
+    The value for --pid is: 9440
+[07:42:32.0329858] [Info] Program.cs::HandleCommandLineArguments::236
+    The value for --expire-at is: 
+[07:42:32.0334157] [Info] Program.cs::HandleCommandLineArguments::237
+    The value for --use-parent-pid is: False
+[07:42:32.0834304] [Info] Program.cs::HandleCommandLineArguments::260
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:42:32.4342014] [Info] Program.cs::ProcessSettings::423
+    Identified custom time shortcuts for the tray: 0
+[07:42:32.5056781] [Info] Manager.cs::CancelExistingThread::126
+    Ensuring the thread is properly cleaned up...
+[07:42:32.5099180] [Info] Manager.cs::CancelExistingThread::143
+    New token source and thread token instantiated.
+[07:42:32.5113616] [Info] Manager.cs::SetIndefiniteKeepAwake::216
+    Indefinite keep-awake starting, invoked by ProcessSettings...
+[07:42:32.5136085] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 131547 and HWnd is 66430. Invoked by SetModeShellIcon.
+[07:42:32.5183588] [Info] Manager.cs::StartMonitor::73
+    Setting state to ES_CONTINUOUS
+[07:42:32.5193607] [Info] Manager.cs::StartMonitor::73
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[07:42:32.6223853] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 131547 and HWnd is 66430. Invoked by SetModeShellIcon.
+[07:42:32.7472737] [Info] TrayHelper.cs::SetShellIcon::226
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 131547 and HWnd is 66430. Invoked by SetModeShellIcon.
+[07:42:32.7477861] [Error] TrayHelper.cs::SetShellIcon::230
+    Failed to change tray icon after 3 attempts. Action: Update and error code: -2147467259. Invoked by SetModeShellIcon.
+[07:42:32.7488151] [Info] Program.cs::HandleCommandLineArguments::274
+    Bound to target process while also using PowerToys settings: 9440
+[07:42:38.2275125] [Info] TrayHelper.cs::WndProc::338
+    Taskbar re-created

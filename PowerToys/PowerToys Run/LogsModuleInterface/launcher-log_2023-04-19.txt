@@ -1,0 +1,11 @@
+[2023-04-19 06:48:08.718968] [p-13204] [t-7312] [info] launcher logger is initialized
+[2023-04-19 06:48:08.719142] [p-13204] [t-7312] [info] Launcher object is constructing
+[2023-04-19 06:48:11.286549] [p-13204] [t-7312] [info] Microsoft_Launcher::enable() begin
+[2023-04-19 06:48:11.286725] [p-13204] [t-7312] [trace] Signaled exitEvent
+[2023-04-19 06:48:11.286828] [p-13204] [t-7312] [trace] Starting PowerToys Run from elevated process
+[2023-04-19 06:48:11.442681] [p-13204] [t-7312] [warning] Failed to find the window. Incorrect function.
+[2023-04-19 06:48:11.450478] [p-13204] [t-7312] [warning] FindDesktopFolderView() failed attempt 1
+[2023-04-19 06:48:14.591974] [p-13204] [t-7312] [warning] Failed to find the window. Incorrect function.
+[2023-04-19 06:48:14.606633] [p-13204] [t-7312] [warning] FindDesktopFolderView() failed attempt 2
+[2023-04-19 06:48:18.136409] [p-13204] [t-7312] [info] Microsoft_Launcher::enable() end
+[2023-04-19 06:48:18.600090] [p-13204] [t-17188] [info] Send settings telemetry

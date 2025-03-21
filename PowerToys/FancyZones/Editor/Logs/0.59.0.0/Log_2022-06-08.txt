@@ -1,0 +1,392 @@
+[09:12:15.5512763] [Trace] App::OnStartup
+[09:12:15.5532771] [Trace] FancyZonesEditorIO::ParseParams
+[09:12:15.5969118] [Trace] Overlay::Update
+[09:12:16.0136956] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:12:16.0141187] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:12:16.0357919] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:12:16.0365818] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:12:16.0369774] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:12:16.0374773] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:12:16.0377532] [Trace] Overlay::Show
+[09:12:16.0410227] [Trace] Overlay::Show
+[09:12:16.3588536] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:12:16.4032494] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[09:12:16.4036527] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[09:12:16.4041675] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[09:12:16.4047837] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[09:12:16.4140075] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[09:12:16.4147950] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:12:23.8702743] [Trace] MainWindow::OnClosing
+[09:12:23.8718292] [Trace] MainWindow::OnClosing
+[09:12:23.9381766] [Info] App::Dispose
+    FancyZones Editor disposed
+[09:12:23.9384286] [Info] App::App_WaitExit
+    Exit event triggered
+[09:14:03.1024730] [Trace] App::OnStartup
+[09:14:03.1042455] [Trace] FancyZonesEditorIO::ParseParams
+[09:14:03.1496118] [Trace] Overlay::Update
+[09:14:03.5643730] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:14:03.5647599] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:14:03.5863531] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:14:03.5871405] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:14:03.5873613] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:14:03.5959899] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:14:03.5968102] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:14:03.5969978] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:14:03.6047800] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:14:03.6069247] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:14:03.6071065] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:14:03.6188142] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:14:03.6191365] [Trace] Overlay::Show
+[09:14:03.6222778] [Trace] Overlay::Show
+[09:14:03.9482243] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:14:04.0016380] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[09:14:04.0020865] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[09:14:04.0026780] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[09:14:04.0033587] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[09:14:04.0039875] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[09:14:04.0049248] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:14:21.2283630] [Trace] MainWindow::Apply
+[09:14:21.2321870] [Trace] MainWindow::Apply
+[09:14:24.0630561] [Trace] MainWindow::Apply
+[09:14:24.0642626] [Trace] MainWindow::Apply
+[09:14:25.7129698] [Trace] MainWindow::Apply
+[09:14:25.7142535] [Trace] MainWindow::Apply
+[09:14:44.4296103] [Trace] MainWindow::Apply
+[09:14:44.4315021] [Trace] MainWindow::Apply
+[09:14:45.4297821] [Trace] <EditLayout_Click>d__29::MoveNext
+[09:14:45.4741106] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:14:45.4748194] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:14:57.5180676] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[09:14:57.5182854] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[09:15:02.1209210] [Trace] MainWindow::OnClosing
+[09:15:02.1211427] [Trace] MainWindow::OnClosing
+[09:15:02.1968521] [Info] App::Dispose
+    FancyZones Editor disposed
+[09:15:02.1970689] [Info] App::App_WaitExit
+    Exit event triggered
+[09:18:47.9156764] [Trace] App::OnStartup
+[09:18:47.9175666] [Trace] FancyZonesEditorIO::ParseParams
+[09:18:47.9664659] [Trace] Overlay::Update
+[09:18:48.3776188] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:18:48.3780904] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:18:48.4012407] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:18:48.4020077] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:18:48.4022128] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:18:48.4113349] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:18:48.4126328] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:18:48.4129299] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:18:48.4220297] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:18:48.4242825] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:18:48.4245049] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:18:48.4357954] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:18:48.4361259] [Trace] Overlay::Show
+[09:18:48.4392211] [Trace] Overlay::Show
+[09:18:48.7530845] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:18:48.8056211] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[09:18:48.8061056] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[09:18:48.8066727] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[09:18:48.8073444] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[09:18:48.8079681] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[09:18:48.8085851] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:19:27.5749591] [Trace] MainWindow::Apply
+[09:19:27.5782610] [Trace] MainWindow::Apply
+[09:19:30.6725834] [Trace] Overlay::Update
+[09:19:33.6573471] [Trace] MainWindow::Apply
+[09:19:33.6592155] [Trace] MainWindow::Apply
+[09:19:35.0342944] [Trace] Overlay::Update
+[09:19:36.8379640] [Trace] Overlay::Update
+[09:19:39.7185545] [Trace] Overlay::Update
+[09:19:40.9812484] [Trace] MainWindow::Apply
+[09:19:40.9826389] [Trace] MainWindow::Apply
+[09:19:48.6671839] [Trace] AsyncMethodBuilderCore::Start
+[09:19:51.6492202] [Trace] MainWindow::NewLayoutDialog_PrimaryButtonClick
+[09:19:51.6627374] [Trace] Overlay::OpenEditor
+[09:19:59.8020462] [Trace] GridEditor::Resizer_DragCompleted
+[09:20:01.4948718] [Trace] GridEditor::Resizer_DragCompleted
+[09:20:03.0497703] [Trace] GridEditor::Resizer_DragCompleted
+[09:20:09.7258177] [Trace] GridEditor::Resizer_DragCompleted
+[09:20:10.6339538] [Trace] Overlay::CloseEditor
+[09:20:10.6626704] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:20:14.8849215] [Trace] MainWindow::Apply
+[09:20:14.8860469] [Trace] MainWindow::Apply
+[09:20:18.1025917] [Trace] AsyncMethodBuilderCore::Start
+[09:20:21.8010014] [Trace] MainWindow::NewLayoutDialog_PrimaryButtonClick
+[09:20:21.8142575] [Trace] Overlay::OpenEditor
+[09:20:39.3477116] [Trace] GridEditor::Resizer_DragCompleted
+[09:20:40.5617270] [Trace] GridEditor::OnSplit
+[09:20:40.5620681] [Trace] GridData::Split
+[09:20:43.6533053] [Trace] GridEditor::OnSplit
+[09:20:43.6534796] [Trace] GridData::Split
+[09:20:45.3317867] [Trace] GridEditor::OnSplit
+[09:20:45.3319499] [Trace] GridData::Split
+[09:20:54.2787572] [Trace] GridEditor::Resizer_DragCompleted
+[09:20:55.6366853] [Trace] GridData::DoMerge
+[09:21:00.6503207] [Trace] GridEditor::Resizer_DragCompleted
+[09:21:03.3271211] [Trace] GridEditor::OnSplit
+[09:21:03.3272854] [Trace] GridData::Split
+[09:21:05.8942023] [Trace] EditorWindow::OnSaveApplyTemplate
+[09:21:05.9093694] [Trace] EditorWindow::OnSaveApplyTemplate
+[09:21:05.9207244] [Trace] Overlay::CloseEditor
+[09:21:05.9507680] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:21:05.9512818] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:21:12.7330886] [Trace] MainWindow::OnClosing
+[09:21:12.7332984] [Trace] MainWindow::OnClosing
+[09:21:12.7758734] [Info] App::Dispose
+    FancyZones Editor disposed
+[09:21:12.7761478] [Info] App::App_WaitExit
+    Exit event triggered
+[09:22:10.0897104] [Trace] App::OnStartup
+[09:22:10.0914656] [Trace] FancyZonesEditorIO::ParseParams
+[09:22:10.1365714] [Trace] Overlay::Update
+[09:22:10.5516743] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:22:10.5520744] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:22:10.5734636] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:22:10.5742400] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:22:10.5744469] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:22:10.5877035] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:22:10.5946889] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:22:10.5949193] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:22:10.6028015] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:22:10.6071796] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:22:10.6073746] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:22:10.6189118] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:22:10.6192569] [Trace] Overlay::Show
+[09:22:10.6223841] [Trace] Overlay::Show
+[09:22:10.9305533] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:22:10.9862578] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[09:22:10.9867161] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[09:22:10.9872895] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[09:22:10.9879732] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[09:22:10.9886017] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[09:22:10.9892304] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:22:10.9899183] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:22:13.8793195] [Trace] <EditLayout_Click>d__29::MoveNext
+[09:22:13.9238004] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:22:13.9244827] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:22:22.0253176] [Trace] MainWindow::EditZones_Click
+[09:22:22.0469488] [Trace] Overlay::OpenEditor
+[09:22:34.3555247] [Trace] GridZone::DoMergeComplete
+[09:22:36.8251562] [Trace] GridEditor::OnSplit
+[09:22:36.8255392] [Trace] GridData::Split
+[09:22:38.4793233] [Trace] GridEditor::OnSplit
+[09:22:38.4795169] [Trace] GridData::Split
+[09:22:42.5801497] [Trace] GridData::DoMerge
+[09:22:54.1342488] [Trace] GridEditor::Resizer_DragCompleted
+[09:22:54.4843489] [Trace] GridEditor::Resizer_DragCompleted
+[09:22:54.9002822] [Trace] GridEditor::Resizer_DragCompleted
+[09:22:55.0623689] [Trace] GridEditor::Resizer_DragCompleted
+[09:22:55.5420067] [Trace] GridEditor::Resizer_DragCompleted
+[09:22:55.8366136] [Trace] GridEditor::Resizer_DragCompleted
+[09:22:56.0303820] [Trace] GridEditor::Resizer_DragCompleted
+[09:23:05.0625628] [Trace] GridEditor::OnSplit
+[09:23:05.0627244] [Trace] GridData::Split
+[09:23:10.0346575] [Trace] GridData::DoMerge
+[09:23:25.6877692] [Trace] GridEditor::OnSplit
+[09:23:25.6879507] [Trace] GridData::Split
+[09:23:40.4116610] [Trace] GridEditor::Resizer_DragCompleted
+[09:23:43.3105859] [Trace] EditorWindow::OnSaveApplyTemplate
+[09:23:43.3327870] [Trace] EditorWindow::OnSaveApplyTemplate
+[09:23:43.3521553] [Trace] Overlay::CloseEditor
+[09:23:43.3827325] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:23:50.7580880] [Trace] MainWindow::OnClosing
+[09:23:50.7586271] [Trace] MainWindow::OnClosing
+[09:23:50.8112476] [Info] App::Dispose
+    FancyZones Editor disposed
+[09:23:50.8115870] [Info] App::App_WaitExit
+    Exit event triggered
+[09:24:11.1135961] [Trace] App::OnStartup
+[09:24:11.1154608] [Trace] FancyZonesEditorIO::ParseParams
+[09:24:11.1631461] [Trace] Overlay::Update
+[09:24:11.5806226] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:24:11.5810583] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:24:11.6026886] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:24:11.6034698] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:24:11.6036620] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:24:11.6179696] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:24:11.6254018] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:24:11.6256429] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:24:11.6339628] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:24:11.6385180] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:24:11.6387248] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:24:11.6505690] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:24:11.6509495] [Trace] Overlay::Show
+[09:24:11.6541548] [Trace] Overlay::Show
+[09:24:11.9792692] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:24:12.0352759] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[09:24:12.0357438] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[09:24:12.0363514] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[09:24:12.0370692] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[09:24:12.0377239] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[09:24:12.0384650] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:24:12.0391180] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:24:13.7540614] [Trace] <EditLayout_Click>d__29::MoveNext
+[09:24:13.8029148] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:24:13.8036598] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:24:29.9446408] [Trace] MainWindow::EditZones_Click
+[09:24:29.9800747] [Trace] Overlay::OpenEditor
+[09:24:32.4636908] [Trace] GridEditor::Resizer_DragCompleted
+[09:24:34.4719296] [Trace] GridEditor::Resizer_DragCompleted
+[09:24:35.5077231] [Trace] EditorWindow::OnSaveApplyTemplate
+[09:24:35.5324734] [Trace] EditorWindow::OnSaveApplyTemplate
+[09:24:35.5521367] [Trace] Overlay::CloseEditor
+[09:24:35.5823481] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:24:38.1210211] [Trace] MainWindow::OnClosing
+[09:24:38.1229753] [Trace] MainWindow::OnClosing
+[09:24:38.1644468] [Info] App::Dispose
+    FancyZones Editor disposed
+[09:24:38.1647016] [Info] App::App_WaitExit
+    Exit event triggered
+[09:33:12.5240785] [Trace] App::OnStartup
+[09:33:12.5267766] [Trace] FancyZonesEditorIO::ParseParams
+[09:33:12.5850882] [Trace] Overlay::Update
+[09:33:13.0759333] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:33:13.0763956] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:33:13.1053160] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[09:33:13.1061354] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:33:13.1063621] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:33:13.1203012] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[09:33:13.1281400] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:33:13.1284009] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:33:13.1374395] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[09:33:13.1419458] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:33:13.1421779] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:33:13.1560804] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[09:33:13.1565149] [Trace] Overlay::Show
+[09:33:13.1599927] [Trace] Overlay::Show
+[09:33:13.5643347] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:33:13.6245854] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[09:33:13.6250628] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[09:33:13.6256593] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[09:33:13.6263613] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[09:33:13.6270097] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[09:33:13.6276445] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[09:33:13.6282842] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[09:33:17.9936063] [Trace] Overlay::Update
+[09:33:19.6160420] [Trace] Overlay::Update
+[09:33:22.8543160] [Trace] MainWindow::Apply
+[09:33:22.8565888] [Trace] MainWindow::Apply
+[09:33:24.4490865] [Trace] Overlay::Update
+[09:33:26.2404164] [Trace] MainWindow::Apply
+[09:33:26.2411357] [Trace] MainWindow::Apply
+[09:33:28.9799297] [Trace] Overlay::Update
+[09:33:30.0133690] [Trace] Overlay::Update
+[09:33:33.7733469] [Trace] Overlay::Update
+[09:33:36.0338644] [Trace] Overlay::Update
+[09:33:37.0888514] [Trace] Overlay::Update
+[09:33:58.5252813] [Trace] MainWindow::OnClosing
+[09:33:58.5255762] [Trace] MainWindow::OnClosing
+[09:33:58.5641039] [Info] App::Dispose
+    FancyZones Editor disposed
+[09:33:58.5645005] [Info] App::App_WaitExit
+    Exit event triggered
+[10:11:28.2391788] [Trace] App::OnStartup
+[10:11:28.2410526] [Trace] FancyZonesEditorIO::ParseParams
+[10:11:28.2856177] [Trace] Overlay::Update
+[10:11:28.7209301] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[10:11:28.7213306] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[10:11:28.7434068] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[10:11:28.7442390] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[10:11:28.7444673] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[10:11:28.7574851] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[10:11:28.7653497] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[10:11:28.7655904] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[10:11:28.7738232] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[10:11:28.7784872] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[10:11:28.7787313] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[10:11:28.7901823] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[10:11:28.7905769] [Trace] Overlay::Show
+[10:11:28.7941108] [Trace] Overlay::Show
+[10:11:29.1134450] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[10:11:29.1727265] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[10:11:29.1731733] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[10:11:29.1737558] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[10:11:29.1744530] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[10:11:29.1750901] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[10:11:29.1757305] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[10:11:29.1764267] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[10:11:30.9793578] [Trace] <EditLayout_Click>d__29::MoveNext
+[10:11:31.0229295] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[10:11:31.0236618] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[10:11:32.2806761] [Trace] MainWindow::EditZones_Click
+[10:11:32.3013842] [Trace] Overlay::OpenEditor
+[10:11:38.0559056] [Trace] GridEditor::OnSplit
+[10:11:38.0567866] [Trace] GridData::Split
+[10:11:50.1625135] [Trace] GridEditor::Resizer_DragCompleted
+[10:11:55.1322672] [Trace] EditorWindow::OnSaveApplyTemplate
+[10:11:55.1543907] [Trace] EditorWindow::OnSaveApplyTemplate
+[10:11:55.1788296] [Trace] Overlay::CloseEditor
+[10:11:55.2062012] [Info] LayoutPreview::OnLoaded
+    Loaded Custom layout 1
+[10:11:57.7398933] [Trace] MainWindow::OnClosing
+[10:11:57.7407281] [Trace] MainWindow::OnClosing
+[10:11:57.7925461] [Info] App::Dispose
+    FancyZones Editor disposed
+[10:11:57.7927612] [Info] App::App_WaitExit
+    Exit event triggered

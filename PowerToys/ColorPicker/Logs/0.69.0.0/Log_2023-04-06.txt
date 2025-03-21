@@ -1,0 +1,24 @@
+[15:52:59.7376197] [Info] Program::Main
+    Color Picker started with pid=3628
+[15:53:00.5329754] [Info] App::OnStartup
+    Color Picker started from the PowerToys Runner. Runner pid=23468
+[15:53:00.9073325] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for ColorPicker was unrecognized. Possibly containing an older version. Trying to read again.
+[15:53:00.9327053] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for ColorPicker was read successfully in the old format.
+[04:32:01.3497232] [Info] UserSettings::SendSettingsTelemetry
+    Sending settings telemetry
+[04:32:01.3553915] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for ColorPicker was unrecognized. Possibly containing an older version. Trying to read again.
+[04:32:01.3566740] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for ColorPicker was read successfully in the old format.
+[13:51:59.7880371] [Info] UserSettings::SendSettingsTelemetry
+    Sending settings telemetry
+[13:51:59.7952866] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for ColorPicker was unrecognized. Possibly containing an older version. Trying to read again.
+[13:51:59.7962639] [Info] SettingsUtils::GetSettingsOrDefault
+    Settings file settings.json for ColorPicker was read successfully in the old format.
+[17:33:39.2658106] [Info] CursorManager::ChangeCursor
+    Cursor file path was null
+[17:33:39.2680434] [Info] CursorManager::ChangeCursor
+    Cursor file path was null

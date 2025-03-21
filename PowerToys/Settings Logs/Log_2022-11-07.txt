@@ -1,0 +1,17 @@
+INFO: 07:46:30.6723572
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 14:24:22.0724868
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 18:35:35.8952341
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 22:25:04.7905553
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 22:25:04.7935949
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 22:25:04.8012114
+    [Method]: <OnStartup>b__13_0 [Class]: App

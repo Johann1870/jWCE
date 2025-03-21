@@ -1,0 +1,4 @@
+[2022-12-05 11:01:55.602654] [p-15400] [t-15404] [info] launcher logger is initialized
+[2022-12-05 11:01:55.602703] [p-15400] [t-15404] [info] Launcher object is constructing
+[2022-12-05 11:01:58.920974] [p-15400] [t-15404] [trace] Launching PowerToys Awake process
+[2022-12-05 11:01:58.920987] [p-15400] [t-15404] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 15400

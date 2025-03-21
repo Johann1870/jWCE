@@ -1,0 +1,4 @@
+[2023-02-23 06:48:53.975511] [p-15600] [t-15596] [info] launcher logger is initialized
+[2023-02-23 06:48:53.975531] [p-15600] [t-15596] [info] Launcher object is constructing
+[2023-02-23 06:48:55.813741] [p-15600] [t-15596] [trace] Launching PowerToys Awake process
+[2023-02-23 06:48:55.813753] [p-15600] [t-15596] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 15600

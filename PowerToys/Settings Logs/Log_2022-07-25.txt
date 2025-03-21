@@ -1,0 +1,24 @@
+INFO: 06:49:47.6528587
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 16:25:07.0581882
+    [Method]: Callback [Class]: StartHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 16:25:07.2606006
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 08:55:24.1078602
+    [Method]: Callback [Class]: StartHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 08:55:24.2042833
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 06:40:34.5826940
+    [Method]: <OnStartup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 06:40:35.1377288
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 06:40:35.1523999
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

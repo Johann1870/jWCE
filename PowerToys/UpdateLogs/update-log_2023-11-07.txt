@@ -1,0 +1,2 @@
+[2023-11-07 12:40:44.041945] [p-7960] [t-39052] [info] update logger is initialized
+[2023-11-07 12:40:44.534643] [p-21392] [t-33096] [info] update logger is initialized

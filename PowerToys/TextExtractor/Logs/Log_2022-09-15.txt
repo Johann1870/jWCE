@@ -1,0 +1,15 @@
+INFO: 13:40:30.4138552
+    [Method]: Application_Startup [Class]: App
+    TextExtractor started from the PowerToys Runner. Runner pid=39764
+INFO: 13:40:30.4855291
+    [Method]: LoadSettingsFromJson [Class]: UserSettings
+    TextExtractor settings.json was missing, creating a new one
+INFO: 15:40:59.2473038
+    [Method]: <Application_Startup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting TextExtractor
+INFO: 15:42:58.9730747
+    [Method]: Application_Startup [Class]: App
+    TextExtractor started from the PowerToys Runner. Runner pid=38980
+INFO: 08:01:49.1670272
+    [Method]: <Application_Startup>b__10_0 [Class]: App
+    PowerToys Runner exited. Exiting TextExtractor

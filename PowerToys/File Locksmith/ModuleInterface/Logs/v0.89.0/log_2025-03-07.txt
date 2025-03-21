@@ -1,0 +1,2 @@
+[2025-03-07 07:30:27.428919] [p-15704] [t-15708] [info] FileLocksmith logger is initialized
+[2025-03-07 07:30:35.206017] [p-15704] [t-15708] [info] File Locksmith enabled

@@ -1,0 +1,4 @@
+[2022-10-26 15:03:58.637525] [p-14720] [t-14788] [info] launcher logger is initialized
+[2022-10-26 15:03:58.637551] [p-14720] [t-14788] [info] Launcher object is constructing
+[2022-10-26 15:04:01.100128] [p-14720] [t-14788] [trace] Launching PowerToys Awake process
+[2022-10-26 15:04:01.100154] [p-14720] [t-14788] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 14720

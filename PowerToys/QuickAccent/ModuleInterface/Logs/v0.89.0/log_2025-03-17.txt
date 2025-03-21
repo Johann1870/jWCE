@@ -1,0 +1,12 @@
+[2025-03-17 07:37:49.723989] [p-12756] [t-12456] [info] QuickAccent logger is initialized
+[2025-03-17 07:37:49.725063] [p-12756] [t-12456] [info] Launcher object is constructing
+[2025-03-17 07:37:56.654782] [p-12756] [t-12456] [trace] Launching PowerToys QuickAccent process
+[2025-03-17 07:37:56.655115] [p-12756] [t-12456] [trace] PowerToys QuickAccent launching: PowerToys.PowerAccent.exe 12756
+[2025-03-17 07:48:19.594379] [p-13448] [t-15080] [info] QuickAccent logger is initialized
+[2025-03-17 07:48:19.595523] [p-13448] [t-15080] [info] Launcher object is constructing
+[2025-03-17 07:48:24.883426] [p-13448] [t-15080] [trace] Launching PowerToys QuickAccent process
+[2025-03-17 07:48:24.884966] [p-13448] [t-15080] [trace] PowerToys QuickAccent launching: PowerToys.PowerAccent.exe 13448
+[2025-03-17 21:23:23.814219] [p-6656] [t-13292] [info] QuickAccent logger is initialized
+[2025-03-17 21:23:23.825013] [p-6656] [t-13292] [info] Launcher object is constructing
+[2025-03-17 21:23:28.759078] [p-6656] [t-13292] [trace] Launching PowerToys QuickAccent process
+[2025-03-17 21:23:28.759553] [p-6656] [t-13292] [trace] PowerToys QuickAccent launching: PowerToys.PowerAccent.exe 6656

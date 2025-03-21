@@ -1,0 +1,48 @@
+[07:24:29.8974281] [Info] Program::Main
+    Launching Awake...
+[07:24:29.9733911] [Info] Program::Main
+    0.85.1.0
+[07:24:29.9738283] [Info] Program::Main
+    Build: PROMETHEAN_09082024
+[07:24:29.9758367] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:24:30.0974463] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:24:30.2922007] [Info] Program::Main
+    {}
+[07:24:30.2926332] [Info] Program::Main
+    Parsing parameters...
+[07:24:30.4121087] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[07:24:30.4138282] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:24:30.4144684] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:24:30.4151772] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:24:30.4251811] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 7564
+[07:24:30.4417536] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:24:30.4431928] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[07:24:30.4487970] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[07:24:30.4640831] [Info] <>c__DisplayClass13_0::<InitializeTray>b__1
+    Created HWND for the window: 132556
+[07:24:30.4685146] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:24:30.4897861] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[07:24:30.7629642] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:24:30.7750278] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:24:30.7876271] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:24:30.8015166] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 7564
+[07:24:30.8062082] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[07:24:30.8072918] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

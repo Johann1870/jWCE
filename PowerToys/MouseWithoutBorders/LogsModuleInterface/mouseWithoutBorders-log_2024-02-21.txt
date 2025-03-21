@@ -1,0 +1,2 @@
+[2024-02-21 07:30:24.910634] [p-15432] [t-15436] [info] mouseWithoutBorders logger is initialized
+[2024-02-21 13:51:38.422933] [p-14844] [t-14912] [info] mouseWithoutBorders logger is initialized

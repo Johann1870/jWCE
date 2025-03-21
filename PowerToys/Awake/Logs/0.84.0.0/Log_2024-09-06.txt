@@ -1,0 +1,54 @@
+[16:35:02.4931805] [Info] Program::Main
+    Launching Awake...
+[16:35:02.5116191] [Info] Program::Main
+    0.84.0.0
+[16:35:02.5119949] [Info] Program::Main
+    Build: VISEGRADRELAY_08152024
+[16:35:02.5138145] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[16:35:02.5436439] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[16:35:02.6257449] [Info] Program::Main
+    {}
+[16:35:02.6261745] [Info] Program::Main
+    Parsing parameters...
+[16:35:02.8094071] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[16:35:02.8110757] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[16:35:02.8117235] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[16:35:02.8124871] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 16128
+[16:35:02.8130552] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[16:35:02.8138198] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: True
+[16:35:02.8450171] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake
+Action: Add
+[16:35:02.8483488] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 67187
+HWnd: 132662
+[16:35:02.8759405] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[16:35:03.0040762] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[16:35:03.0141847] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake [Indefinite]
+Action: Update
+[16:35:03.0146206] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 67285
+HWnd: 132662
+[16:35:03.0182076] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[16:35:03.0199023] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[16:35:03.0215323] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 16128
+[16:35:03.0227280] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[16:35:03.0234113] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

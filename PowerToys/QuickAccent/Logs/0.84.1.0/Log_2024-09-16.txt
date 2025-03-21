@@ -1,0 +1,2 @@
+[07:45:07.5972547] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=17272

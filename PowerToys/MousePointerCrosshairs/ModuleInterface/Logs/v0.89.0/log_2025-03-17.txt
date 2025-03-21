@@ -1,0 +1,14 @@
+[2025-03-17 07:37:49.536505] [p-12756] [t-12456] [info] mouse-pointer-crosshairs logger is initialized
+[2025-03-17 07:37:49.582884] [p-12756] [t-12456] [warning] Failed to initialize auto hide from settings. Will use default value
+[2025-03-17 07:37:49.583224] [p-12756] [t-12456] [warning] Failed to initialize fixed length enabled from settings. Will use default value
+[2025-03-17 07:37:49.583503] [p-12756] [t-12456] [warning] Failed to initialize fixed length from settings. Will use default value
+[2025-03-17 07:48:19.498108] [p-13448] [t-15080] [info] mouse-pointer-crosshairs logger is initialized
+[2025-03-17 07:48:19.510862] [p-13448] [t-15080] [warning] Failed to initialize auto hide from settings. Will use default value
+[2025-03-17 07:48:19.511408] [p-13448] [t-15080] [warning] Failed to initialize fixed length enabled from settings. Will use default value
+[2025-03-17 07:48:19.511801] [p-13448] [t-15080] [warning] Failed to initialize fixed length from settings. Will use default value
+[2025-03-17 07:48:19.540975] [p-13448] [t-15080] [warning] Failed to initialize auto activate from settings. Will use default value
+[2025-03-17 21:23:23.564630] [p-6656] [t-13292] [info] mouse-pointer-crosshairs logger is initialized
+[2025-03-17 21:23:23.668206] [p-6656] [t-13292] [warning] Failed to initialize auto hide from settings. Will use default value
+[2025-03-17 21:23:23.668617] [p-6656] [t-13292] [warning] Failed to initialize fixed length enabled from settings. Will use default value
+[2025-03-17 21:23:23.674593] [p-6656] [t-13292] [warning] Failed to initialize fixed length from settings. Will use default value
+[2025-03-17 21:23:23.675169] [p-6656] [t-13292] [warning] Failed to initialize auto activate from settings. Will use default value

@@ -1,0 +1,4 @@
+[2025-03-14 07:48:22.586017] [p-15764] [t-15768] [info] QuickAccent logger is initialized
+[2025-03-14 07:48:22.587034] [p-15764] [t-15768] [info] Launcher object is constructing
+[2025-03-14 07:48:29.711897] [p-15764] [t-15768] [trace] Launching PowerToys QuickAccent process
+[2025-03-14 07:48:29.712106] [p-15764] [t-15768] [trace] PowerToys QuickAccent launching: PowerToys.PowerAccent.exe 15764

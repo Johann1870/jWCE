@@ -1,0 +1,2 @@
+[2025-03-13 07:39:02.845022] [p-16572] [t-16576] [info] cmd-not-found logger is initialized
+[2025-03-13 07:39:02.846063] [p-16572] [t-16576] [info] CmdNotFound object is constructing

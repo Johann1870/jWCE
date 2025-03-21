@@ -1,0 +1,6 @@
+INFO: 07:36:38.8113758
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 13:01:21.4910709
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry

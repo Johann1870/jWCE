@@ -1,0 +1,21 @@
+[2025-03-17 07:37:50.249986] [p-12756] [t-12456] [info] AdvancedPaste logger is initialized
+[2025-03-17 07:37:50.259466] [p-12756] [t-12456] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-17 07:37:50.259862] [p-12756] [t-12456] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-17 07:37:51.526876] [p-12756] [t-12456] [trace] AdvancedPaste::enable()
+[2025-03-17 07:37:51.527346] [p-12756] [t-15356] [trace] Starting Advanced Paste process
+[2025-03-17 07:48:20.214857] [p-13448] [t-15080] [info] AdvancedPaste logger is initialized
+[2025-03-17 07:48:20.227578] [p-13448] [t-15080] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-17 07:48:20.255017] [p-13448] [t-15080] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-17 07:48:21.999833] [p-13448] [t-15080] [trace] AdvancedPaste::enable()
+[2025-03-17 07:48:22.000606] [p-13448] [t-15896] [trace] Starting Advanced Paste process
+[2025-03-17 07:48:22.921875] [p-13448] [t-15896] [trace] Successfully started Advanced Paste process
+[2025-03-17 07:48:27.924424] [p-13448] [t-15896] [error] Error waiting for Advanced Paste to connect to named pipe
+[2025-03-17 07:48:27.936741] [p-13448] [t-15896] [error] Named pipe initialization failed; terminating Advanced Paste process
+[2025-03-17 21:23:23.989950] [p-6656] [t-13292] [info] AdvancedPaste logger is initialized
+[2025-03-17 21:23:24.047328] [p-6656] [t-13292] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-17 21:23:24.047770] [p-6656] [t-13292] [error] Failed to initialize AdvancedPaste shortcut from settings. Value will keep unchanged.
+[2025-03-17 21:23:25.669254] [p-6656] [t-13292] [trace] AdvancedPaste::enable()
+[2025-03-17 21:23:25.669785] [p-6656] [t-16108] [trace] Starting Advanced Paste process
+[2025-03-17 21:23:26.679816] [p-6656] [t-16108] [trace] Successfully started Advanced Paste process
+[2025-03-17 21:23:31.692468] [p-6656] [t-16108] [error] Error waiting for Advanced Paste to connect to named pipe
+[2025-03-17 21:23:31.731614] [p-6656] [t-16108] [error] Named pipe initialization failed; terminating Advanced Paste process

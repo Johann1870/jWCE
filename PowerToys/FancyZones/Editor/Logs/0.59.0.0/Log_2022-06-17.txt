@@ -1,0 +1,54 @@
+[07:15:10.0735782] [Trace] App::OnStartup
+[07:15:10.0762009] [Trace] FancyZonesEditorIO::ParseParams
+[07:15:10.1210210] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[07:15:10.1214131] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[07:15:10.1418895] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[07:15:10.1426677] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[07:15:10.1428999] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[07:15:10.1555554] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[07:15:10.1682215] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[07:15:10.1684668] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[07:15:10.1765537] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[07:15:10.1811999] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[07:15:10.1814173] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[07:15:10.1933652] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[07:15:10.1949274] [Trace] Overlay::Show
+[07:15:10.2526552] [Trace] Overlay::Show
+[07:15:10.5408695] [Info] LayoutPreview::OnLoaded
+    Loaded Left Monitor
+[07:15:11.0484580] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[07:15:11.0489723] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[07:15:11.0494784] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[07:15:11.0500897] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[07:15:11.0507189] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[07:15:11.0512822] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[07:15:11.0518570] [Info] LayoutPreview::OnLoaded
+    Loaded Right Monitor
+[07:15:11.0526466] [Info] LayoutPreview::OnLoaded
+    Loaded Left Monitor
+[07:15:13.6147651] [Trace] <EditLayout_Click>d__29::MoveNext
+[07:15:13.6733328] [Info] LayoutPreview::OnLoaded
+    Loaded Left Monitor
+[07:15:13.6741645] [Info] LayoutPreview::OnLoaded
+    Loaded Left Monitor
+[07:15:17.2676248] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[07:15:17.2692310] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[07:15:19.1576667] [Trace] MainWindow::Apply
+[07:15:19.1593854] [Trace] MainWindow::Apply
+[07:15:20.0093806] [Trace] <EditLayout_Click>d__29::MoveNext
+[07:15:20.0255632] [Info] LayoutPreview::OnLoaded
+    Loaded Right Monitor
+[07:15:21.5201632] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[07:15:21.5203674] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[07:15:23.1232785] [Trace] MainWindow::OnClosing
+[07:15:23.1235327] [Trace] MainWindow::OnClosing
+[07:15:23.2242447] [Info] App::Dispose
+    FancyZones Editor disposed
+[07:15:23.2244861] [Info] App::App_WaitExit
+    Exit event triggered

@@ -1,0 +1,12 @@
+[08:00:51.1466456] [Info] MainViewModel::.ctor
+    Starting FileLocksmith with 1 files selected.
+[08:02:24.5940063] [Info] MainViewModel::.ctor
+    Starting FileLocksmith with 1 files selected.
+[08:03:04.7656395] [Info] MainViewModel::.ctor
+    Starting FileLocksmith with 1 files selected.
+[08:03:37.1546847] [Info] MainViewModel::.ctor
+    Starting FileLocksmith with 1 files selected.
+[08:09:54.6212878] [Info] MainViewModel::.ctor
+    Starting FileLocksmith with 1 files selected.
+[08:10:22.8781806] [Info] MainViewModel::.ctor
+    Starting FileLocksmith with 1 files selected.

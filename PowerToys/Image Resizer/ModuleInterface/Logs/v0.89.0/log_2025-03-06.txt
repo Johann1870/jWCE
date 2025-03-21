@@ -1,0 +1,2 @@
+[2025-03-06 07:56:51.313597] [p-36136] [t-34576] [info] imageresizer logger is initialized
+[2025-03-06 07:57:05.506916] [p-36136] [t-34576] [info] Register C:\Program Files\PowerToys\ImageResizerContextMenuPackage.msix package completed.

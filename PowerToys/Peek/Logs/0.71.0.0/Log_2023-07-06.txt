@@ -1,0 +1,2 @@
+[16:52:36.2519585] [Info] UserSettings::LoadSettingsFromJson
+    Hosts settings.json was missing, creating a new one

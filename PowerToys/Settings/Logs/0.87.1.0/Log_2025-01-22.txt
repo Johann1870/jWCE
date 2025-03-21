@@ -1,0 +1,22 @@
+[10:56:59.4505974] [Info] CmdNotFoundViewModel::CheckCommandNotFoundRequirements
+    [PSVersion, 7.4.6] [PSEdition, Core] [GitCommitId, 7.4.6] [OS, Microsoft Windows 10.0.22631] [Platform, Win32NT] [PSCompatibleVersions, System.Version[]] [PSRemotingProtocolVersion, 2.3] [SerializationVersion, 1.1.0.1] [WSManStackVersion, 3.0]
+PowerShell 7.4 or greater detected.
+WinGet Client module not detected. Installation instructions can be found on https://www.powershellgallery.com/packages/Microsoft.WinGet.Client 
+
+Command Not Found module is not registered in the profile file.
+
+[10:57:50.8804385] [Info] CmdNotFoundViewModel::InstallWinGetClientModule
+    WinGet Client module detected.
+
+[11:00:24.1771960] [Info] CmdNotFoundViewModel::InstallModule
+    Enabling experimental feature: PSFeedbackProvider
+WARNING: Enabling and disabling experimental features do not take effect until next start of PowerShell.
+Enabling experimental feature: PSCommandNotFoundSuggestion
+WARNING: Enabling and disabling experimental features do not take effect until next start of PowerShell.
+WinGet Client module detected
+Microsoft.WinGet.CommandNotFound was not found. Installing...
+
+Microsoft.WinGet.CommandNotFound module installed
+
+Module was successfully registered in the profile file.
+

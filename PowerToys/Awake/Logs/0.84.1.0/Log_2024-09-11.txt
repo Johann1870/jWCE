@@ -1,0 +1,73 @@
+[08:54:25.3232741] [Info] Program::Main
+    Launching Awake...
+[08:54:25.3357497] [Info] Program::Main
+    0.84.1.0
+[08:54:25.3361429] [Info] Program::Main
+    Build: VISEGRADRELAY_08152024
+[08:54:25.3377453] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[08:54:25.3669087] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[08:54:25.4281882] [Info] Program::Main
+    {}
+[08:54:25.4285739] [Info] Program::Main
+    Parsing parameters...
+[08:54:25.5636380] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[08:54:25.5647251] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[08:54:25.5651174] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[08:54:25.5654579] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 27348
+[08:54:25.5657835] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[08:54:25.5661160] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: True
+[08:54:25.5878555] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake
+Action: Add
+[08:54:25.5905189] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 21171431
+HWnd: 1055568
+[08:54:25.6254987] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[08:54:25.7555746] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[08:54:25.7649151] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake [Indefinite]
+Action: Update
+[08:54:25.7652845] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 15211501
+HWnd: 1055568
+[08:54:25.7696788] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[08:54:25.7719025] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[08:54:25.7743574] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[08:54:25.7748945] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 27348
+[08:54:25.7750474] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[15:51:33.0251545] [Info] <>c__DisplayClass20_0::<HandleCommandLineArguments>b__1
+    Triggered PID-based exit handler for PID 27348.
+[15:51:33.0281400] [Info] Program::Exit
+    Terminating from process binding hook.
+[15:51:33.0296159] [Info] Manager::SetPassiveKeepAwake
+    Operating in passive mode (computer's standard power plan). No custom keep awake settings enabled.
+[15:51:33.0299891] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[15:51:33.0302141] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[15:51:33.0306774] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake [Passive]
+Action: Update
+[15:51:33.0309623] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 17634069
+HWnd: 1055568
+[15:51:33.0309621] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS

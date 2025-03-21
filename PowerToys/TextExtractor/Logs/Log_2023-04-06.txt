@@ -1,0 +1,6 @@
+INFO: 15:43:41.8721976
+    [Method]: Application_Startup [Class]: App
+    TextExtractor started from the PowerToys Runner. Runner pid=14340
+INFO: 15:51:58.4224298
+    [Method]: <Application_Startup>b__10_0 [Class]: App
+    PowerToys Runner exited. Exiting TextExtractor

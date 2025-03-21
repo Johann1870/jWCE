@@ -1,0 +1,5 @@
+[2025-01-15 08:02:33.121294] [p-16248] [t-16252] [info] launcher logger is initialized
+[2025-01-15 08:02:33.121685] [p-16248] [t-16252] [info] Launcher object is constructing
+[2025-01-15 09:32:45.997119] [p-16248] [t-16252] [info] Launcher object is destroying
+[2025-01-15 09:32:58.991642] [p-42912] [t-33896] [info] launcher logger is initialized
+[2025-01-15 09:32:58.992046] [p-42912] [t-33896] [info] Launcher object is constructing

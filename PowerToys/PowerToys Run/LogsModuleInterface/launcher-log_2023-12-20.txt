@@ -1,0 +1,1 @@
+[2023-12-20 14:04:35.800171] [p-2464] [t-13696] [info] Launcher object is destroying

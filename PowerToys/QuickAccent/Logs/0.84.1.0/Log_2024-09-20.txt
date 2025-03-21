@@ -1,0 +1,6 @@
+[07:43:53.7121400] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=15900
+[09:55:20.5584748] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=15884
+[16:19:04.9199726] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent

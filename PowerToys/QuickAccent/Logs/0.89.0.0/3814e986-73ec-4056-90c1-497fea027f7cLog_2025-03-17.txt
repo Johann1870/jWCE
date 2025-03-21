@@ -1,0 +1,2 @@
+[18:58:47.9577305] [Info] Program.cs::Arguments::68
+    PowerToys Runner exited. Exiting QuickAccent

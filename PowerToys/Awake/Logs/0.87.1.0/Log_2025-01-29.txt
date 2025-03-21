@@ -1,0 +1,68 @@
+[07:54:12.2145161] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[07:54:12.3255563] [Info] <>c__DisplayClass19_0::<InitializeTray>b__1
+    Created HWND for the window: 66956
+[07:54:12.4112179] [Info] <Main>d__17::MoveNext
+    Launching Awake...
+[07:54:12.4134746] [Info] <Main>d__17::MoveNext
+    0.87.1.0
+[07:54:12.4138929] [Info] <Main>d__17::MoveNext
+    Build: TILLSON_11272024
+[07:54:12.4152867] [Info] <Main>d__17::MoveNext
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:54:12.4173479] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[07:54:12.4269352] [Info] <Main>d__17::MoveNext
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:54:13.1081887] [Info] <Main>d__17::MoveNext
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":true,"SystemS4":true,"SystemS5":true,"HiberFilePresent":false,"FullWake":true,"VideoDimPresent":true,"ApmPresent":false,"UpsPresent":false,"ThermalControl":true,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAAAAA==","ProcessorMaxThrottle":0,"FastSystemS4":false,"Hiberboot":false,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[07:54:13.1088838] [Info] <Main>d__17::MoveNext
+    Parsing parameters...
+[07:54:13.3714048] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[07:54:13.3764980] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:54:13.3771787] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:54:13.3778716] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:54:13.3785562] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15316
+[07:54:13.3791761] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:54:13.3802195] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[07:54:13.4388771] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:54:13.8814920] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:54:13.8881639] [Info] Manager::CancelExistingThread
+    Ensuring the thread is properly cleaned up...
+[07:54:13.8903429] [Info] Manager::CancelExistingThread
+    New token source and thread token instantiated.
+[07:54:13.8920505] [Info] Manager::SetIndefiniteKeepAwake
+    Indefinite keep-awake starting, invoked by ProcessSettings...
+[07:54:13.8955919] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_CONTINUOUS
+[07:54:13.9089540] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[07:54:13.9138519] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 15316
+[15:29:12.2664484] [Info] <>c__DisplayClass21_0::<HandleCommandLineArguments>b__1
+    Triggered PID-based exit handler for PID 15316.
+[15:29:12.3207178] [Info] Program::Exit
+    Terminating from process binding hook.
+[15:29:12.3258118] [Info] Manager::SetPassiveKeepAwake
+    Operating in passive mode (computer's standard power plan). Invoked by CompleteExit. No custom keep awake settings enabled.
+[15:29:12.3331182] [Info] Manager::CancelExistingThread
+    Ensuring the thread is properly cleaned up...
+[15:29:12.3340142] [Info] Manager::CancelExistingThread
+    New token source and thread token instantiated.
+[15:29:12.3346945] [Info] Manager::SetPassiveKeepAwake
+    Passive keep-awake starting...
+[15:29:12.3367657] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_CONTINUOUS
+[15:29:12.3518119] [Info] TrayHelper::SetShellIcon
+    Cannot set the shell icon - parent window handle is zero or icon is not available. Text:  Action: Delete
+[15:29:12.3698413] [Info] TrayHelper::RunMessageLoop
+    Message loop terminated.

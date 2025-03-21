@@ -1,0 +1,64 @@
+[07:53:10.7398519] [Info] Program::Main
+    Launching Awake...
+[07:53:10.7674305] [Info] Program::Main
+    0.85.1.0
+[07:53:10.7678377] [Info] Program::Main
+    Build: PROMETHEAN_09082024
+[07:53:10.7698177] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:53:10.8280586] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:53:11.1054873] [Info] Program::Main
+    {}
+[07:53:11.1059379] [Info] Program::Main
+    Parsing parameters...
+[07:53:11.3701938] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[07:53:11.3904578] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:53:11.3915618] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:53:11.3948347] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:53:11.3956374] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15828
+[07:53:11.3986498] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:53:11.3994184] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[07:53:11.4382953] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[07:53:11.4560254] [Info] <>c__DisplayClass13_0::<InitializeTray>b__1
+    Created HWND for the window: 67146
+[07:53:11.4567336] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:53:11.4862015] [Info] <>c__DisplayClass17_0::<RunOnMainThread>b__0
+    Thread execution is on: 5
+[07:53:11.6886143] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:53:11.7020269] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:53:11.7065035] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:53:11.7216810] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 15828
+[07:53:11.7245691] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[07:53:11.7255695] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[12:28:21.4225058] [Info] <>c__DisplayClass20_0::<HandleCommandLineArguments>b__1
+    Triggered PID-based exit handler for PID 15828.
+[12:28:21.4413587] [Info] Program::Exit
+    Terminating from process binding hook.
+[12:28:21.4540266] [Info] Manager::SetPassiveKeepAwake
+    Operating in passive mode (computer's standard power plan). No custom keep awake settings enabled.
+[12:28:21.4545369] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[12:28:21.4557633] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[12:28:21.4588629] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[12:28:21.4695642] [Info] TrayHelper::SetShellIcon
+    Cannot set the shell icon - parent window handle is zero or icon is not available. Text:  Action: Delete
+[12:28:21.4738104] [Info] TrayHelper::RunMessageLoop
+    Message loop terminated.

@@ -1,0 +1,4 @@
+[2024-12-16 07:59:29.227539] [p-5808] [t-16780] [info] launcher logger is initialized
+[2024-12-16 07:59:29.227876] [p-5808] [t-16780] [info] Launcher object is constructing
+[2024-12-16 07:59:44.764952] [p-5808] [t-16780] [trace] Launching PowerToys Awake process
+[2024-12-16 07:59:44.765222] [p-5808] [t-16780] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 5808

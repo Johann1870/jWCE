@@ -1,0 +1,4 @@
+[2022-09-15 13:39:09.911850] [p-38088] [t-34628] [info] update logger is initialized
+[2022-09-15 13:39:10.069561] [p-22532] [t-43208] [info] update logger is initialized
+[2022-09-15 15:40:50.337955] [p-4324] [t-44936] [info] update logger is initialized
+[2022-09-15 15:40:50.583870] [p-17056] [t-33500] [info] update logger is initialized

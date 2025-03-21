@@ -1,0 +1,15 @@
+[07:56:48.9425301] [Info] Program::Main
+    Launching Awake...
+[07:56:48.9715053] [Info] Program::Main
+    0.85.1.0
+[07:56:48.9719483] [Info] Program::Main
+    Build: PROMETHEAN_09082024
+[07:56:48.9796802] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:56:49.0063479] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:56:49.7714905] [Info] Program::Main
+    {}
+[07:56:49.7722373] [Info] Program::Main
+    Parsing parameters...
+[07:56:50.0187896] [Info] Program::HandleCommandLineArguments

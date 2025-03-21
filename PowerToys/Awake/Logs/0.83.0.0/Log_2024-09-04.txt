@@ -1,0 +1,48 @@
+[07:30:18.7357631] [Info] Program::Main
+    Launching Awake...
+[07:30:20.0829380] [Info] Program::Main
+    0.83.0.0
+[07:30:20.0834135] [Info] Program::Main
+    Build: DAISY023_04102024
+[07:30:20.0963139] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:30:21.3130934] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:30:22.6586481] [Info] Program::Main
+    {}
+[07:30:22.6591780] [Info] Program::Main
+    Parsing parameters...
+[07:30:23.3144824] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:30:23.3290570] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:30:23.3302698] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:30:23.3451865] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 11852
+[07:30:23.3608816] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:30:23.4700554] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:30:24.0196730] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:30:24.0326482] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[07:30:24.0666982] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[07:30:24.0732515] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[07:30:24.0744053] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[08:39:50.9452284] [Info] <>c__DisplayClass19_0::<HandleCommandLineArguments>b__1
+    Triggered PID-based exit handler for PID 11852.
+[08:39:50.9623379] [Info] Program::Exit
+    Terminating from process binding hook.
+[08:39:50.9710371] [Info] Manager::SetPassiveKeepAwake
+    Operating in passive mode (computer's standard power plan). No custom keep awake settings enabled.
+[08:39:50.9715525] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[08:39:50.9722568] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[08:39:50.9749726] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS

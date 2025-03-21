@@ -1,0 +1,108 @@
+[07:50:53.3366520] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[07:50:57.3485410] [Info] <>c__DisplayClass19_0::<InitializeTray>b__1
+    Created HWND for the window: 66220
+[07:50:57.3863400] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66259 and HWnd is 66220. Invoked by InitializeTray.
+[07:50:57.5216404] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66259 and HWnd is 66220. Invoked by InitializeTray.
+[07:50:57.7201135] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66259 and HWnd is 66220. Invoked by InitializeTray.
+[07:50:57.7208868] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by InitializeTray.
+[07:50:57.7968626] [Info] <Main>d__17::MoveNext
+    Launching Awake...
+[07:50:57.8033433] [Info] <Main>d__17::MoveNext
+    0.88.0.0
+[07:50:57.8075058] [Info] <Main>d__17::MoveNext
+    Build: TILLSON_11272024
+[07:50:57.8101527] [Info] <Main>d__17::MoveNext
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:50:57.8130925] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[07:50:57.8206286] [Info] <Main>d__17::MoveNext
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:50:58.4643520] [Info] <Main>d__17::MoveNext
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":true,"SystemS4":true,"SystemS5":true,"HiberFilePresent":false,"FullWake":true,"VideoDimPresent":true,"ApmPresent":false,"UpsPresent":false,"ThermalControl":true,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAAAAA==","ProcessorMaxThrottle":0,"FastSystemS4":false,"Hiberboot":false,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[07:50:58.4650458] [Info] <Main>d__17::MoveNext
+    Parsing parameters...
+[07:50:58.6490701] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[07:50:58.6513697] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:50:58.6528047] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:50:58.6542380] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:50:58.6548995] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 16124
+[07:50:58.6555181] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:50:58.6561289] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[07:50:58.9394896] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:50:59.9148050] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:51:00.1296009] [Info] Manager::CancelExistingThread
+    Ensuring the thread is properly cleaned up...
+[07:51:00.1319617] [Info] Manager::CancelExistingThread
+    New token source and thread token instantiated.
+[07:51:00.1336686] [Info] Manager::SetIndefiniteKeepAwake
+    Indefinite keep-awake starting, invoked by ProcessSettings...
+[07:51:00.1367116] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[07:51:00.2456718] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[07:51:00.2471877] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_CONTINUOUS
+[07:51:00.2484247] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[07:51:00.3547593] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[07:51:00.3556347] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Update and error code: -2147467259. Invoked by SetModeShellIcon.
+[07:51:00.3568866] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 16124
+[07:51:18.3515241] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[07:56:26.6034776] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[07:56:26.6225820] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[07:56:29.8097420] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[07:56:29.9232761] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[07:56:29.9236210] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[08:45:49.8596590] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[08:45:49.8968135] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:45:52.3605402] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:45:54.2859590] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:45:54.2865221] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[08:55:21.1676771] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[08:55:21.1857748] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:55:29.3816725] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: 1460. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:55:30.4821962] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: 1008. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:55:30.4845837] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: 1008. Invoked by SetModeShellIcon.
+[08:55:41.6243073] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[08:55:41.6768292] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:55:44.6385858] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:55:44.7815127] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 197347 and HWnd is 66220. Invoked by SetModeShellIcon.
+[08:55:44.7819614] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.

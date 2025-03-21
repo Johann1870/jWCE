@@ -1,0 +1,6 @@
+[2024-05-15 07:40:17.415839] [p-12788] [t-15444] [info] launcher logger is initialized
+[2024-05-15 07:40:17.416359] [p-12788] [t-15444] [info] Launcher object is constructing
+[2024-05-15 12:58:46.887493] [p-11328] [t-14300] [info] launcher logger is initialized
+[2024-05-15 12:58:46.887889] [p-11328] [t-14300] [info] Launcher object is constructing
+[2024-05-15 13:02:25.441043] [p-16332] [t-16336] [info] launcher logger is initialized
+[2024-05-15 13:02:25.441450] [p-16332] [t-16336] [info] Launcher object is constructing

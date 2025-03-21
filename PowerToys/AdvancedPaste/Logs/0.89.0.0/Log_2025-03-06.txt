@@ -1,0 +1,2 @@
+[07:56:55.9177066] [Debug] CustomActionKernelQueryCacheService.cs::.ctor::55
+    Kernel query cache initialized with 0 items

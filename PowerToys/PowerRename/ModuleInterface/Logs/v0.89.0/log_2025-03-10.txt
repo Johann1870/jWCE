@@ -1,0 +1,2 @@
+[2025-03-10 07:42:15.819098] [p-9440] [t-11464] [info] powerrename logger is initialized
+[2025-03-10 07:42:23.278000] [p-9440] [t-11464] [info] PowerRename enabled

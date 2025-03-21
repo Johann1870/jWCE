@@ -1,0 +1,102 @@
+[07:36:46.1187153] [Info] Program::Main
+    Launching Awake...
+[07:36:46.3182955] [Info] Program::Main
+    0.84.0.0
+[07:36:46.3188354] [Info] Program::Main
+    Build: VISEGRADRELAY_08152024
+[07:36:46.3353858] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:36:46.5341329] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:36:47.1082176] [Info] Program::Main
+    {}
+[07:36:47.1086900] [Info] Program::Main
+    Parsing parameters...
+[07:36:47.5214349] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:36:47.5236988] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:36:47.5246913] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:36:47.5258262] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15676
+[07:36:47.5265026] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:36:47.5272042] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: True
+[07:36:47.6351315] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake
+Action: Add
+[07:36:47.6498715] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 198031
+HWnd: 131188
+[07:36:47.7276169] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:36:48.0588806] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:36:48.0811154] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake [Indefinite]
+Action: Update
+[07:36:48.0875133] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 67019
+HWnd: 131188
+[07:36:48.1762392] [Error] Program::ProcessSettings
+    There was a problem reading the configuration file. Error: System.ComponentModel.Win32Exception Failed to change tray icon. Action: Update and error code: -2147467259
+[07:36:48.1770883] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 15676
+[13:31:10.4006477] [Info] Program::Main
+    Launching Awake...
+[13:31:10.4187225] [Info] Program::Main
+    0.84.0.0
+[13:31:10.4192771] [Info] Program::Main
+    Build: VISEGRADRELAY_08152024
+[13:31:10.4214026] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[13:31:10.6877598] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[13:31:10.8579379] [Info] Program::Main
+    {}
+[13:31:10.8588800] [Info] Program::Main
+    Parsing parameters...
+[13:31:11.0521701] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[13:31:11.0544332] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[13:31:11.0550809] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[13:31:11.0557490] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15568
+[13:31:11.0565327] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[13:31:11.0612413] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: True
+[13:31:11.0921142] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake
+Action: Add
+[13:31:11.1117687] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 67080
+HWnd: 393460
+[13:31:11.1602199] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[13:31:11.4531568] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[13:31:11.4785555] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake [Indefinite]
+Action: Update
+[13:31:11.4795557] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 132626
+HWnd: 393460
+[13:31:11.4816283] [Info] Manager::CancelExistingThread
+    Attempting to ensure that the thread is properly cleaned up...
+[13:31:11.4844678] [Info] Manager::CancelExistingThread
+    Instantiating of new token source and thread token completed.
+[13:31:11.4867097] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 15568
+[13:31:11.4874955] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_CONTINUOUS
+[13:31:11.4886849] [Info] <>c::<StartMonitor>b__17_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS

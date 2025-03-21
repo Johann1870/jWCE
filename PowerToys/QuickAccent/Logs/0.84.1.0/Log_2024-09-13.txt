@@ -1,0 +1,27 @@
+[07:38:56.0654134] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=14828
+[07:39:40.7456648] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent
+[07:50:35.8375706] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=14464
+[10:12:49.1353111] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent
+[10:15:28.4652162] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=15256
+[10:17:10.5629919] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent
+[10:20:29.5453001] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=14344
+[10:22:29.6583476] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent
+[10:25:11.1259221] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=15296
+[10:27:14.8309037] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent
+[10:29:58.8975547] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=13484
+[11:47:33.8303547] [Info] <>c::<Arguments>b__5_0
+    PowerToys Runner exited. Exiting QuickAccent
+[11:54:51.7738772] [Info] Program::Arguments
+    QuickAccent started from the PowerToys Runner. Runner pid=15092
+[16:08:44.9101785] [Info] <>c::<Arguments>b__5_0

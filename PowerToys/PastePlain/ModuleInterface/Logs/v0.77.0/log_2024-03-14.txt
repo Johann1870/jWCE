@@ -1,0 +1,1 @@
+[2024-03-14 09:00:15.131534] [p-15552] [t-15556] [info] PastePlain logger is initialized

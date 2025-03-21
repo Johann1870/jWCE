@@ -1,0 +1,40 @@
+[10:48:19.3551585] [Trace] App::OnStartup
+[10:48:19.3574475] [Trace] FancyZonesEditorIO::ParseParams
+[10:48:19.4020957] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[10:48:19.4024570] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[10:48:19.4241187] [Trace] FancyZonesEditorIO::ParseAppliedLayouts
+[10:48:19.4250703] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[10:48:19.4253694] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[10:48:19.4447344] [Trace] FancyZonesEditorIO::ParseCustomLayouts
+[10:48:19.4521857] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[10:48:19.4524811] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[10:48:19.4608961] [Trace] FancyZonesEditorIO::ParseLayoutHotkeys
+[10:48:19.4654422] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[10:48:19.4656772] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[10:48:19.4772487] [Trace] FancyZonesEditorIO::ParseLayoutTemplates
+[10:48:19.4787869] [Trace] Overlay::Show
+[10:48:19.5437320] [Trace] Overlay::Show
+[10:48:19.8407080] [Info] LayoutPreview::OnLoaded
+    Loaded Right Monitor
+[10:48:20.3303705] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[10:48:20.3309129] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[10:48:20.3314255] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[10:48:20.3320508] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[10:48:20.3326122] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[10:48:20.3331728] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[10:48:20.3337310] [Info] LayoutPreview::OnLoaded
+    Loaded Right Monitor
+[10:48:20.3344613] [Info] LayoutPreview::OnLoaded
+    Loaded Left Monitor
+[10:48:28.9716122] [Trace] MainWindow::OnClosing
+[10:48:28.9730912] [Trace] MainWindow::OnClosing
+[10:48:29.0411388] [Info] App::Dispose
+    FancyZones Editor disposed
+[10:48:29.0414349] [Info] App::App_WaitExit
+    Exit event triggered

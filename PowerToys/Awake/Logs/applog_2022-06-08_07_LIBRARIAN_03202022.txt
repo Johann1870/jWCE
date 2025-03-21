@@ -1,0 +1,56 @@
+[2022-06-08 07:48:32.0891 INFO Awake.Program] Launching Awake...
+[2022-06-08 07:48:32.1019 INFO Awake.Program] 0.59.0.0
+[2022-06-08 07:48:32.1019 INFO Awake.Program] Build: ARBITER_01312022
+[2022-06-08 07:48:32.1019 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19044.0
+[2022-06-08 07:48:32.1019 INFO Awake.Program] OS Build: Windows 10 Enterprise 21H2 19041.1.amd64fre.vb_release.191206-1406
+[2022-06-08 07:48:32.1481 INFO Awake.Program] {}
+[2022-06-08 07:48:32.1481 INFO Awake.Program] Parsing parameters...
+[2022-06-08 07:48:32.1749 INFO Awake.Program] Parameter setup complete. Proceeding to the rest of the app initiation...
+[2022-06-08 07:48:32.3476 INFO Awake.Program] The value for --use-pt-config is: True
+[2022-06-08 07:48:32.3476 INFO Awake.Program] The value for --display-on is: False
+[2022-06-08 07:48:32.3476 INFO Awake.Program] The value for --time-limit is: 0
+[2022-06-08 07:48:32.3476 INFO Awake.Program] The value for --pid is: 30296
+[2022-06-08 07:48:32.3846 INFO Awake.Program] Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[2022-06-08 07:48:32.3846 INFO Awake.Core.TrayHelper] Setting up the tray.
+[2022-06-08 07:48:32.4351 INFO Awake.Program] There was a problem reading the configuration file. Error: System.IO.FileNotFoundException Unable to find the specified file.
+[2022-06-08 07:48:32.4351 DEBUG Awake.Program] There was a problem reading the configuration file. Error: System.IO.FileNotFoundException Unable to find the specified file.
+[2022-06-08 07:52:11.5690 INFO Awake.Program] Launching Awake...
+[2022-06-08 07:52:11.6163 INFO Awake.Program] 0.59.0.0
+[2022-06-08 07:52:11.6163 INFO Awake.Program] Build: ARBITER_01312022
+[2022-06-08 07:52:11.6163 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19044.0
+[2022-06-08 07:52:11.6475 INFO Awake.Program] OS Build: Windows 10 Enterprise 21H2 19041.1.amd64fre.vb_release.191206-1406
+[2022-06-08 07:52:11.9425 INFO Awake.Program] {}
+[2022-06-08 07:52:11.9425 INFO Awake.Program] Parsing parameters...
+[2022-06-08 07:52:11.9912 INFO Awake.Program] Parameter setup complete. Proceeding to the rest of the app initiation...
+[2022-06-08 07:52:12.4803 INFO Awake.Program] The value for --use-pt-config is: True
+[2022-06-08 07:52:12.4803 INFO Awake.Program] The value for --display-on is: False
+[2022-06-08 07:52:12.4803 INFO Awake.Program] The value for --time-limit is: 0
+[2022-06-08 07:52:12.4803 INFO Awake.Program] The value for --pid is: 14448
+[2022-06-08 07:52:13.2326 INFO Awake.Program] Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[2022-06-08 07:52:13.2632 INFO Awake.Core.TrayHelper] Setting up the tray.
+[2022-06-08 07:52:13.4205 INFO Awake.Program] There was a problem reading the configuration file. Error: System.IO.FileNotFoundException Unable to find the specified file.
+[2022-06-08 07:52:13.4205 DEBUG Awake.Program] There was a problem reading the configuration file. Error: System.IO.FileNotFoundException Unable to find the specified file.
+[2022-06-08 07:56:01.7399 INFO Awake.Program] Detected a settings file change. Updating configuration...
+[2022-06-08 07:56:01.7399 INFO Awake.Program] Resetting keep-awake to normal state due to settings change.
+[2022-06-08 07:56:01.7399 INFO Awake.Program] Identified custom time shortcuts for the tray: 0
+[2022-06-08 07:56:01.7399 INFO Awake.Core.APIHelper] Initiated indefinite keep awake in background thread: 7400. Screen on: False
+[2022-06-08 07:56:53.2530 INFO Awake.Program] Triggered PID-based exit handler for PID 14448.
+[2022-06-08 07:56:53.2530 INFO Awake.Program] Terminating from process binding hook.
+[2022-06-08 07:56:53.2530 INFO Awake.Program] Exited keep-awake thread successfully: True
+[2022-06-08 07:56:53.2530 INFO Awake.Core.APIHelper] Confirmed background thread cancellation when disabling explicit keep awake.
+[2022-06-08 07:56:53.7681 INFO Awake.Program] Launching Awake...
+[2022-06-08 07:56:53.7766 INFO Awake.Program] 0.59.0.0
+[2022-06-08 07:56:53.7766 INFO Awake.Program] Build: ARBITER_01312022
+[2022-06-08 07:56:53.7766 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19044.0
+[2022-06-08 07:56:53.7766 INFO Awake.Program] OS Build: Windows 10 Enterprise 21H2 19041.1.amd64fre.vb_release.191206-1406
+[2022-06-08 07:56:53.8135 INFO Awake.Program] {}
+[2022-06-08 07:56:53.8135 INFO Awake.Program] Parsing parameters...
+[2022-06-08 07:56:53.8305 INFO Awake.Program] Parameter setup complete. Proceeding to the rest of the app initiation...
+[2022-06-08 07:56:53.9081 INFO Awake.Program] The value for --use-pt-config is: True
+[2022-06-08 07:56:53.9081 INFO Awake.Program] The value for --display-on is: False
+[2022-06-08 07:56:53.9081 INFO Awake.Program] The value for --time-limit is: 0
+[2022-06-08 07:56:53.9081 INFO Awake.Program] The value for --pid is: 19352
+[2022-06-08 07:56:53.9321 INFO Awake.Program] Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[2022-06-08 07:56:53.9321 INFO Awake.Core.TrayHelper] Setting up the tray.
+[2022-06-08 07:56:53.9974 INFO Awake.Program] Identified custom time shortcuts for the tray: 0
+[2022-06-08 07:56:53.9974 INFO Awake.Core.APIHelper] Initiated indefinite keep awake in background thread: 35800. Screen on: False

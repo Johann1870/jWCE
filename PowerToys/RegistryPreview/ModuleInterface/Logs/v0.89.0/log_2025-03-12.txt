@@ -1,0 +1,6 @@
+[2025-03-12 07:53:47.290404] [p-16176] [t-15468] [info] RegistryPreview logger is initialized
+[2025-03-12 07:53:47.291393] [p-16176] [t-15468] [info] Registry Preview object is constructing
+[2025-03-12 07:53:47.292036] [p-16176] [t-15468] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\command\Default:C:\Program Files\PowerToys\WinUI3Apps\PowerToys.RegistryPreview.exe "%1": RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-12 07:53:47.292282] [p-16176] [t-15468] [error] unApply of HKCU\Software\Classes\regfile\shell\preview\icon:C:\Program Files\PowerToys\WinUI3Apps\Assets\RegistryPreview\RegistryPreview.ico: RegOpenKeyExW failed: The system cannot find the file specified.
+[2025-03-12 07:53:47.350963] [p-16176] [t-15468] [error] Failed to unapply enabled registry change set.
+[2025-03-12 07:53:47.351367] [p-16176] [t-15468] [info] Registry Preview settings are empty

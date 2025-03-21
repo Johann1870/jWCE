@@ -1,0 +1,1 @@
+[2024-10-14 07:57:33.837961] [p-16708] [t-16712] [info] mouseWithoutBorders logger is initialized

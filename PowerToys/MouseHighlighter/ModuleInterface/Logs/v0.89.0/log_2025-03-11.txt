@@ -1,0 +1,1 @@
+[2025-03-11 07:19:40.523214] [p-15820] [t-15824] [info] mouse-highlighter logger is initialized

@@ -1,0 +1,3 @@
+[2023-05-21 09:53:49.375290] [p-15084] [t-14440] [info] shortcut-guide logger is initialized
+[2023-05-21 09:53:49.417697] [p-15084] [t-14440] [trace] Starting Shortcut Guide
+[2023-05-21 09:53:49.417933] [p-15084] [t-14440] [trace] Sending settings telemetry

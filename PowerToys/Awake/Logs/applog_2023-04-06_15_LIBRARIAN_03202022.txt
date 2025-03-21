@@ -1,0 +1,20 @@
+[2023-04-06 15:43:42.5301 INFO Awake.Program] Launching Awake...
+[2023-04-06 15:43:42.6341 INFO Awake.Program] 0.62.1.0
+[2023-04-06 15:43:42.6341 INFO Awake.Program] Build: ARBITER_01312022
+[2023-04-06 15:43:42.6341 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19045.0
+[2023-04-06 15:43:42.7413 INFO Awake.Program] OS Build: Windows 10 Enterprise 22H2 19041.1.amd64fre.vb_release.191206-1406
+[2023-04-06 15:43:42.7805 INFO Awake.Program] {}
+[2023-04-06 15:43:42.7805 INFO Awake.Program] Parsing parameters...
+[2023-04-06 15:43:42.8651 INFO Awake.Program] Parameter setup complete. Proceeding to the rest of the app initiation...
+[2023-04-06 15:43:45.3951 INFO Awake.Program] The value for --use-pt-config is: True
+[2023-04-06 15:43:45.3951 INFO Awake.Program] The value for --display-on is: False
+[2023-04-06 15:43:45.3951 INFO Awake.Program] The value for --time-limit is: 0
+[2023-04-06 15:43:45.3951 INFO Awake.Program] The value for --pid is: 14340
+[2023-04-06 15:43:46.6182 INFO Awake.Program] Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[2023-04-06 15:43:46.6226 INFO Awake.Core.TrayHelper] Setting up the tray.
+[2023-04-06 15:43:48.3555 INFO Awake.Program] Identified custom time shortcuts for the tray: 0
+[2023-04-06 15:43:48.3573 INFO Awake.Core.APIHelper] Initiated indefinite keep awake in background thread: 19508. Screen on: False
+[2023-04-06 15:51:58.4132 INFO Awake.Program] Triggered PID-based exit handler for PID 14340.
+[2023-04-06 15:51:58.4132 INFO Awake.Program] Terminating from process binding hook.
+[2023-04-06 15:51:58.4132 INFO Awake.Program] Exited keep-awake thread successfully: True
+[2023-04-06 15:51:58.4132 INFO Awake.Core.APIHelper] Confirmed background thread cancellation when disabling explicit keep awake.

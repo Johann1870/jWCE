@@ -1,0 +1,48 @@
+[07:24:54.9902656] [Info] Program::Main
+    Launching Awake...
+[07:24:55.0956843] [Info] Program::Main
+    0.84.1.0
+[07:24:55.0961479] [Info] Program::Main
+    Build: VISEGRADRELAY_08152024
+[07:24:55.1026354] [Info] Program::Main
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:24:55.1502093] [Info] Program::Main
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:24:55.4161358] [Info] Program::Main
+    {}
+[07:24:55.4166367] [Info] Program::Main
+    Parsing parameters...
+[07:24:55.7365007] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:24:55.7421602] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:24:55.7434717] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:24:55.7441187] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 14920
+[07:24:55.7447033] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:24:55.7452884] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: True
+[07:24:55.7793771] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake
+Action: Add
+[07:24:55.7928026] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 66335
+HWnd: 66336
+[07:24:55.8863084] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:24:56.4778137] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:24:56.4886430] [Info] TrayHelper::SetShellIcon
+    Setting the shell icon.
+Text: PowerToys Awake [Indefinite]
+Action: Update
+[07:24:56.4893927] [Info] TrayHelper::SetShellIcon
+    Adding or updating tray icon. HIcon handle is 66367
+HWnd: 66336
+[07:24:56.4901106] [Error] Program::ProcessSettings
+    There was a problem reading the configuration file. Error: System.ComponentModel.Win32Exception Failed to change tray icon. Action: Update and error code: -2147467259
+[07:24:56.4907725] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 14920

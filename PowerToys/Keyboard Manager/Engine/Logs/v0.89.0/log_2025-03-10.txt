@@ -1,0 +1,5 @@
+[2025-03-10 07:42:23.575945] [p-16572] [t-16576] [info] keyboard-manager logger is initialized
+[2025-03-10 07:42:23.695520] [p-16572] [t-16576] [trace] SettingsHelper::LoadSettings()
+[2025-03-10 08:24:38.251453] [p-16572] [t-16576] [trace] ChordKeyboardHandler:keyEventList.size:6
+[2025-03-10 08:24:40.415018] [p-16572] [t-16576] [trace] ChordKeyboardHandler:keyEventList.size:6
+[2025-03-10 08:24:41.614971] [p-16572] [t-16576] [trace] ChordKeyboardHandler:keyEventList.size:7

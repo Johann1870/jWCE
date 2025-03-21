@@ -1,0 +1,180 @@
+[07:58:53.0859194] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[07:58:53.2143229] [Info] <>c__DisplayClass19_0::<InitializeTray>b__1
+    Created HWND for the window: 197586
+[07:58:53.2337181] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66541 and HWnd is 197586. Invoked by InitializeTray.
+[07:58:53.3475368] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66541 and HWnd is 197586. Invoked by InitializeTray.
+[07:58:53.4725322] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66541 and HWnd is 197586. Invoked by InitializeTray.
+[07:58:53.4733050] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by InitializeTray.
+[07:58:53.5056587] [Info] <Main>d__17::MoveNext
+    Launching Awake...
+[07:58:53.5124889] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[07:58:53.5201950] [Info] <Main>d__17::MoveNext
+    0.87.1.0
+[07:58:53.5207501] [Info] <Main>d__17::MoveNext
+    Build: TILLSON_11272024
+[07:58:53.5361252] [Info] <Main>d__17::MoveNext
+    OS: Microsoft Windows NT 10.0.22631.0
+[07:58:53.5477222] [Info] <Main>d__17::MoveNext
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[07:58:54.1967600] [Info] <Main>d__17::MoveNext
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":true,"SystemS4":true,"SystemS5":true,"HiberFilePresent":false,"FullWake":true,"VideoDimPresent":true,"ApmPresent":false,"UpsPresent":false,"ThermalControl":true,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAAAAA==","ProcessorMaxThrottle":0,"FastSystemS4":false,"Hiberboot":false,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[07:58:54.2534227] [Info] <Main>d__17::MoveNext
+    Parsing parameters...
+[07:58:54.6442969] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[07:58:54.6456290] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[07:58:54.6463193] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[07:58:54.6471028] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[07:58:54.6477962] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 16052
+[07:58:54.6484797] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[07:58:54.6491462] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[07:58:54.8349398] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[07:58:56.1416097] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[07:58:56.1551325] [Info] Manager::CancelExistingThread
+    Ensuring the thread is properly cleaned up...
+[07:58:56.1571805] [Info] Manager::CancelExistingThread
+    New token source and thread token instantiated.
+[07:58:56.1590279] [Info] Manager::SetIndefiniteKeepAwake
+    Indefinite keep-awake starting, invoked by ProcessSettings...
+[07:58:56.1608770] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_CONTINUOUS
+[07:58:56.1774228] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[07:58:56.1919936] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[07:58:56.3004687] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[07:58:56.5284238] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Update, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[07:58:56.5347776] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Update and error code: -2147467259. Invoked by SetModeShellIcon.
+[07:58:56.5361087] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 16052
+[07:58:57.7436017] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[08:56:43.0518979] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[08:56:43.0917476] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[08:56:46.7788710] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[08:56:47.0976236] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[08:56:47.0979118] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[09:33:58.3856874] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[09:33:58.4483034] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[09:34:00.9700253] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[09:34:01.0907093] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[09:34:01.0918832] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[09:49:05.4163220] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[11:03:46.3429788] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[11:03:46.3960588] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[11:03:49.8506574] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[11:03:50.0226011] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[11:03:50.0240466] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[12:18:51.1217663] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[12:18:51.1722611] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[12:18:54.1690820] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[12:18:54.3663505] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[12:18:54.3669557] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[14:08:22.8109563] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[14:08:22.8438570] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[14:08:26.1980884] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[14:08:26.6012903] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[14:08:26.6023227] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[14:42:08.7736085] [Info] TrayHelper::WndProc
+    Taskbar re-created
+[14:42:08.9311916] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[14:42:11.6621867] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[14:42:11.8347713] [Info] TrayHelper::SetShellIcon
+    Could not set the shell icon. Action: Add, error code: -2147467259. HIcon handle is 66551 and HWnd is 197586. Invoked by SetModeShellIcon.
+[14:42:11.8360984] [Error] TrayHelper::SetShellIcon
+    Failed to change tray icon after 3 attempts. Action: Add and error code: -2147467259. Invoked by SetModeShellIcon.
+[19:06:41.5935382] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[19:06:41.7146374] [Info] <>c__DisplayClass19_0::<InitializeTray>b__1
+    Created HWND for the window: 66988
+[19:06:41.7717962] [Info] <>c__DisplayClass23_0::<RunOnMainThread>b__0
+    Thread execution is on: 4
+[19:06:41.7721235] [Info] <Main>d__17::MoveNext
+    Launching Awake...
+[19:06:41.8579634] [Info] <Main>d__17::MoveNext
+    0.87.1.0
+[19:06:41.8902521] [Info] <Main>d__17::MoveNext
+    Build: TILLSON_11272024
+[19:06:41.8923872] [Info] <Main>d__17::MoveNext
+    OS: Microsoft Windows NT 10.0.22631.0
+[19:06:41.9768370] [Info] <Main>d__17::MoveNext
+    OS Build: Windows 10 Enterprise 23H2 22621.1.amd64fre.ni_release.220506-1250
+[19:06:42.3703264] [Info] <Main>d__17::MoveNext
+    {"PowerButtonPresent":true,"SleepButtonPresent":true,"LidPresent":true,"SystemS1":false,"SystemS2":false,"SystemS3":true,"SystemS4":true,"SystemS5":true,"HiberFilePresent":false,"FullWake":true,"VideoDimPresent":false,"ApmPresent":false,"UpsPresent":false,"ThermalControl":true,"ProcessorThrottle":false,"ProcessorMinThrottle":0,"ProcessorThrottleScale":0,"Spare2":"AAAAAA==","ProcessorMaxThrottle":0,"FastSystemS4":false,"Hiberboot":false,"WakeAlarmPresent":false,"AoAc":false,"DiskSpinDown":false,"Spare3":"AAAAAQAAAAA=","HiberFileType":0,"AoAcConnectivitySupported":false,"SystemBatteriesPresent":false,"BatteriesAreShortTerm":false,"BatteryScale":[{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0},{"Granularity":0,"Capacity":0}],"AcOnLineWake":"PowerSystemHibernate","SoftLidWake":"PowerSystemUnspecified","RtcWake":"PowerSystemUnspecified","MinDeviceWakeState":"PowerSystemUnspecified","DefaultLowLatencyWake":"PowerSystemUnspecified"}
+[19:06:42.4825735] [Info] <Main>d__17::MoveNext
+    Parsing parameters...
+[19:06:42.6154111] [Info] Program::HandleCommandLineArguments
+    Starting with PID binding.
+[19:06:42.6166934] [Info] Program::HandleCommandLineArguments
+    The value for --use-pt-config is: True
+[19:06:42.6174284] [Info] Program::HandleCommandLineArguments
+    The value for --display-on is: True
+[19:06:42.6182277] [Info] Program::HandleCommandLineArguments
+    The value for --time-limit is: 0
+[19:06:42.6188591] [Info] Program::HandleCommandLineArguments
+    The value for --pid is: 15148
+[19:06:42.6231852] [Info] Program::HandleCommandLineArguments
+    The value for --expire-at is: 
+[19:06:42.6240959] [Info] Program::HandleCommandLineArguments
+    The value for --use-parent-pid is: False
+[19:06:42.7040166] [Info] Program::HandleCommandLineArguments
+    Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[19:06:43.0810640] [Info] Program::ProcessSettings
+    Identified custom time shortcuts for the tray: 0
+[19:06:43.1093027] [Info] Manager::CancelExistingThread
+    Ensuring the thread is properly cleaned up...
+[19:06:43.1118684] [Info] Manager::CancelExistingThread
+    New token source and thread token instantiated.
+[19:06:43.1136475] [Info] Manager::SetIndefiniteKeepAwake
+    Indefinite keep-awake starting, invoked by ProcessSettings...
+[19:06:43.1221818] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_CONTINUOUS
+[19:06:43.1236055] [Info] <>c::<StartMonitor>b__35_0
+    Setting state to ES_SYSTEM_REQUIRED, ES_DISPLAY_REQUIRED, ES_CONTINUOUS
+[19:06:43.1584441] [Info] Program::HandleCommandLineArguments
+    Bound to target process while also using PowerToys settings: 15148

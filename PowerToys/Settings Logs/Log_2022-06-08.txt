@@ -1,0 +1,42 @@
+INFO: 07:48:32.7790027
+    [Method]: LoadSettingsFromJson [Class]: UserSettings
+    ColorPicker settings.json was missing, creating a new one
+INFO: 07:48:32.8899928
+    [Method]: Callback [Class]: StartHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 07:48:33.5188845
+    [Method]: <OnStartup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 07:52:28.8679892
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for PowerToys Run was not found.
+INFO: 07:58:10.1267949
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for FancyZones was not found.
+INFO: 08:05:57.0971519
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for File Explorer was not found.
+INFO: 08:08:47.4894899
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for FindMyMouse was not found.
+INFO: 08:08:47.4923534
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for MouseHighlighter was not found.
+INFO: 08:08:47.4946569
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for MousePointerCrosshairs was not found.
+ERROR: 08:10:00.6818145
+    [Method]: .ctor [Class]: ImageResizerViewModel
+    Exception encountered while reading Image Resizer settings.
+Unable to find the specified file.
+Inner exception: 
+
+Stack trace: 
+   at Microsoft.PowerToys.Settings.UI.Library.SettingsUtils.GetSettings[T](String powertoy, String fileName)
+   at Microsoft.PowerToys.Settings.UI.Library.ViewModels.ImageResizerViewModel..ctor(ISettingsUtils settingsUtils, ISettingsRepository`1 settingsRepository, Func`2 ipcMSGCallBackFunc, Func`2 resourceLoader)
+INFO: 09:10:11.3382253
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for Shortcut Guide was not found.
+INFO: 09:11:55.1441594
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for AlwaysOnTop was not found.

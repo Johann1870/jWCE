@@ -1,0 +1,4 @@
+[2024-10-30 07:52:55.322905] [p-908] [t-15904] [info] launcher logger is initialized
+[2024-10-30 07:52:55.323481] [p-908] [t-15904] [info] Launcher object is constructing
+[2024-10-30 07:53:20.538055] [p-908] [t-15904] [trace] Launching PowerToys Awake process
+[2024-10-30 07:53:20.538279] [p-908] [t-15904] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 908

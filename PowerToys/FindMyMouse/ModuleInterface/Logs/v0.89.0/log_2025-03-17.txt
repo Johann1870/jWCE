@@ -1,0 +1,15 @@
+[2025-03-17 07:37:48.833240] [p-12756] [t-12456] [info] find-my-mouse logger is initialized
+[2025-03-17 07:37:48.874888] [p-12756] [t-12456] [warning] Failed to get 'include windows key with ctrl' setting
+[2025-03-17 07:37:48.875257] [p-12756] [t-12456] [warning] Failed to initialize Shaking Interval Milliseconds from settings. Will use default value
+[2025-03-17 07:37:48.875523] [p-12756] [t-12456] [warning] Failed to initialize Shaking Factor from settings. Will use default value
+[2025-03-17 07:37:48.876829] [p-12756] [t-12456] [trace] GetHotkeyEx()
+[2025-03-17 07:48:18.419521] [p-13448] [t-15080] [info] find-my-mouse logger is initialized
+[2025-03-17 07:48:18.431163] [p-13448] [t-15080] [warning] Failed to get 'include windows key with ctrl' setting
+[2025-03-17 07:48:18.432120] [p-13448] [t-15080] [warning] Failed to initialize Shaking Interval Milliseconds from settings. Will use default value
+[2025-03-17 07:48:18.432488] [p-13448] [t-15080] [warning] Failed to initialize Shaking Factor from settings. Will use default value
+[2025-03-17 07:48:18.433102] [p-13448] [t-15080] [trace] GetHotkeyEx()
+[2025-03-17 21:23:23.106040] [p-6656] [t-13292] [info] find-my-mouse logger is initialized
+[2025-03-17 21:23:23.165899] [p-6656] [t-13292] [warning] Failed to get 'include windows key with ctrl' setting
+[2025-03-17 21:23:23.166863] [p-6656] [t-13292] [warning] Failed to initialize Shaking Interval Milliseconds from settings. Will use default value
+[2025-03-17 21:23:23.171666] [p-6656] [t-13292] [warning] Failed to initialize Shaking Factor from settings. Will use default value
+[2025-03-17 21:23:23.172861] [p-6656] [t-13292] [trace] GetHotkeyEx()

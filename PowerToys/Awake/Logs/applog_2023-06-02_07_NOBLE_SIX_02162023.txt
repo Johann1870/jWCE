@@ -1,0 +1,25 @@
+[2023-06-02 07:48:36.4974 INFO Awake.Program] Triggered PID-based exit handler for PID 10088.
+[2023-06-02 07:48:36.5573 INFO Awake.Program] Terminating from process binding hook.
+[2023-06-02 07:48:36.5573 INFO Awake.Core.APIHelper] Attempting to ensure that the thread is properly cleaned up...
+[2023-06-02 07:48:36.5573 INFO Awake.Core.APIHelper] Thread is clean.
+[2023-06-02 07:48:36.5573 INFO Awake.Core.APIHelper] Instantiating of new token source and thread token completed.
+[2023-06-02 07:53:39.4325 INFO Awake.Program] Launching Awake...
+[2023-06-02 07:53:39.4672 INFO Awake.Program] 0.69.1.0
+[2023-06-02 07:53:39.4672 INFO Awake.Program] Build: NOBLE_SIX_02162023
+[2023-06-02 07:53:39.4672 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19045.0
+[2023-06-02 07:53:39.4855 INFO Awake.Program] OS Build: Windows 10 Enterprise 22H2 19041.1.amd64fre.vb_release.191206-1406
+[2023-06-02 07:53:39.8871 INFO Awake.Program] {}
+[2023-06-02 07:53:39.8871 INFO Awake.Program] Parsing parameters...
+[2023-06-02 07:53:40.1058 INFO Awake.Program] Parameter setup complete. Proceeding to the rest of the app initiation...
+[2023-06-02 07:53:40.6194 INFO Awake.Program] The value for --use-pt-config is: True
+[2023-06-02 07:53:40.6194 INFO Awake.Program] The value for --display-on is: False
+[2023-06-02 07:53:40.6194 INFO Awake.Program] The value for --time-limit is: 0
+[2023-06-02 07:53:40.6194 INFO Awake.Program] The value for --pid is: 14388
+[2023-06-02 07:53:40.6194 INFO Awake.Program] The value for --expire is: 
+[2023-06-02 07:53:44.3066 INFO Awake.Program] Reading configuration file: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Awake\settings.json
+[2023-06-02 07:53:44.3187 INFO Awake.Core.TrayHelper] Setting up the tray.
+[2023-06-02 07:53:44.8259 INFO Awake.Program] Identified custom time shortcuts for the tray: 0
+[2023-06-02 07:53:44.8261 INFO Awake.Program] Operating in passive mode (computer's standard power plan). No custom keep awake settings enabled.
+[2023-06-02 07:53:44.9150 INFO Awake.Core.APIHelper] Attempting to ensure that the thread is properly cleaned up...
+[2023-06-02 07:53:44.9150 INFO Awake.Core.APIHelper] Thread is clean.
+[2023-06-02 07:53:44.9150 INFO Awake.Core.APIHelper] Instantiating of new token source and thread token completed.

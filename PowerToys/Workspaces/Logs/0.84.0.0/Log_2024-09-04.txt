@@ -1,0 +1,4 @@
+[08:49:33.4106907] [Info] App::OnStartup
+    WorkspacesEditor started from the PowerToys Runner. Runner pid=32356
+[08:49:33.5486889] [Warning] WorkspacesEditorIO::ParseWorkspaces
+    Workspaces storage file not found: C:\Users\jditzel\AppData\Local\Microsoft\PowerToys\Workspaces\workspaces.json

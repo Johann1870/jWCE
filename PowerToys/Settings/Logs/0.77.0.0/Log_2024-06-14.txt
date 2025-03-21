@@ -1,0 +1,18 @@
+[09:37:12.8792448] [Info] AwakePage::ViewModel_PropertyChanged
+    Saved general settings from Awake page.
+[09:37:12.8850544] [Info] AwakeViewModel::NotifyPropertyChanged
+    Changed the property IsEnabled
+[09:37:32.5827056] [Info] AwakePage::ViewModel_PropertyChanged
+    Saved Awake settings from Awake page.
+[09:37:32.5830909] [Info] AwakePage::ViewModel_PropertyChanged
+    Saved Awake settings from Awake page.
+[09:37:32.5833817] [Info] AwakePage::ViewModel_PropertyChanged
+    Saved Awake settings from Awake page.
+[09:37:32.5835778] [Info] AwakeViewModel::NotifyPropertyChanged
+    Changed the property Mode
+[09:37:32.5842125] [Info] AwakePage::ViewModel_PropertyChanged
+    Saved Awake settings from Awake page.
+[09:37:36.2302089] [Info] AwakeViewModel::NotifyPropertyChanged
+    Changed the property KeepDisplayOn
+[09:37:36.2305204] [Info] AwakePage::ViewModel_PropertyChanged
+    Saved Awake settings from Awake page.

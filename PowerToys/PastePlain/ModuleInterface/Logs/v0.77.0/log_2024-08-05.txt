@@ -1,0 +1,4 @@
+[2024-08-05 07:14:49.139722] [p-16636] [t-16640] [info] PastePlain logger is initialized
+[2024-08-05 07:33:50.262526] [p-15948] [t-15952] [info] PastePlain logger is initialized
+[2024-08-05 17:04:31.015973] [p-15948] [t-15952] [trace] PastePlain::destroy()
+[2024-08-05 17:29:17.179662] [p-6908] [t-6928] [info] PastePlain logger is initialized

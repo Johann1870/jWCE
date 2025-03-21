@@ -1,0 +1,7 @@
+[2024-09-13 07:38:40.846808] [p-14828] [t-14832] [info] mouseWithoutBorders logger is initialized
+[2024-09-13 07:50:22.182856] [p-14464] [t-14468] [info] mouseWithoutBorders logger is initialized
+[2024-09-13 10:15:16.735570] [p-15256] [t-15492] [info] mouseWithoutBorders logger is initialized
+[2024-09-13 10:20:14.422706] [p-14344] [t-12388] [info] mouseWithoutBorders logger is initialized
+[2024-09-13 10:24:53.464070] [p-15296] [t-11064] [info] mouseWithoutBorders logger is initialized
+[2024-09-13 10:29:39.642645] [p-13484] [t-15140] [info] mouseWithoutBorders logger is initialized
+[2024-09-13 11:54:35.366453] [p-15092] [t-15096] [info] mouseWithoutBorders logger is initialized

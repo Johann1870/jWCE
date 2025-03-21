@@ -1,0 +1,7 @@
+[2023-04-27 07:30:04.8537 INFO Awake.Program] Launching Awake...
+[2023-04-27 07:30:04.9449 INFO Awake.Program] 0.69.1.0
+[2023-04-27 07:30:04.9449 INFO Awake.Program] Build: NOBLE_SIX_02162023
+[2023-04-27 07:30:04.9449 INFO Awake.Program] OS: Microsoft Windows NT 10.0.19045.0
+[2023-04-27 07:30:05.0092 INFO Awake.Program] OS Build: Windows 10 Enterprise 22H2 19041.1.amd64fre.vb_release.191206-1406
+[2023-04-27 07:30:05.1768 INFO Awake.Program] {}
+[2023-04-27 07:30:05.1768 INFO Awake.Program] Parsing parameters...

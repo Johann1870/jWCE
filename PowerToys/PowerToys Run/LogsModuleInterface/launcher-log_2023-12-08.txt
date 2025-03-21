@@ -1,0 +1,3 @@
+[2023-12-08 16:11:26.012057] [p-13740] [t-13744] [info] Launcher object is destroying
+[2023-12-08 16:32:12.732738] [p-14424] [t-14436] [info] launcher logger is initialized
+[2023-12-08 16:32:12.732963] [p-14424] [t-14436] [info] Launcher object is constructing

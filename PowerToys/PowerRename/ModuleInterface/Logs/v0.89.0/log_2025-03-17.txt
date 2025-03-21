@@ -1,0 +1,6 @@
+[2025-03-17 07:37:48.102914] [p-12756] [t-12456] [info] powerrename logger is initialized
+[2025-03-17 07:37:56.507500] [p-12756] [t-12456] [info] PowerRename enabled
+[2025-03-17 07:48:17.362911] [p-13448] [t-15080] [info] powerrename logger is initialized
+[2025-03-17 07:48:24.772374] [p-13448] [t-15080] [info] PowerRename enabled
+[2025-03-17 21:23:22.541196] [p-6656] [t-13292] [info] powerrename logger is initialized
+[2025-03-17 21:23:28.667505] [p-6656] [t-13292] [info] PowerRename enabled

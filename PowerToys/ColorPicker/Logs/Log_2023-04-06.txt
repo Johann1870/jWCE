@@ -1,0 +1,21 @@
+INFO: 15:43:41.3701017
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=17564
+INFO: 15:43:49.4832009
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=14340
+WARNING: 15:43:52.4851293
+    [Method]: SetWindowPosition [Class]: ChangeWindowPositionBehavior
+    Failed to get monitor bounds for mouse position-1,1
+INFO: 15:43:53.6507175
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 15:51:58.4134982
+    [Method]: <OnStartup>b__13_0 [Class]: App
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 15:51:58.4470531
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 15:51:58.4478937
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

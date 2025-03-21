@@ -1,0 +1,4 @@
+[2025-03-18 07:09:49.221439] [p-16300] [t-16304] [info] launcher logger is initialized
+[2025-03-18 07:09:49.221793] [p-16300] [t-16304] [info] Launcher object is constructing
+[2025-03-18 07:09:51.265824] [p-16300] [t-16304] [trace] Launching PowerToys Awake process
+[2025-03-18 07:09:51.266070] [p-16300] [t-16304] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 16300

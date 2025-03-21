@@ -1,0 +1,1 @@
+[2025-03-13 07:39:01.813976] [p-16572] [t-16576] [info] ColorPicker logger is initialized

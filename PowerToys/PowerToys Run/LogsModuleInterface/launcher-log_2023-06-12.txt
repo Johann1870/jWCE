@@ -1,0 +1,1 @@
+[2023-06-12 13:43:03.334209] [p-15148] [t-20912] [info] Send settings telemetry

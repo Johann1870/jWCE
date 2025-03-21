@@ -1,0 +1,3 @@
+[2025-03-18 07:09:50.210571] [p-16300] [t-16304] [info] crop-and-lock logger is initialized
+[2025-03-18 07:09:51.497540] [p-16300] [t-16304] [info] CropAndLock enabling
+[2025-03-18 07:37:58.670446] [p-16300] [t-16824] [info] Send settings telemetry

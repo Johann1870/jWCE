@@ -1,0 +1,37 @@
+[2023-07-06 16:52:31.877948] [p-18760] [t-16296] [info] fancyzones logger is initialized
+[2023-07-06 16:52:32.061050] [p-18760] [t-16296] [trace] FancyZonesSettings::LoadSettings Enter
+[2023-07-06 16:52:32.061375] [p-18760] [t-27316] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2023-07-06 16:52:32.064994] [p-18760] [t-16296] [trace] FancyZonesSettings::LoadSettings Exit
+[2023-07-06 16:52:32.094588] [p-18760] [t-16296] [info] default-layouts.json file is missing or malformed
+[2023-07-06 16:52:32.117182] [p-18760] [t-27316] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2023-07-06 16:52:32.117711] [p-18760] [t-27316] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2023-07-06 16:52:32.123743] [p-18760] [t-16296] [info] AppZoneHistory Sync virtual desktops: current {FC3E79C2-F1A9-45BC-83C2-E2A20AB2D3D8}
+[2023-07-06 16:52:32.124089] [p-18760] [t-16296] [info] AppliedLayouts Sync virtual desktops: current {FC3E79C2-F1A9-45BC-83C2-E2A20AB2D3D8}
+[2023-07-06 16:52:32.124200] [p-18760] [t-16296] [info] Identifying monitors
+[2023-07-06 16:52:32.132099] [p-18760] [t-16296] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#ACR02C5#5&fbdeb3d&2&UID4608#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2023-07-06 16:52:32.140401] [p-18760] [t-16296] [info] Get display device for display \\.\DISPLAY5 : \\?\DISPLAY#HWP3221#5&fbdeb3d&2&UID4609#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2023-07-06 16:52:32.148926] [p-18760] [t-16296] [info] Get display device for display \\.\DISPLAY6 : \\?\DISPLAY#SPT0CB8#5&fbdeb3d&2&UID4610#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2023-07-06 16:52:32.241452] [p-18760] [t-16296] [info] InstanceName: DISPLAY\ACR02C5\5&fbdeb3d&2&UID4608_0
+[2023-07-06 16:52:32.241593] [p-18760] [t-16296] [info] Serial number: LV6AA0014239
+[2023-07-06 16:52:32.242639] [p-18760] [t-16296] [info] InstanceName: DISPLAY\HWP3221\5&fbdeb3d&2&UID4609_0
+[2023-07-06 16:52:32.242731] [p-18760] [t-16296] [info] Serial number: CNK80704C8
+[2023-07-06 16:52:32.243071] [p-18760] [t-16296] [info] InstanceName: DISPLAY\SPT0CB8\5&fbdeb3d&2&UID4610_0
+[2023-07-06 16:52:32.243179] [p-18760] [t-16296] [info] Serial number: 16843009
+[2023-07-06 16:52:32.245321] [p-18760] [t-16296] [info] Display changed, type: Initialization
+[2023-07-06 16:52:32.245434] [p-18760] [t-16296] [debug] Update work areas, update windows positions: false
+[2023-07-06 16:52:32.245519] [p-18760] [t-16296] [info] Identifying monitors
+[2023-07-06 16:52:32.253795] [p-18760] [t-16296] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#ACR02C5#5&fbdeb3d&2&UID4608#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2023-07-06 16:52:32.263445] [p-18760] [t-16296] [info] Get display device for display \\.\DISPLAY5 : \\?\DISPLAY#HWP3221#5&fbdeb3d&2&UID4609#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2023-07-06 16:52:32.271860] [p-18760] [t-16296] [info] Get display device for display \\.\DISPLAY6 : \\?\DISPLAY#SPT0CB8#5&fbdeb3d&2&UID4610#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2023-07-06 16:52:32.287472] [p-18760] [t-16296] [info] InstanceName: DISPLAY\ACR02C5\5&fbdeb3d&2&UID4608_0
+[2023-07-06 16:52:32.287595] [p-18760] [t-16296] [info] Serial number: LV6AA0014239
+[2023-07-06 16:52:32.288501] [p-18760] [t-16296] [info] InstanceName: DISPLAY\HWP3221\5&fbdeb3d&2&UID4609_0
+[2023-07-06 16:52:32.288590] [p-18760] [t-16296] [info] Serial number: CNK80704C8
+[2023-07-06 16:52:32.288930] [p-18760] [t-16296] [info] InstanceName: DISPLAY\SPT0CB8\5&fbdeb3d&2&UID4610_0
+[2023-07-06 16:52:32.289010] [p-18760] [t-16296] [info] Serial number: 16843009
+[2023-07-06 16:52:32.292889] [p-18760] [t-16296] [info] Creating new ZonesOverlay window, hWnd = 0x30b36
+[2023-07-06 16:52:32.816686] [p-18760] [t-16296] [info] Initialize layout on ACR02C5_5&fbdeb3d&2&UID4608_4_LV6AA0014239_{FC3E79C2-F1A9-45BC-83C2-E2A20AB2D3D8}, work area rect = 1920x1160
+[2023-07-06 16:52:32.820533] [p-18760] [t-16296] [info] Creating new ZonesOverlay window, hWnd = 0x20b20
+[2023-07-06 16:52:32.840855] [p-18760] [t-16296] [info] Initialize layout on HWP3221_5&fbdeb3d&2&UID4609_5_CNK80704C8_{FC3E79C2-F1A9-45BC-83C2-E2A20AB2D3D8}, work area rect = 1583x1080
+[2023-07-06 16:52:32.850748] [p-18760] [t-16296] [info] Creating new ZonesOverlay window, hWnd = 0x20b1e
+[2023-07-06 16:52:32.878390] [p-18760] [t-16296] [info] Initialize layout on SPT0CB8_5&fbdeb3d&2&UID4610_6_16843009_{FC3E79C2-F1A9-45BC-83C2-E2A20AB2D3D8}, work area rect = 1920x1040

@@ -1,0 +1,12 @@
+[2024-02-01 07:45:37.290379] [p-15376] [t-15380] [info] FileExplorer logger is initialized
+[2024-02-01 07:45:37.290614] [p-15376] [t-15380] [info] Initializing PowerPreviewModule
+[2024-02-01 07:45:37.324085] [p-15376] [t-15380] [info] isApplied of HKCU\Software\Classes\CLSID\{A5A41CC7-02CB-41D4-8C9B-9087040D6098}\DisplayName:Pdf Preview Handler: RegOpenKeyExW failed: The system cannot find the file specified.
+[2024-02-01 07:45:37.377312] [p-15376] [t-15380] [info] isApplied of HKCU\Software\Classes\CLSID\{D8BB9942-93BD-412D-87E4-33FAB214DC1A}\DisplayName:Pdf Thumbnail Provider: RegOpenKeyExW failed: The system cannot find the file specified.
+[2024-02-01 15:26:37.306113] [p-14360] [t-14356] [info] FileExplorer logger is initialized
+[2024-02-01 15:26:37.340188] [p-14360] [t-14356] [info] Initializing PowerPreviewModule
+[2024-02-01 15:26:37.404659] [p-14360] [t-14356] [info] isApplied of HKCU\Software\Classes\CLSID\{A5A41CC7-02CB-41D4-8C9B-9087040D6098}\DisplayName:Pdf Preview Handler: RegOpenKeyExW failed: The system cannot find the file specified.
+[2024-02-01 15:26:37.409355] [p-14360] [t-14356] [info] isApplied of HKCU\Software\Classes\CLSID\{D8BB9942-93BD-412D-87E4-33FAB214DC1A}\DisplayName:Pdf Thumbnail Provider: RegOpenKeyExW failed: The system cannot find the file specified.
+[2024-02-01 16:59:46.009893] [p-16076] [t-16080] [info] FileExplorer logger is initialized
+[2024-02-01 16:59:46.057151] [p-16076] [t-16080] [info] Initializing PowerPreviewModule
+[2024-02-01 16:59:46.182229] [p-16076] [t-16080] [info] isApplied of HKCU\Software\Classes\CLSID\{A5A41CC7-02CB-41D4-8C9B-9087040D6098}\DisplayName:Pdf Preview Handler: RegOpenKeyExW failed: The system cannot find the file specified.
+[2024-02-01 16:59:46.183679] [p-16076] [t-16080] [info] isApplied of HKCU\Software\Classes\CLSID\{D8BB9942-93BD-412D-87E4-33FAB214DC1A}\DisplayName:Pdf Thumbnail Provider: RegOpenKeyExW failed: The system cannot find the file specified.
