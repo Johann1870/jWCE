@@ -3,6 +3,7 @@
 ### `about:config`
 * `browser.bookmarks.autoExportHTML` = `true`
 * `browser.bookmarks.file` = `C:\Users\johan\Github\jWCE\Firefox\personal_bookmarks.html`
+"C:\Users\jditzel\Github\jWCE\Firefox\Atlassian_bookmarks.html"
 
 # Separate profiles
 
