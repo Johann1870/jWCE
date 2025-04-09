@@ -24,16 +24,16 @@
         <Replace name="&apos;" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\jditzel\AppData\Roaming\Mozilla\Firefox\Profiles\q4k8u7ic.default-release\chrome\userContent.css" />
-        <File filename="G:\Misc\greasemonkey scripts\Salesforce_fields.css" />
-        <File filename="W:\lib\Q-Dir_work.ini" />
-        <File filename="C:\Users\jditzel\.port\PortableApps\FirefoxPortable\Data\profile\chrome\userChrome.css" />
-        <File filename="C:\Users\jditzel\scoop\apps\scoop\current\bin\install.ps1" />
-        <File filename="C:\Users\jditzel\scoop\apps\scoop\current\bin\scoop.ps1" />
         <File filename="C:\Users\jditzel\scoop\buckets\extras\bucket\inkscape.json" />
         <File filename="C:\Users\jditzel\scoop\shims\7z.shim" />
         <File filename="C:\Users\jditzel\scoop\buckets\main\bucket\7zip.json" />
         <File filename="C:\Users\jditzel\scoop\shims\au3check.shim" />
+        <File filename="W:\__Filing Systems\82200 Filing System (Middle Earth)\500\520\529 Chronology\Imladris.py" />
+        <File filename="C:\Users\jditzel\Github\jWCE\Firefox\Firefox_configs.md" />
+        <File filename="X:\CEenv.cmd" />
+        <File filename="X:\cupcake.cmd" />
+        <File filename="G:\Misc\greasemonkey scripts\Jira Field Names.js" />
+        <File filename="C:\Users\jditzel\Github\Misc\greasemonkey scripts\Confluence_perms.css" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -52,10 +52,10 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" backspaceUnindent="no" />
-        <GUIConfig name="AppPosition" x="375" y="130" width="885" height="738" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="-56" y="10" width="885" height="738" isMaximized="yes" />
         <GUIConfig name="FindWindowPosition" left="-906" top="700" right="-303" bottom="1059" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250401">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250417">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">0</GUIConfig>
