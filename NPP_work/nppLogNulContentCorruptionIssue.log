@@ -1,0 +1,9 @@
+2025-05-20 18:53:08  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2025-05-20 18:53:08  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2025-05-20 18:53:09  C:\Users\jditzel\Github\jWCE\NPP_work\config.xml is opened.
+2025-05-20 18:53:09  C:\Users\jditzel\Github\jWCE\NPP_work\config.xml  11370/11370 bytes are written.
+2025-05-20 18:53:09  C:\Users\jditzel\Github\jWCE\NPP_work\config.xml is closed.
+2025-05-20 18:53:09  C:\Users\jditzel\.port\npp.8.7.8.portable.x64\session.xml is opened.
+2025-05-20 18:53:09  C:\Users\jditzel\.port\npp.8.7.8.portable.x64\session.xml  1445/1445 bytes are written.
+2025-05-20 18:53:09  C:\Users\jditzel\.port\npp.8.7.8.portable.x64\session.xml is closed.
+2025-05-20 18:53:09  WM_DESTROY (isEndSessionStarted == true)

@@ -1,7 +1,0 @@
-There are a number of issues here:
-
-@Mallik Nimmagadda Can I clarify what is meant by original case owner? Is this referring to the first value in the Case Owner field? If so, for TSS cases, it would always be a Service Account or one of the Queues. We can pass the owner of the case at the time of being Escalated to SEAD but there is no guarantee that it is a person at this point or even that it is the first person on the case.
-
-I spoke with Ross about the feasibility of pulling the historical data for the case owner field. Historical data lives in a seperate table and cannot be queried directly, meaning there is no way for an integration to directly pull this data. It would not be performant to pass this data to a new field for cases.
-
-Discussion of the case should be happening via case comments and the Slack channel, not in an undocumented side channel. The current owner of the TSS case owns the case and has all history and documentation on the case on the CS side. SEAD should be contacting them through the approved channels.
